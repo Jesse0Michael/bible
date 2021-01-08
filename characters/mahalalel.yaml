@@ -1,0 +1,11 @@
+name: Mahalalel
+sex: male
+parents:
+  - name: Kenan
+    ref: kenan.yaml
+children:
+  - name: Jared
+    ref: jared.yaml
+info:
+  - note: Lived to be 895 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge5.17

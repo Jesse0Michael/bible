@@ -1,0 +1,15 @@
+name: Abel
+sex: male
+meaning: breath, herdsman
+parents:
+  - name: Adam
+    ref: adam.yaml
+  - name: Eve
+    ref: eve.yaml
+info:
+  - note: Adam and Eve's second born son. Keeper of the Sheep.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.2
+  - note: Offered God the firstborn of his flock. Was well regarded for his offering
+    ref: https://ref.ly/logosref/BibleESV.Ge4.4
+  - note: Killed by his brother, Cain
+    ref: https://ref.ly/logosref/BibleESV.Ge4.8-10

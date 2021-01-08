@@ -1,0 +1,6 @@
+name: Enoch
+characters:
+  - name: Cain
+    ref: ../characters/cain.yaml
+  - name: Enoch
+    ref: ../characters/enoch.yaml

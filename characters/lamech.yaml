@@ -1,0 +1,22 @@
+name: Lamech
+sex: male
+spouse:
+  - name: Adah
+    ref: Adah.yaml
+  - name: Zillah
+    ref: zillah.yaml
+parents:
+  - name: Methushael
+    ref: methushael.yaml
+children:
+  - name: Jabal
+    ref: jabal.yaml
+  - name: Jubal
+    ref: jubal.yaml
+  - name: Tubal-cain
+    ref: tubal-cain.yaml
+  - name: Naamah
+    ref: naamah.yaml
+info:
+  - note: Killed a man and proclaimed that vengeance against him would be worse than vengeance against Cain
+    ref: https://ref.ly/logosref/BibleESV.Ge4.23-24

@@ -1,0 +1,5 @@
+name: Ham
+sex: male
+parents:
+  - note: Noah
+    ref: noah.yaml

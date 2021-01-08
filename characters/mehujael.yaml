@@ -1,0 +1,8 @@
+name: Mehujael
+sex: male
+parents:
+  - name: Irad
+    ref: irad.yaml
+children:
+  - name: Methushael
+    ref: methushael.yaml

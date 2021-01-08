@@ -1,0 +1,22 @@
+name: Cain
+sex: male
+meaning: to acquire
+parents:
+  - name: Adam
+    ref: adam.yaml
+  - name: Eve
+    ref: eve.yaml
+locations:
+  - name: Nod
+    ref: ../locations/nod.yaml
+  - name: Enoch
+    ref: ../locations/enoch.yaml
+info:
+  - note: Adam and Eve's first born son. Keeper of the ground.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.1-2
+  - note: Brought an offering of the 'fruit of the ground'.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.3
+  - note: Cain was angry and killed Abel in a field
+    ref: https://ref.ly/logosref/BibleESV.Ge4.5-8
+  - note: God cursed Cain for the murder of his brother. The ground would not longer yield its strength and he would a fugitive and a wanderer on the earth. Cain feared the punishment was too much, and that anyone who found him would kill him, but God promised that anyone who took vengeance no Cain would be dealt with sevenfold. God "marked" Cain so that no one would attack him, and sent him to the land of Nod, east of Eden.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.11-16

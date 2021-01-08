@@ -1,0 +1,27 @@
+name: Eve
+sex: female
+meaning: to live
+alias:
+  - Woman
+spouse:
+  - name: Adam
+    ref: adam.yaml
+children:
+  - name: Cain
+    ref: cain.yaml
+  - name: Abel
+    ref: abel.yaml
+  - name: Seth
+    ref: seth.yaml
+locations:
+  - name: Eden
+    ref: ../locations/eden.yaml
+info:
+  - note: God said it was not fit for man to be alone, so created a helper for Adam
+    ref: https://ref.ly/logosref/BibleESV.Ge2.18
+  - note: Eve was tricked by the serpent in the garden who said she will not die from eating the forbidden fruit. "your eyes will be opened, and you will be like God, knowing good and evil"
+    ref: https://ref.ly/logosref/BibleESV.Ge3.1-6
+  - note: Woman was cursed with increased pain in childbearing, and her desire shall be toward her husband, but he will rule over her.
+    ref: https://ref.ly/logosref/BibleESV.Ge3.16
+  - note: Not given the name Eve until 3:20. "because she is the mother of all living things"
+    ref: https://ref.ly/logosref/BibleESV.Ge3.20

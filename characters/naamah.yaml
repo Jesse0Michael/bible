@@ -1,0 +1,7 @@
+name: Naamah
+sex: female
+parents:
+  - name: Zillah
+    ref: zillah.yaml
+  - name: Lamech
+    ref: lamech.yaml

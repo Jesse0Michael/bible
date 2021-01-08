@@ -1,0 +1,8 @@
+name: Methushael
+sex: male
+parents:
+  - name: Mehujael
+    ref: mehujael.yaml
+children:
+  - name: Lamech
+    ref: lamech.yaml

@@ -1,0 +1,10 @@
+name: Tubal-cain
+sex: male
+parents:
+  - name: Lamech
+    ref: lamech.yaml
+  - name: Zillah
+    ref: zillah.yaml
+info:
+  - note: Forger of all instruments of bronze and iron.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.22

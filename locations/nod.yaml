@@ -1,0 +1,4 @@
+name: Nod
+characters:
+  - name: Cain
+    ref: ../characters/cain.yaml

@@ -1,0 +1,18 @@
+name: Noah
+meaning: to comfort, to give relief
+sex: male
+parents:
+  - name: Lamech
+    ref: lamech2.yaml
+children:
+  - name: Shem
+    ref: shem.yaml
+  - name: Ham
+    ref: ham.yaml
+  - name: Japeth
+    ref: japeth.yaml
+info:
+  - note: Called to be the relief from our work and painful toil of our hands.
+    ref: https://ref.ly/logosref/BibleESV.Ge5.29
+  - note: Found favor in the eyes of the LORD. He was a righteous, blameless man who walked with God.
+    ref: https://ref.ly/logosref/BibleESV.Ge6.8-9

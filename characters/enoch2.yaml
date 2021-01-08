@@ -1,0 +1,11 @@
+name: Enoch
+sex: male
+parents:
+  - name: Jared
+    ref: jared.yaml
+children:
+  - name: Methuselah
+    ref: methuselah.yaml
+info:
+  - note: Lived to be 365 years old, and then God took him. There is no recording of him dying. He walked with God and God took him
+    ref: https://ref.ly/logosref/BibleESV.Ge5.22-24

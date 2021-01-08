@@ -1,0 +1,5 @@
+name: Japeth
+sex: male
+parents:
+  - name: Noah
+    ref: noah.yaml

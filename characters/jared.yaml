@@ -1,0 +1,11 @@
+name: Jared
+sex: male
+parents:
+  - note: Mahalalel
+    ref: mahalalel.yaml
+children:
+  - name: Enoch
+    ref: enoch2.yaml
+info:
+  - note: Lived to be 962 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge5.20

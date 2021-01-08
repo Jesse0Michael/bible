@@ -1,0 +1,8 @@
+name: Irad
+sex: male
+parents:
+  - name: Enoch
+    ref: enoch.yaml
+children:
+  - name: Mehujael
+    ref: mehujael.yaml

@@ -1,0 +1,11 @@
+name: Jubal
+meaning: to produce
+sex: male
+parents:
+  - name: Adah
+    ref: adah.yaml
+  - name: Lamech
+    ref: lamech.yaml
+info:
+  - note: Father of all those who play the lyre and pipe.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.21

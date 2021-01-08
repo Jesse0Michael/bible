@@ -1,0 +1,10 @@
+name: Zillah
+sex: female
+spouse:
+  - name: Lamech
+    ref: lamech.yaml
+children:
+  - name: Tubal-cain
+    ref: tubal-cain.yaml
+  - name: Naamah
+    ref: naamah.yaml

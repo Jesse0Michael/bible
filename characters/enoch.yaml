@@ -1,0 +1,8 @@
+name: Enoch
+sex: male
+parents:
+  - name: Cain
+    ref: cain.yaml
+children:
+  - name: Irad
+    ref: irad.yaml

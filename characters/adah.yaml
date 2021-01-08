@@ -1,0 +1,10 @@
+name: Adah
+sex: female
+spouse:
+  - name: Lamech
+    ref: lamech.yaml
+children:
+  - name: Jabal
+    ref: jabal.yaml
+  - name: Jubal
+    ref: jubal.yaml
