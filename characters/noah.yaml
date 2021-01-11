@@ -11,8 +11,34 @@ children:
     ref: ham.yaml
   - name: Japeth
     ref: japeth.yaml
+locations:
+  - name: Ararat
+    ref: ../locations/ararat.yaml
 info:
   - note: Called to be the relief from our work and painful toil of our hands.
     ref: https://ref.ly/logosref/BibleESV.Ge5.29
   - note: Found favor in the eyes of the LORD. He was a righteous, blameless man who walked with God.
     ref: https://ref.ly/logosref/BibleESV.Ge6.8-9
+  - note: God told Noah about his plan to destroy all mankind on account of their violence and instructed Noah to build an ark
+    ref: https://ref.ly/logosref/BibleESV.Ge6.13-17
+  - note: God promised to establish a new covenant with Noah and his family.
+    ref: https://ref.ly/logosref/BibleESV.Ge6.18
+  - note: Noah was instructed to bring a male and female of every kind of animal on his ark, and every kind of food.
+    ref: https://ref.ly/logosref/BibleESV.Ge6.19-22
+  - note: Instructed to bring 7 pairs of clean animals, and 7 pairs of the birds of heaven, but a single pair of unclean animals.
+    commentary: This is maybe because the clean animals would be used in sacrifices
+    ref: https://ref.ly/logosref/BibleESV.Ge7.1-3
+  - note: Noah was told when and for how long the flood would occur. And he obeyed.
+    ref: https://ref.ly/logosref/BibleESV.Ge7.4-5
+  - note: The bible points out God's role in saving Noah and his family. God warned, instructed, and shut the door of the ark.
+    ref: https://ref.ly/logosref/BibleESV.Ge7.16
+  - note: Noah's ark rested on the top of the mountains of Ararat after 150 days
+    ref: https://ref.ly/logosref/BibleESV.Ge8.3-4
+  - note: Noah sent out a raven who went to and fro from the ark. He sent out a dove who returned. He waited and sent out the dove again, who returned with an olive leaf. Noah waited and sent out the dove a third time and did not return.
+    ref: https://ref.ly/logosref/BibleESV.Ge8.6-12
+  - note: God called out to Noah when the land was dry and him, his family, and the animals could leave the ark.
+    ref: https://ref.ly/logosref/BibleESV.Ge8.16-17
+  - note: Noah immediately built and Altar to the lord and offered a sacrifice of some of every clean bird, and every clean animal.
+    ref: https://ref.ly/logosref/BibleESV.Ge8.20
+  - note: God made a covenant with Noah, after the pleasing sacrifice he made, to never again curse the ground or strike down all flesh. "While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease."
+    ref: https://ref.ly/logosref/BibleESV.Ge8.21-22

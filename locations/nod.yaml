@@ -1,4 +1,4 @@
 name: Nod
-characters:
-  - name: Cain
-    ref: ../characters/cain.yaml
+info:
+  - note: Where Cain was exiled to after murdering his brother.
+    ref: https://ref.ly/logosref/BibleESV.Ge4.16
