@@ -1,0 +1,5 @@
+name: Put
+sex: male
+parents:
+- name: Ham
+  ref: ham.yaml

@@ -1,0 +1,5 @@
+name: Mash
+sex: male
+parents:
+- name: Aram
+  ref: aram.yaml

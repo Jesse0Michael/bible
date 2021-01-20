@@ -1,0 +1,5 @@
+name: Sheba
+sex: male
+parents:
+- name: Joktan
+  ref: joktan.yaml

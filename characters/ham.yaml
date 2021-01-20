@@ -1,5 +1,22 @@
 name: Ham
 sex: male
 parents:
-  - note: Noah
-    ref: noah.yaml
+- name: ""
+  ref: noah.yaml
+children:
+- name: Cush
+  ref: characters/cush.yaml
+- name: Egypt
+  ref: characters/egypt.yaml
+- name: Put
+  ref: characters/put.yaml
+- name: Canaan
+  ref: characters/canaan.yaml
+info:
+- note: Saw his father's nakedness, which resulted in his family line being cursed
+    to serve his brothers.
+  ref: https://ref.ly/logosref/BibleESV.Ge9.22
+  commentary: It is possible that all Ham did was literally see his father naked and
+    that insulted him, but some would interpret it to mean Ham had sex with his father.
+    But most would interpret it that he had sex with his mother. Hence why the curse
+    lies on Canaan, not Ham.

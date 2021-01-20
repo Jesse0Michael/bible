@@ -1,0 +1,5 @@
+name: Kittim
+sex: male
+parents:
+- name: Javan
+  ref: javan.yaml

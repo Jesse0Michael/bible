@@ -1,0 +1,5 @@
+name: Uz
+sex: male
+parents:
+- name: Aram
+  ref: aram.yaml

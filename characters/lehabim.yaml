@@ -1,0 +1,5 @@
+name: Lehabim
+sex: male
+parents:
+- name: Egypt
+  ref: egypt.yaml

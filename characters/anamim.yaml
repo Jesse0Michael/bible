@@ -1,0 +1,5 @@
+name: Anamim
+sex: male
+parents:
+- name: Egypt
+  ref: egypt.yaml

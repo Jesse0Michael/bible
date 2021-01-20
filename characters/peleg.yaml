@@ -1,0 +1,8 @@
+name: Peleg
+sex: male
+parents:
+  - name: Eber
+    ref: eber.yaml
+info:
+  - note: Days on earth were divided.
+    ref: https://ref.ly/logosref/BibleESV.Ge10.25

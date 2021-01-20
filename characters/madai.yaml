@@ -1,0 +1,5 @@
+name: Madai
+sex: male
+parents:
+- name: Japeth
+  ref: japeth.yaml

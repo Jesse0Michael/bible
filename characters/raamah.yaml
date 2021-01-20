@@ -1,0 +1,10 @@
+name: Raamah
+sex: male
+parents:
+- name: Cush
+  ref: cush.yaml
+children:
+- name: Sheba
+  ref: characters/sheba.yaml
+- name: Dedan
+  ref: characters/dedan.yaml

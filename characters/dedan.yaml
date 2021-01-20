@@ -1,0 +1,5 @@
+name: Dedan
+sex: male
+parents:
+- name: Raamah
+  ref: raamah.yaml

@@ -1,0 +1,5 @@
+name: Sabtah
+sex: male
+parents:
+- name: Cush
+  ref: cush.yaml

@@ -1,0 +1,5 @@
+name: Abimael
+sex: male
+parents:
+- name: Joktan
+  ref: joktan.yaml

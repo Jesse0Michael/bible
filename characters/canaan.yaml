@@ -1,0 +1,13 @@
+name: Canaan
+sex: male
+parents:
+  - name: Ham
+    ref: ham.yaml
+children:
+  - name: Sidon
+    ref: characters/sidon.yaml
+  - name: Heth
+    ref: characters/heth.yaml
+info:
+  - note: Fathered the Canaanite clans. The Jebusites, the Amorites, the Girgashites, the Hivites, the Arkites, the Sinites, the Arvadites, the Zemarites, and the Hamathites.
+    ref: https://ref.ly/logosref/BibleESV.Ge10.15-19

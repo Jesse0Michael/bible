@@ -1,0 +1,18 @@
+name: Cush
+sex: male
+parents:
+- name: Ham
+  ref: ham.yaml
+children:
+- name: Seba
+  ref: characters/seba.yaml
+- name: Havilah
+  ref: characters/havilah.yaml
+- name: Sabtah
+  ref: characters/sabtah.yaml
+- name: Raamah
+  ref: characters/raamah.yaml
+- name: Sabteca
+  ref: characters/sabteca.yaml
+- name: Nimrod
+  ref: characters/nimrod.yaml

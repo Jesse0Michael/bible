@@ -1,0 +1,14 @@
+name: Javan
+sex: male
+parents:
+- name: Japeth
+  ref: japeth.yaml
+children:
+- name: Elishah
+  ref: characters/elishah.yaml
+- name: Tarshish
+  ref: characters/tarshish.yaml
+- name: Kittim
+  ref: characters/kittim.yaml
+- name: Dodanim
+  ref: characters/dodanim.yaml

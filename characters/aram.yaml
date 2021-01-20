@@ -1,0 +1,14 @@
+name: Aram
+sex: male
+parents:
+- name: Shem
+  ref: shem.yaml
+children:
+- name: Uz
+  ref: characters/uz.yaml
+- name: Hul
+  ref: characters/hul.yaml
+- name: Gether
+  ref: characters/gether.yaml
+- name: Mash
+  ref: characters/mash.yaml

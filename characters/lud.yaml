@@ -1,0 +1,5 @@
+name: Lud
+sex: male
+parents:
+- name: Shem
+  ref: shem.yaml

@@ -1,0 +1,12 @@
+name: Gomer
+sex: male
+parents:
+- name: Japeth
+  ref: japeth.yaml
+children:
+- name: Ashkenaz
+  ref: characters/ashkenaz.yaml
+- name: Riphath
+  ref: characters/riphath.yaml
+- name: Togarmah
+  ref: characters/togarmah.yaml

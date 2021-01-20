@@ -1,0 +1,20 @@
+name: Egypt
+sex: male
+parents:
+- name: Ham
+  ref: ham.yaml
+children:
+- name: Ludim
+  ref: characters/ludim.yaml
+- name: Anamim
+  ref: characters/anamim.yaml
+- name: Lehabim
+  ref: characters/lehabim.yaml
+- name: Naphhtuhim
+  ref: characters/naphhtuhim.yaml
+- name: Pathrusim
+  ref: characters/pathrusim.yaml
+- name: Casluhim
+  ref: characters/casluhim.yaml
+- name: Caphtorim
+  ref: characters/caphtorim.yaml

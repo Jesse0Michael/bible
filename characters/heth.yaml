@@ -1,0 +1,5 @@
+name: Heth
+sex: male
+parents:
+- name: Canaan
+  ref: canaan.yaml

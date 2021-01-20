@@ -1,0 +1,10 @@
+name: Eber
+sex: male
+parents:
+- name: Shelah
+  ref: shelah.yaml
+children:
+- name: Peleg
+  ref: characters/peleg.yaml
+- name: Joktan
+  ref: characters/joktan.yaml

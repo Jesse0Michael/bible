@@ -1,0 +1,5 @@
+name: Sabteca
+sex: male
+parents:
+- name: Cush
+  ref: cush.yaml

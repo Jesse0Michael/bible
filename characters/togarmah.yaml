@@ -1,0 +1,5 @@
+name: Togarmah
+sex: male
+parents:
+- name: Gomer
+  ref: gomer.yaml

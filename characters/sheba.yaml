@@ -1,0 +1,5 @@
+name: Sheba
+sex: male
+parents:
+- name: Raamah
+  ref: raamah.yaml

@@ -1,0 +1,5 @@
+name: Elishah
+sex: male
+parents:
+- name: Javan
+  ref: javan.yaml

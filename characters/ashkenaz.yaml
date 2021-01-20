@@ -1,0 +1,5 @@
+name: Ashkenaz
+sex: male
+parents:
+- name: Gomer
+  ref: gomer.yaml

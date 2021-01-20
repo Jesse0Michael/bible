@@ -1,0 +1,8 @@
+name: Shelah
+sex: male
+parents:
+- name: Arpachshad
+  ref: arpachshad.yaml
+children:
+- name: Eber
+  ref: characters/eber.yaml

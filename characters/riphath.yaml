@@ -1,0 +1,5 @@
+name: Riphath
+sex: male
+parents:
+- name: Gomer
+  ref: gomer.yaml

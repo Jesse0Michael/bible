@@ -1,0 +1,32 @@
+name: Joktan
+sex: male
+parents:
+- name: Eber
+  ref: eber.yaml
+children:
+- name: Almodad
+  ref: characters/almodad.yaml
+- name: Sheleph
+  ref: characters/sheleph.yaml
+- name: Hazarmaveth
+  ref: characters/hazarmaveth.yaml
+- name: Jerah
+  ref: characters/jerah.yaml
+- name: Hadoram
+  ref: characters/hadoram.yaml
+- name: Uzal
+  ref: characters/uzal.yaml
+- name: Diklah
+  ref: characters/diklah.yaml
+- name: Obal
+  ref: characters/obal.yaml
+- name: Abimael
+  ref: characters/abimael.yaml
+- name: Sheba
+  ref: characters/sheba2.yaml
+- name: Ophir
+  ref: characters/ophir.yaml
+- name: Havilah
+  ref: characters/havilah2.yaml
+- name: Jobab
+  ref: characters/jobab.yaml

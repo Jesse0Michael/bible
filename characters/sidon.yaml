@@ -1,0 +1,5 @@
+name: Sidon
+sex: male
+parents:
+- name: Canaan
+  ref: canaan.yaml
