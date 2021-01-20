@@ -1,0 +1,19 @@
+##############################
+# Folders
+##############################
+.idea
+.vscode
+bin
+vendor
+
+##############################
+# Files
+##############################
+.DS_Store
+.AppleSingle
+.AppleDouble
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+coverage.out
+__debug_bin
