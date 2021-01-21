@@ -3,6 +3,10 @@ sex: male
 parents:
   - name: Eber
     ref: eber.yaml
+  - name: Reu
+    ref: reu.yaml
 info:
   - note: Days on earth were divided.
     ref: https://ref.ly/logosref/BibleESV.Ge10.25
+  - note: Lived to be 239 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.18-19

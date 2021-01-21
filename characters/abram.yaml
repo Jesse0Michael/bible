@@ -1,0 +1,13 @@
+name: Abram
+sex: male
+locations:
+  - name: Ur of Chaldeans
+    ref: ../locations/urofcaldeans.yaml
+  - name: Haran
+    ref: ../locations/haran.yaml
+parents:
+  - name: Terah
+    ref: terah.yaml
+spouse:
+  - name: Sarai
+    ref: sarai.yaml

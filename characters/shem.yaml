@@ -1,20 +1,23 @@
 name: Shem
 sex: male
 parents:
-- name: Noah
-  ref: noah.yaml
+  - name: Noah
+    ref: noah.yaml
 children:
-- name: Elam
-  ref: characters/elam.yaml
-- name: Asshur
-  ref: characters/asshur.yaml
-- name: Arpachshad
-  ref: characters/arpachshad.yaml
-- name: Lud
-  ref: characters/lud.yaml
-- name: Aram
-  ref: characters/aram.yaml
+  - name: Elam
+    ref: characters/elam.yaml
+  - name: Asshur
+    ref: characters/asshur.yaml
+  - name: Arpachshad
+    ref: arpachshad.yaml
+  - name: Lud
+    ref: characters/lud.yaml
+  - name: Aram
+    ref: characters/aram.yaml
 info:
-- note: Covered his father's nakedness and was blessed for it, that Canaan's family
-    would serve Shem's
-  ref: https://ref.ly/logosref/BibleESV.Ge9.26
+  - note:
+      Covered his father's nakedness and was blessed for it, that Canaan's family
+      would serve Shem's
+    ref: https://ref.ly/logosref/BibleESV.Ge9.26
+  - note: Lived to be 600 years old
+    ref: https://ref.ly/logosref/BibleESV.Ge11.10-11

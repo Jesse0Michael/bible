@@ -1,0 +1,22 @@
+name: Terah
+sex: male
+locations:
+  - name: Ur of Chaldeans
+    ref: ../locations/urofcaldeans.yaml
+  - name: Haran
+    ref: ../locations/haran.yaml
+parents:
+  - name: Nahor
+    ref: nahor.yaml
+children:
+  - name: Abram
+    ref: characters/abram.yaml
+  - name: Nahor
+    ref: characters/nahor2.yaml
+  - name: Haran
+    ref: characters/haran.yaml
+info:
+  - note: Took Abram, Sarai, and Lot from the Ur of Chaldeans to and settled in haran
+    ref: https://ref.ly/logosref/BibleESV.Ge11.31
+  - note: Lived to be 205 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.32

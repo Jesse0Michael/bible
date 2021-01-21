@@ -1,0 +1,11 @@
+name: Nahor
+sex: male
+parents:
+  - name: Serug
+    ref: serug.yaml
+children:
+  - name: Terah
+    ref: characters/terah.yaml
+info:
+  - note: Lived to be 148 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.24-25

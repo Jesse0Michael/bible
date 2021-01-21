@@ -1,10 +1,13 @@
 name: Eber
 sex: male
 parents:
-- name: Shelah
-  ref: shelah.yaml
+  - name: Shelah
+    ref: shelah.yaml
 children:
-- name: Peleg
-  ref: characters/peleg.yaml
-- name: Joktan
-  ref: characters/joktan.yaml
+  - name: Peleg
+    ref: characters/peleg.yaml
+  - name: Joktan
+    ref: characters/joktan.yaml
+info:
+  - note: Lived to be 464 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.16-17

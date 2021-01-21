@@ -1,0 +1,11 @@
+name: Serug
+sex: male
+parents:
+  - name: Reu
+    ref: reu.yaml
+children:
+  - name: Nahor
+    ref: characters/nahor.yaml
+info:
+  - note: Lived to be 230 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.22-23

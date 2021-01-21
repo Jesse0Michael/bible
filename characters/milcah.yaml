@@ -1,0 +1,8 @@
+name: Milcah
+sex: female
+parent:
+  - name: Haran
+    ref: haran.yaml
+spouse:
+  - name: Nahor
+    ref: nahor2.yaml

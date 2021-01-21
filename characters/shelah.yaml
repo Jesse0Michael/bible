@@ -1,8 +1,11 @@
 name: Shelah
 sex: male
 parents:
-- name: Arpachshad
-  ref: arpachshad.yaml
+  - name: Arpachshad
+    ref: arpachshad.yaml
 children:
-- name: Eber
-  ref: characters/eber.yaml
+  - name: Eber
+    ref: characters/eber.yaml
+info:
+  - note: Lived to be 438 years old.
+    ref: https://ref.ly/logosref/BibleESV.Ge11.14-15

@@ -1,0 +1,8 @@
+name: Nahor
+sex: male
+parents:
+  - name: Terah
+    ref: terah.yaml
+spouse:
+  - name: Milcah
+    ref: milcah.yaml

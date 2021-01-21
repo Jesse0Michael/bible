@@ -1,0 +1,11 @@
+name: Reu
+sex: male
+parents:
+- name: Peleg
+  ref: peleg.yaml
+children:
+- name: Serug
+  ref: characters/serug.yaml
+info:
+- note: Lived to be 239 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.20-21

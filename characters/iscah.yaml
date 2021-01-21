@@ -1,0 +1,5 @@
+name: Iscah
+sex: female
+parents:
+- name: Haran
+  ref: haran.yaml

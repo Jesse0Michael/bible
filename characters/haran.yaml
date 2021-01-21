@@ -1,0 +1,13 @@
+name: Haran
+sex: male
+parents:
+- name: Terah
+  ref: terah.yaml
+children:
+- name: Lot
+  ref: characters/lot.yaml
+- name: Iscah
+  ref: characters/iscah.yaml
+info:
+- note: Died in Ur of the Chaldeans, in the presence of his father's
+  ref: https://ref.ly/logosref/BibleESV.Ge11.28
