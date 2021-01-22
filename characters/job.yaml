@@ -1,0 +1,12 @@
+name: Job
+sex: male
+locations:
+  - name: Uz
+    ref: ../locations/uz.yaml
+info:
+  - note: Blameless and upright. Feared God. Was very wealthy and prosperous, had a healthy, large family.
+    ref: https://ref.ly/logosref/BibleESV.Job1.1-2
+  - note: Satan accuses God that Job is only blameless and upright because God has protected him and given him all things, but if he didn't have those blessings he would curse God too his face. God allows Satan to touch everything around Job, but not Job himself.
+    ref: https://ref.ly/logosref/BibleESV.Job1.9-12
+  - note: In one moment, 4 messengers come to tell Job that his oxen and donkeys were killed by Sabean raiders, his sheep were killed by fire from heaven, his camels were killed by Chaldean raiders, and his children were all killed in a house that collapsed. Even after all this Job tore his robe and worshiped God.
+    ref: https://ref.ly/logosref/BibleESV.Job1.13-22
