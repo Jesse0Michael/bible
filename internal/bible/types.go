@@ -9,6 +9,7 @@ type Character struct {
 	Sex       string      `yaml:"sex,omitempty"`
 	Locations []Reference `yaml:"locations,omitempty"`
 	Parents   []Reference `yaml:"parents,omitempty"`
+	Spouse    []Reference `yaml:"spouse,omitempty"`
 	Children  []Reference `yaml:"children,omitempty"`
 	Info      []Note      `yaml:"info,omitempty"`
 }

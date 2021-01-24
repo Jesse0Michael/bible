@@ -5,6 +5,8 @@ build:
 	go build -o ./bin/bible ./cmd/bible
 gen:
 	go generate ./...
+install: 
+	go install ./cmd/bible
 
 #################################################################################
 # TEST COMMANDS

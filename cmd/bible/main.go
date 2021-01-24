@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"os"
 
@@ -10,6 +9,55 @@ import (
 )
 
 func main() {
+	characterFlags := []cli.Flag{
+		&cli.StringFlag{
+			Name:    "sex",
+			Aliases: []string{"s"},
+			Usage:   "character sex",
+		},
+		&cli.StringFlag{
+			Name:    "parent",
+			Aliases: []string{"p"},
+			Usage:   "character parent (name or reference)",
+		},
+		&cli.StringFlag{
+			Name:    "spouse",
+			Aliases: []string{"sp"},
+			Usage:   "character spouse (name or reference)",
+		},
+		&cli.StringFlag{
+			Name:    "note",
+			Aliases: []string{"n"},
+			Usage:   "character note to be stored in info",
+		},
+		&cli.StringFlag{
+			Name:    "reference",
+			Aliases: []string{"r", "ref"},
+			Usage:   "reference for note (requires note)",
+		},
+		&cli.StringFlag{
+			Name:    "commentary",
+			Aliases: []string{"c"},
+			Usage:   "commentary for note (requires note)",
+		},
+	}
+	locationFlags := []cli.Flag{
+		&cli.StringFlag{
+			Name:    "note",
+			Aliases: []string{"n"},
+			Usage:   "character note to be stored in info",
+		},
+		&cli.StringFlag{
+			Name:    "reference",
+			Aliases: []string{"r", "ref"},
+			Usage:   "reference for note (requires note)",
+		},
+		&cli.StringFlag{
+			Name:    "commentary",
+			Aliases: []string{"c"},
+			Usage:   "commentary for note (requires note)",
+		},
+	}
 	app := cli.App{
 		Name:    "bible",
 		Version: "0.0.0",
@@ -22,27 +70,35 @@ func main() {
 						Name:      "character",
 						ArgsUsage: "NAME",
 						Usage:     "create a new character resource",
-						Flags: []cli.Flag{
-							&cli.StringFlag{
-								Name:    "sex",
-								Aliases: []string{"s"},
-								Usage:   "character sex",
-							},
-							&cli.StringFlag{
-								Name:    "parent",
-								Aliases: []string{"p"},
-								Usage:   "character parent (name or reference)",
-							},
-						},
-						Action: bible.CreateCharacter,
+						Flags:     characterFlags,
+						Action:    bible.CreateCharacter,
 					},
 					{
-						Name:  "location",
-						Usage: "create a new location resource",
-						Action: func(c *cli.Context) error {
-							fmt.Println("removed task template: ", c.Args().First())
-							return nil
-						},
+						Name:      "location",
+						ArgsUsage: "NAME",
+						Usage:     "create a new location resource",
+						Flags:     locationFlags,
+						Action:    bible.CreateLocation,
+					},
+				},
+			},
+			{
+				Name:  "update",
+				Usage: "update a resource",
+				Subcommands: []*cli.Command{
+					{
+						Name:      "character",
+						ArgsUsage: "NAME",
+						Usage:     "update a character resource",
+						Flags:     characterFlags,
+						Action:    bible.UpdateCharacter,
+					},
+					{
+						Name:      "location",
+						ArgsUsage: "NAME",
+						Usage:     "update a location resource",
+						Flags:     locationFlags,
+						Action:    bible.UpdateLocation,
 					},
 				},
 			},
