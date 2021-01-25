@@ -1,7 +1,9 @@
 package bible
 
 import (
+	"encoding/json"
 	"errors"
+	"fmt"
 	"io/ioutil"
 	"path/filepath"
 	"strings"
@@ -13,6 +15,41 @@ import (
 const (
 	characterDir = "characters"
 )
+
+func GetCharacter(c *cli.Context) error {
+	name := c.Args().First()
+	if name == "" {
+		return errors.New("Required arg NAME not set")
+	}
+
+	ref, err := FindReference(characterDir, name)
+	if err != nil {
+		return err
+	}
+	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	var character Character
+	err = yaml.Unmarshal(b, &character)
+	if err != nil {
+		return err
+	}
+
+	switch c.String("output") {
+	case "json":
+		b, err = json.Marshal(character)
+		if err != nil {
+			return err
+		}
+		fmt.Println(string(b))
+	default:
+		b, err = yaml.Marshal(character)
+		if err != nil {
+			return err
+		}
+		fmt.Println(string(b))
+	}
+
+	return nil
+}
 
 func CreateCharacter(c *cli.Context) error {
 	name := strings.Title(c.Args().First())

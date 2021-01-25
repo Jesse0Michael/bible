@@ -3,32 +3,32 @@ package bible
 type Characters map[string][]Character
 
 type Character struct {
-	Name      string      `yaml:"name"`
-	Filename  string      `yaml:"-"`
-	Meaning   string      `yaml:"meaning,omitempty"`
-	Sex       string      `yaml:"sex,omitempty"`
-	Locations []Reference `yaml:"locations,omitempty"`
-	Parents   []Reference `yaml:"parents,omitempty"`
-	Spouse    []Reference `yaml:"spouse,omitempty"`
-	Children  []Reference `yaml:"children,omitempty"`
-	Info      []Note      `yaml:"info,omitempty"`
+	Name      string      `yaml:"name" json:"name"`
+	Filename  string      `yaml:"-" json:"-"`
+	Meaning   string      `yaml:"meaning,omitempty" json:"meaning,omitempty"`
+	Sex       string      `yaml:"sex,omitempty" json:"sex,omitempty"`
+	Locations []Reference `yaml:"locations,omitempty" json:"locations,omitempty"`
+	Parents   []Reference `yaml:"parents,omitempty" json:"parents,omitempty"`
+	Spouse    []Reference `yaml:"spouse,omitempty" json:"spouse,omitempty" `
+	Children  []Reference `yaml:"children,omitempty" json:"children,omitempty"`
+	Info      []Note      `yaml:"info,omitempty" json:"info,omitempty"`
 }
 
 type Reference struct {
-	Name      string `yaml:"name"`
-	Reference string `yaml:"ref"`
+	Name      string `yaml:"name" json:"name"`
+	Reference string `yaml:"ref" json:"ref"`
 }
 
 type Note struct {
-	Note       string `yaml:"note"`
-	Reference  string `yaml:"ref"`
-	Commentary string `yaml:"commentary,omitempty"`
+	Note       string `yaml:"note" json:"note"`
+	Reference  string `yaml:"ref" json:"ref"`
+	Commentary string `yaml:"commentary,omitempty" json:"commentary,omitempty"`
 }
 
 type Locations map[string][]Location
 
 type Location struct {
-	Name     string `yaml:"name"`
-	Filename string `yaml:"-"`
-	Info     []Note `yaml:"info,omitempty"`
+	Name     string `yaml:"name" json:"name"`
+	Filename string `yaml:"-" json:"-"`
+	Info     []Note `yaml:"info,omitempty" json:"info,omitempty"`
 }

@@ -9,6 +9,13 @@ import (
 )
 
 func main() {
+	getFlags := []cli.Flag{
+		&cli.StringFlag{
+			Name:    "output",
+			Aliases: []string{"o"},
+			Usage:   "output format(yaml/json)",
+		},
+	}
 	characterFlags := []cli.Flag{
 		&cli.StringFlag{
 			Name:    "sex",
@@ -62,6 +69,26 @@ func main() {
 		Name:    "bible",
 		Version: "0.0.0",
 		Commands: []*cli.Command{
+			{
+				Name:  "get",
+				Usage: "get a resource",
+				Subcommands: []*cli.Command{
+					{
+						Name:      "character",
+						ArgsUsage: "NAME",
+						Usage:     "get a character resource",
+						Flags:     getFlags,
+						Action:    bible.GetCharacter,
+					},
+					{
+						Name:      "location",
+						ArgsUsage: "NAME",
+						Usage:     "get a location resource",
+						Flags:     getFlags,
+						Action:    bible.GetLocation,
+					},
+				},
+			},
 			{
 				Name:  "create",
 				Usage: "create a new resource",
