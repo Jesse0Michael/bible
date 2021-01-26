@@ -1,12 +1,41 @@
 name: Job
 sex: male
 locations:
-  - name: Uz
-    ref: ../locations/uz.yaml
+- name: Uz
+  ref: ../locations/uz.yaml
 info:
-  - note: Blameless and upright. Feared God. Was very wealthy and prosperous, had a healthy, large family.
-    ref: https://ref.ly/logosref/BibleESV.Job1.1-2
-  - note: Satan accuses God that Job is only blameless and upright because God has protected him and given him all things, but if he didn't have those blessings he would curse God too his face. God allows Satan to touch everything around Job, but not Job himself.
-    ref: https://ref.ly/logosref/BibleESV.Job1.9-12
-  - note: In one moment, 4 messengers come to tell Job that his oxen and donkeys were killed by Sabean raiders, his sheep were killed by fire from heaven, his camels were killed by Chaldean raiders, and his children were all killed in a house that collapsed. Even after all this Job tore his robe and worshiped God.
-    ref: https://ref.ly/logosref/BibleESV.Job1.13-22
+- note: Blameless and upright. Feared God. Was very wealthy and prosperous, had a
+    healthy, large family.
+  ref: https://ref.ly/logosref/BibleESV.Job1.1-2
+- note: Satan accuses God that Job is only blameless and upright because God has protected
+    him and given him all things, but if he didn't have those blessings he would curse
+    God too his face. God allows Satan to touch everything around Job, but not Job
+    himself.
+  ref: https://ref.ly/logosref/BibleESV.Job1.9-12
+- note: In one moment, 4 messengers come to tell Job that his oxen and donkeys were
+    killed by Sabean raiders, his sheep were killed by fire from heaven, his camels
+    were killed by Chaldean raiders, and his children were all killed in a house that
+    collapsed. Even after all this Job tore his robe and worshiped God.
+  ref: https://ref.ly/logosref/BibleESV.Job1.13-22
+- note: Satan tells God that, though Job still praised him when his possessions and
+    children were taken from him, He will surely curse God if his own life was effected.
+    God allowed Satan to afflict Job, as long as he did not kill him.
+  ref: https://ref.ly/logosref/BibleESV.Job2.4-6
+- note: Satan covered Job's body with sores.
+  ref: https://ref.ly/logosref/BibleESV.Job2.7-8
+- note: Even as His wife asked Job to curse God, he would not.
+  ref: https://ref.ly/logosref/BibleESV.Job2.9-10
+- note: Three friends, Eliphaz, Bildad, and Zophar, came to Job to comfort him.
+  ref: https://ref.ly/logosref/BibleESV.Job2.11
+- note: Job's friends wept, tore their robes, sprinkled dust on their heads, and sat
+    with Job for 7 days and 7 nights and no one spoke a word.
+  ref: https://ref.ly/logosref/BibleESV.Job2.12-13
+- note: Job curses the day he was ever born, and wishes he was never conceived.
+  ref: https://ref.ly/logosref/BibleESV.Job3.3-10
+- note: He wishes he would have died at child birth, or been born dead, rather than
+    to experience the things he had experienced.
+  ref: https://ref.ly/logosref/BibleESV.Job3.11-19
+- note: He wishes he was dead, and longs for it, but still has not cursed God.
+  ref: https://ref.ly/logosref/BibleESV.Job3.20-26
+  commentary: Job acknowledges God's role in surrounding him with suffering, but does
+    not curse him.
