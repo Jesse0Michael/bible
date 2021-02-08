@@ -133,6 +133,14 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		character.Spouse = append(character.Spouse, *spouse)
 	}
 
+	associate, err := addAssociate(c.String("associate"), ref)
+	if err != nil {
+		return character, err
+	}
+	if associate != nil {
+		character.Associates = append(character.Associates, *associate)
+	}
+
 	if c.String("note") != "" {
 		note := Note{
 			Note:       c.String("note"),
@@ -199,4 +207,32 @@ func addSpouse(spouse string, character Reference) (*Reference, error) {
 		return nil, err
 	}
 	return &Reference{Name: spouseCharacter.Name, Reference: ref}, nil
+}
+
+func addAssociate(associate string, character Reference) (*Reference, error) {
+	if associate == "" {
+		return nil, nil
+	}
+	ref, err := FindReference(characterDir, associate)
+	if err != nil {
+		return nil, err
+	}
+	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	var associateCharacter Character
+	err = yaml.Unmarshal(b, &associateCharacter)
+	if err != nil {
+		return nil, err
+	}
+
+	// Update associate reference
+	associateCharacter.Associates = append(associateCharacter.Associates, character)
+	b, err = yaml.Marshal(associateCharacter)
+	if err != nil {
+		return nil, err
+	}
+
+	if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+		return nil, err
+	}
+	return &Reference{Name: associateCharacter.Name, Reference: ref}, nil
 }

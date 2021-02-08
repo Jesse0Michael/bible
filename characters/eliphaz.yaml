@@ -1,5 +1,8 @@
 name: Eliphaz
 sex: male
+associates:
+- name: Job
+  ref: job.yaml
 info:
 - note: A Temanite who visited Job to comfort him.
   ref: https://ref.ly/logosref/BibleESV.Job2.11

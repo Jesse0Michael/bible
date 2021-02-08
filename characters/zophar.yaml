@@ -1,15 +1,16 @@
 name: Zophar
 sex: male
+associates:
+- name: Job
+  ref: job.yaml
 info:
-  - note: A Naamathite who visited Job to comfort him.
-    ref: https://ref.ly/logosref/BibleESV.Job2.11
-  - note:
-      Zophar rebukes Jobs plea of innocence. He cannot let his claims go unanswered.
-      He believe God is punishing Job as much as he deserved.
-    ref: https://ref.ly/logosref/BibleESV.Job11.2-6
-  - note:
-      Zophar tells Job to stop being foolish in insisting his innocence. He thinks
-      that if Job would put away his iniquity and call for repentance, God would surely
-      find favor on him, and his suffering would go away, and he would begin to be blessed
-      once again.
-    ref: https://ref.ly/logosref/BibleESV.Job11.11-20
+- note: A Naamathite who visited Job to comfort him.
+  ref: https://ref.ly/logosref/BibleESV.Job2.11
+- note: Zophar rebukes Jobs plea of innocence. He cannot let his claims go unanswered.
+    He believe God is punishing Job as much as he deserved.
+  ref: https://ref.ly/logosref/BibleESV.Job11.2-6
+- note: Zophar tells Job to stop being foolish in insisting his innocence. He thinks
+    that if Job would put away his iniquity and call for repentance, God would surely
+    find favor on him, and his suffering would go away, and he would begin to be blessed
+    once again.
+  ref: https://ref.ly/logosref/BibleESV.Job11.11-20

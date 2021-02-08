@@ -47,6 +47,11 @@ func main() {
 			Aliases: []string{"c"},
 			Usage:   "commentary for note (requires note)",
 		},
+		&cli.StringFlag{
+			Name:    "associate",
+			Aliases: []string{"a"},
+			Usage:   "non immediate family member whom this character associated with",
+		},
 	}
 	locationFlags := []cli.Flag{
 		&cli.StringFlag{

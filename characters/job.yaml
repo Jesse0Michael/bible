@@ -3,6 +3,13 @@ sex: male
 locations:
 - name: Uz
   ref: ../locations/uz.yaml
+associates:
+- name: Eliphaz
+  ref: eliphaz.yaml
+- name: Bildad
+  ref: bildad.yaml
+- name: Zophar
+  ref: zophar.yaml
 info:
 - note: Blameless and upright. Feared God. Was very wealthy and prosperous, had a
     healthy, large family.
