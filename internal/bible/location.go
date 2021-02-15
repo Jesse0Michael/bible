@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"strings"
+	"time"
 
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
@@ -71,6 +72,8 @@ func CreateLocation(c *cli.Context) error {
 		return err
 	}
 
+	location.CreateTime = time.Now()
+	location.UpdateTime = location.CreateTime
 	b, err := yaml.Marshal(location)
 	if err != nil {
 		return err
@@ -103,6 +106,7 @@ func UpdateLocation(c *cli.Context) error {
 		return err
 	}
 
+	location.UpdateTime = time.Now()
 	b, err = yaml.Marshal(location)
 	if err != nil {
 		return err
