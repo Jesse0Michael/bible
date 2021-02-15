@@ -134,6 +134,17 @@ func main() {
 					},
 				},
 			},
+			{
+				Name:  "audit",
+				Usage: "audit a resource",
+				Subcommands: []*cli.Command{
+					{
+						Name:   "character",
+						Usage:  "audit all character resources",
+						Action: bible.AuditCharacters,
+					},
+				},
+			},
 		},
 	}
 

@@ -1,8 +1,10 @@
 name: Methushael
+created: 2021-01-08T08:57:54.068925204-07:00
+updated: 2021-01-08T08:57:54.068925204-07:00
 sex: male
 parents:
-  - name: Mehujael
-    ref: mehujael.yaml
+- name: Mehujael
+  ref: mehujael.yaml
 children:
-  - name: Lamech
-    ref: lamech.yaml
+- name: Lamech
+  ref: lamech.yaml

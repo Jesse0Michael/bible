@@ -1,11 +1,13 @@
 name: Lamech
+created: 2021-01-08T08:57:54.058592143-07:00
+updated: 2021-01-08T08:57:54.058592143-07:00
 sex: male
 parents:
-  - name: Methuselah
-    ref: methuselah.yaml
+- name: Methuselah
+  ref: methuselah.yaml
 children:
-  - name: Noah
-    ref: noah.yaml
+- name: Noah
+  ref: noah.yaml
 info:
-  - note: Lived to be 777 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.31
+- note: Lived to be 777 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.31

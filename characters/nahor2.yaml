@@ -1,8 +1,10 @@
 name: Nahor
+created: 2021-01-21T08:56:01.090051802-07:00
+updated: 2021-01-21T08:56:01.090051802-07:00
 sex: male
 parents:
-  - name: Terah
-    ref: terah.yaml
+- name: Terah
+  ref: terah.yaml
 spouse:
-  - name: Milcah
-    ref: milcah.yaml
+- name: Milcah
+  ref: milcah.yaml

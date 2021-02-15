@@ -1,8 +1,10 @@
 name: Enoch
+created: 2021-01-08T08:57:54.045940873-07:00
+updated: 2021-01-08T08:57:54.045940873-07:00
 sex: male
 parents:
-  - name: Cain
-    ref: cain.yaml
+- name: Cain
+  ref: cain.yaml
 children:
-  - name: Irad
-    ref: irad.yaml
+- name: Irad
+  ref: irad.yaml

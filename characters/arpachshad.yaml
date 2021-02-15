@@ -1,11 +1,13 @@
 name: Arpachshad
+created: 2021-01-21T08:46:01.618182195-07:00
+updated: 2021-01-21T08:46:01.618182195-07:00
 sex: male
 parents:
-  - name: Shem
-    ref: shem.yaml
+- name: Shem
+  ref: shem.yaml
 children:
-  - name: Shelah
-    ref: characters/shelah.yaml
+- name: Shelah
+  ref: characters/shelah.yaml
 info:
-  - note: Lived to be 438 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge11.12-13
+- note: Lived to be 438 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.12-13

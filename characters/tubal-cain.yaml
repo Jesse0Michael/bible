@@ -1,10 +1,12 @@
 name: Tubal-cain
+created: 2021-01-08T08:57:54.080821417-07:00
+updated: 2021-01-08T08:57:54.080821417-07:00
 sex: male
 parents:
-  - name: Lamech
-    ref: lamech.yaml
-  - name: Zillah
-    ref: zillah.yaml
+- name: Lamech
+  ref: lamech.yaml
+- name: Zillah
+  ref: zillah.yaml
 info:
-  - note: Forger of all instruments of bronze and iron.
-    ref: https://ref.ly/logosref/BibleESV.Ge4.22
+- note: Forger of all instruments of bronze and iron.
+  ref: https://ref.ly/logosref/BibleESV.Ge4.22

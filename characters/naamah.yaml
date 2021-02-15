@@ -1,7 +1,9 @@
 name: Naamah
+created: 2021-01-08T08:57:54.07055244-07:00
+updated: 2021-01-08T08:57:54.07055244-07:00
 sex: female
 parents:
-  - name: Zillah
-    ref: zillah.yaml
-  - name: Lamech
-    ref: lamech.yaml
+- name: Zillah
+  ref: zillah.yaml
+- name: Lamech
+  ref: lamech.yaml

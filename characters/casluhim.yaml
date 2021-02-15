@@ -1,8 +1,10 @@
 name: Casluhim
+created: 2021-01-20T08:25:45.544822307-07:00
+updated: 2021-01-20T08:25:45.544822307-07:00
 sex: male
 parents:
-  - name: Egypt
-    ref: egypt.yaml
+- name: Egypt
+  ref: egypt.yaml
 info:
-  - note: From whom the Philistines come from
-    ref: https://ref.ly/logosref/bk.$23Pathrusim
+- note: From whom the Philistines come from
+  ref: https://ref.ly/logosref/bk.$23Pathrusim

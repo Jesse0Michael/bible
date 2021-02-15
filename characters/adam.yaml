@@ -1,35 +1,41 @@
 name: Adam
-sex: male
+created: 2021-01-24T13:28:43.730470398-07:00
+updated: 2021-01-24T13:28:43.730470398-07:00
 meaning: mankind, humanity
-alias:
-  - Man
-spouse:
-  - name: Eve
-    ref: eve.yaml
-children:
-  - name: Cain
-    ref: cain.yaml
-  - name: Abel
-    ref: abel.yaml
-  - name: Seth
-    ref: seth.yaml
+sex: male
 locations:
-  - name: Eden
-    ref: ../locations/eden.yaml
+- name: Eden
+  ref: ../locations/eden.yaml
+spouse:
+- name: Eve
+  ref: eve.yaml
+children:
+- name: Cain
+  ref: cain.yaml
+- name: Abel
+  ref: abel.yaml
+- name: Seth
+  ref: seth.yaml
 info:
-  - note: Created in the image of the trinity. Made to rule over the fish in the sea and birds in the sky, over the livestock and wild animals. Commanded to fill the earth and subdue it.
-    ref: https://ref.ly/logosref/BibleESV.Ge1.26-28
-  - note: Adam instructed not to eat from the tree of the knowledge of good and evil, or he will surely die.
-    ref: https://ref.ly/logosref/BibleESV.Ge2.16-17
-  - note: God created Eve from Adam. Adam named her woman
-    ref: https://ref.ly/logosref/BibleESV.Ge2.23
-  - note: Was with Eve when the serpent deceived her, ate the fruit anyway.
-    ref: https://ref.ly/logosref/BibleESV.Ge3.6
-  - note: God called on Adam first when they hid from him. Adam blamed Eve for telling him of his nakedness and for giving him the fruit.
-    ref: https://ref.ly/logosref/BibleESV.Ge3.10-12
-  - note: God cursed the ground because of man, bringing thorns and thistles. He shall eat from it until the day he dies.
-    ref: https://ref.ly/logosref/BibleESV.Ge3.17-19
-  - note: To prevent Adam from also eating from the tree of life, and live forever, God clothed Adam and Eve and forced them east out of Eden.
-    ref: https://ref.ly/logosref/BibleESV.Ge3.21-24
-  - note: Lived too be 930 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.5
+- note: Created in the image of the trinity. Made to rule over the fish in the sea
+    and birds in the sky, over the livestock and wild animals. Commanded to fill the
+    earth and subdue it.
+  ref: https://ref.ly/logosref/BibleESV.Ge1.26-28
+- note: Adam instructed not to eat from the tree of the knowledge of good and evil,
+    or he will surely die.
+  ref: https://ref.ly/logosref/BibleESV.Ge2.16-17
+- note: God created Eve from Adam. Adam named her woman
+  ref: https://ref.ly/logosref/BibleESV.Ge2.23
+- note: Was with Eve when the serpent deceived her, ate the fruit anyway.
+  ref: https://ref.ly/logosref/BibleESV.Ge3.6
+- note: God called on Adam first when they hid from him. Adam blamed Eve for telling
+    him of his nakedness and for giving him the fruit.
+  ref: https://ref.ly/logosref/BibleESV.Ge3.10-12
+- note: God cursed the ground because of man, bringing thorns and thistles. He shall
+    eat from it until the day he dies.
+  ref: https://ref.ly/logosref/BibleESV.Ge3.17-19
+- note: To prevent Adam from also eating from the tree of life, and live forever,
+    God clothed Adam and Eve and forced them east out of Eden.
+  ref: https://ref.ly/logosref/BibleESV.Ge3.21-24
+- note: Lived too be 930 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.5

@@ -1,12 +1,14 @@
 name: Peleg
+created: 2021-01-21T08:46:46.267809415-07:00
+updated: 2021-01-21T08:46:46.267809415-07:00
 sex: male
 parents:
-  - name: Eber
-    ref: eber.yaml
-  - name: Reu
-    ref: reu.yaml
+- name: Eber
+  ref: eber.yaml
+- name: Reu
+  ref: reu.yaml
 info:
-  - note: Days on earth were divided.
-    ref: https://ref.ly/logosref/BibleESV.Ge10.25
-  - note: Lived to be 239 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge11.18-19
+- note: Days on earth were divided.
+  ref: https://ref.ly/logosref/BibleESV.Ge10.25
+- note: Lived to be 239 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.18-19

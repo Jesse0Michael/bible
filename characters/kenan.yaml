@@ -1,11 +1,13 @@
 name: Kenan
+created: 2021-01-08T08:57:54.05688222-07:00
+updated: 2021-01-08T08:57:54.05688222-07:00
 sex: male
 parents:
-  - name: Enosh
-    ref: enosh.yaml
+- name: Enosh
+  ref: enosh.yaml
 children:
-  - name: Mahalalel
-    ref: mahalalel.yaml
+- name: Mahalalel
+  ref: mahalalel.yaml
 info:
-  - note: Lived to be 910 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.14
+- note: Lived to be 910 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.14

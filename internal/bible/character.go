@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 	"strings"
+	"time"
 
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
@@ -71,6 +72,8 @@ func CreateCharacter(c *cli.Context) error {
 		return err
 	}
 
+	character.CreateTime = time.Now()
+	character.UpdateTime = character.CreateTime
 	b, err := yaml.Marshal(character)
 	if err != nil {
 		return err
@@ -103,12 +106,38 @@ func UpdateCharacter(c *cli.Context) error {
 		return err
 	}
 
+	character.UpdateTime = time.Now()
 	b, err = yaml.Marshal(character)
 	if err != nil {
 		return err
 	}
 
 	return ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0)
+}
+
+func AuditCharacters(c *cli.Context) error {
+	files, err := ioutil.ReadDir(characterDir)
+	if err != nil {
+		return err
+	}
+	for _, f := range files {
+		b, _ := ioutil.ReadFile(filepath.Join(characterDir, f.Name()))
+		var character Character
+		err = yaml.Unmarshal(b, &character)
+		if err != nil {
+			return err
+		}
+
+		// Audit here!
+
+		b, err = yaml.Marshal(character)
+		if err != nil {
+			return err
+		}
+
+		_ = ioutil.WriteFile(filepath.Join(characterDir, f.Name()), b, 0)
+	}
+	return nil
 }
 
 func processCharacter(c *cli.Context, character Character) (Character, error) {

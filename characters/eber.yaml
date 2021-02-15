@@ -1,13 +1,15 @@
 name: Eber
+created: 2021-01-21T08:46:01.618130146-07:00
+updated: 2021-01-21T08:46:01.618130146-07:00
 sex: male
 parents:
-  - name: Shelah
-    ref: shelah.yaml
+- name: Shelah
+  ref: shelah.yaml
 children:
-  - name: Peleg
-    ref: characters/peleg.yaml
-  - name: Joktan
-    ref: characters/joktan.yaml
+- name: Peleg
+  ref: characters/peleg.yaml
+- name: Joktan
+  ref: characters/joktan.yaml
 info:
-  - note: Lived to be 464 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge11.16-17
+- note: Lived to be 464 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.16-17

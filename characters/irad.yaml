@@ -1,8 +1,10 @@
 name: Irad
+created: 2021-01-08T08:57:54.052130934-07:00
+updated: 2021-01-08T08:57:54.052130934-07:00
 sex: male
 parents:
-  - name: Enoch
-    ref: enoch.yaml
+- name: Enoch
+  ref: enoch.yaml
 children:
-  - name: Mehujael
-    ref: mehujael.yaml
+- name: Mehujael
+  ref: mehujael.yaml

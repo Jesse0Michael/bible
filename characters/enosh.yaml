@@ -1,13 +1,16 @@
 name: Enosh
+created: 2021-01-08T08:57:54.048888135-07:00
+updated: 2021-01-08T08:57:54.048888135-07:00
 sex: male
 parents:
-  - name: Seth
-    ref: seth.yaml
+- name: Seth
+  ref: seth.yaml
 children:
-  - name: Kenan
-    ref: kenan.yaml
+- name: Kenan
+  ref: kenan.yaml
 info:
-  - note: At the point of Enosh being born, people once again began to call on the name of the Lord
-    ref: https://ref.ly/logosref/BibleESV.Ge4.26
-  - note: Lived to be 905 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.11
+- note: At the point of Enosh being born, people once again began to call on the name
+    of the Lord
+  ref: https://ref.ly/logosref/BibleESV.Ge4.26
+- note: Lived to be 905 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.11

@@ -1,25 +1,26 @@
 name: Japeth
+created: 2021-01-20T08:13:47.210053597-07:00
+updated: 2021-01-20T08:13:47.210053597-07:00
 sex: male
 parents:
-  - name: Noah
-    ref: noah.yaml
+- name: Noah
+  ref: noah.yaml
 children:
-  - name: Gomer
-    ref: characters/gomer.yaml
-  - name: Magog
-    ref: characters/magog.yaml
-  - name: Madai
-    ref: characters/madai.yaml
-  - name: Javan
-    ref: characters/javan.yaml
-  - name: Tubal
-    ref: characters/tubal.yaml
-  - name: Meshech
-    ref: characters/meshech.yaml
-  - name: Tiras
-    ref: characters/tiras.yaml
+- name: Gomer
+  ref: characters/gomer.yaml
+- name: Magog
+  ref: characters/magog.yaml
+- name: Madai
+  ref: characters/madai.yaml
+- name: Javan
+  ref: characters/javan.yaml
+- name: Tubal
+  ref: characters/tubal.yaml
+- name: Meshech
+  ref: characters/meshech.yaml
+- name: Tiras
+  ref: characters/tiras.yaml
 info:
-  - note:
-      Covered his father's nakedness and was blessed for it, that Canaan's family
-      would serve Japeth's and he will dwell in the tents of Shem's
-    ref: https://ref.ly/logosref/BibleESV.Ge9.27
+- note: Covered his father's nakedness and was blessed for it, that Canaan's family
+    would serve Japeth's and he will dwell in the tents of Shem's
+  ref: https://ref.ly/logosref/BibleESV.Ge9.27

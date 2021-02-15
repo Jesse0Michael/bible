@@ -1,8 +1,7 @@
 name: Milcah
+created: 2021-01-21T09:02:00.842292557-07:00
+updated: 2021-01-21T09:02:00.842292557-07:00
 sex: female
-parent:
-  - name: Haran
-    ref: haran.yaml
 spouse:
-  - name: Nahor
-    ref: nahor2.yaml
+- name: Nahor
+  ref: nahor2.yaml

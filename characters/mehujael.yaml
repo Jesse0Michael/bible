@@ -1,8 +1,10 @@
 name: Mehujael
+created: 2021-01-08T08:57:54.060302926-07:00
+updated: 2021-01-08T08:57:54.060302926-07:00
 sex: male
 parents:
-  - name: Irad
-    ref: irad.yaml
+- name: Irad
+  ref: irad.yaml
 children:
-  - name: Methushael
-    ref: methushael.yaml
+- name: Methushael
+  ref: methushael.yaml

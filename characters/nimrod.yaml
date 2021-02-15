@@ -1,8 +1,10 @@
 name: Nimrod
+created: 2021-01-20T08:18:28.006364929-07:00
+updated: 2021-01-20T08:18:28.006364929-07:00
 sex: male
 parents:
-  - name: Cush
-    ref: cush.yaml
+- name: Cush
+  ref: cush.yaml
 info:
-  - note: First on earth to be a mighty man. A mighty hunter before the LORD
-    ref: https://ref.ly/logosref/BibleESV.Ge10.8-9
+- note: First on earth to be a mighty man. A mighty hunter before the LORD
+  ref: https://ref.ly/logosref/BibleESV.Ge10.8-9

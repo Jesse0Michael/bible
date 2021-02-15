@@ -1,10 +1,12 @@
 name: Zillah
+created: 2021-01-08T08:57:54.081634866-07:00
+updated: 2021-01-08T08:57:54.081634866-07:00
 sex: female
 spouse:
-  - name: Lamech
-    ref: lamech.yaml
+- name: Lamech
+  ref: lamech.yaml
 children:
-  - name: Tubal-cain
-    ref: tubal-cain.yaml
-  - name: Naamah
-    ref: naamah.yaml
+- name: Tubal-cain
+  ref: tubal-cain.yaml
+- name: Naamah
+  ref: naamah.yaml

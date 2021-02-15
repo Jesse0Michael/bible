@@ -1,11 +1,13 @@
 name: Jared
+created: 2021-01-08T08:57:54.054874473-07:00
+updated: 2021-01-08T08:57:54.054874473-07:00
 sex: male
 parents:
-  - note: Mahalalel
-    ref: mahalalel.yaml
+- name: ""
+  ref: mahalalel.yaml
 children:
-  - name: Enoch
-    ref: enoch2.yaml
+- name: Enoch
+  ref: enoch2.yaml
 info:
-  - note: Lived to be 962 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.20
+- note: Lived to be 962 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.20

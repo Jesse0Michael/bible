@@ -1,11 +1,14 @@
 name: Enoch
+created: 2021-01-08T08:57:54.047503416-07:00
+updated: 2021-01-08T08:57:54.047503416-07:00
 sex: male
 parents:
-  - name: Jared
-    ref: jared.yaml
+- name: Jared
+  ref: jared.yaml
 children:
-  - name: Methuselah
-    ref: methuselah.yaml
+- name: Methuselah
+  ref: methuselah.yaml
 info:
-  - note: Lived to be 365 years old, and then God took him. There is no recording of him dying. He walked with God and God took him
-    ref: https://ref.ly/logosref/BibleESV.Ge5.22-24
+- note: Lived to be 365 years old, and then God took him. There is no recording of
+    him dying. He walked with God and God took him
+  ref: https://ref.ly/logosref/BibleESV.Ge5.22-24

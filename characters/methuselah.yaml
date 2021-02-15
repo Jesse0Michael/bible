@@ -1,11 +1,13 @@
 name: Methuselah
+created: 2021-01-08T08:57:54.066988283-07:00
+updated: 2021-01-08T08:57:54.066988283-07:00
 sex: male
 parents:
-  - name: Enoch
-    ref: enoch2.yaml
+- name: Enoch
+  ref: enoch2.yaml
 children:
-  - name: Lamech
-    ref: lamech2.yaml
+- name: Lamech
+  ref: lamech2.yaml
 info:
-  - note: Lived to be 969 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.27
+- note: Lived to be 969 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.27

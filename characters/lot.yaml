@@ -1,10 +1,12 @@
 name: Lot
+created: 2021-01-21T09:11:06.786663176-07:00
+updated: 2021-01-21T09:11:06.786663176-07:00
 sex: male
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/urofcaldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/urofcaldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
 parents:
-  - name: Haran
-    ref: haran.yaml
+- name: Haran
+  ref: haran.yaml

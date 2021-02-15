@@ -1,10 +1,12 @@
 name: Adah
+created: 2021-01-08T08:57:54.037462897-07:00
+updated: 2021-01-08T08:57:54.037462897-07:00
 sex: female
 spouse:
-  - name: Lamech
-    ref: lamech.yaml
+- name: Lamech
+  ref: lamech.yaml
 children:
-  - name: Jabal
-    ref: jabal.yaml
-  - name: Jubal
-    ref: jubal.yaml
+- name: Jabal
+  ref: jabal.yaml
+- name: Jubal
+  ref: jubal.yaml

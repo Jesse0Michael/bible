@@ -1,22 +1,25 @@
 name: Lamech
+created: 2021-01-08T08:57:54.057674726-07:00
+updated: 2021-01-08T08:57:54.057674726-07:00
 sex: male
-spouse:
-  - name: Adah
-    ref: Adah.yaml
-  - name: Zillah
-    ref: zillah.yaml
 parents:
-  - name: Methushael
-    ref: methushael.yaml
+- name: Methushael
+  ref: methushael.yaml
+spouse:
+- name: Adah
+  ref: Adah.yaml
+- name: Zillah
+  ref: zillah.yaml
 children:
-  - name: Jabal
-    ref: jabal.yaml
-  - name: Jubal
-    ref: jubal.yaml
-  - name: Tubal-cain
-    ref: tubal-cain.yaml
-  - name: Naamah
-    ref: naamah.yaml
+- name: Jabal
+  ref: jabal.yaml
+- name: Jubal
+  ref: jubal.yaml
+- name: Tubal-cain
+  ref: tubal-cain.yaml
+- name: Naamah
+  ref: naamah.yaml
 info:
-  - note: Killed a man and proclaimed that vengeance against him would be worse than vengeance against Cain
-    ref: https://ref.ly/logosref/BibleESV.Ge4.23-24
+- note: Killed a man and proclaimed that vengeance against him would be worse than
+    vengeance against Cain
+  ref: https://ref.ly/logosref/BibleESV.Ge4.23-24

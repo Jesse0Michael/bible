@@ -1,14 +1,16 @@
 name: Seth
+created: 2021-01-08T08:57:54.078105276-07:00
+updated: 2021-01-08T08:57:54.078105276-07:00
 meaning: to put, to place, to set
 sex: male
 parents:
-  - name: Adam
-    ref: adam.yaml
-  - name: Eve
-    ref: eve.yaml
+- name: Adam
+  ref: adam.yaml
+- name: Eve
+  ref: eve.yaml
 children:
-  - name: Enosh
-    ref: enosh.yaml
+- name: Enosh
+  ref: enosh.yaml
 info:
-  - note: Lived to be 912 years old.
-    ref: https://ref.ly/logosref/BibleESV.Ge5.8
+- note: Lived to be 912 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ge5.8

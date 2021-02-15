@@ -1,10 +1,14 @@
 package bible
 
+import "time"
+
 type Characters map[string][]Character
 
 type Character struct {
 	Name       string      `yaml:"name" json:"name"`
 	Filename   string      `yaml:"-" json:"-"`
+	CreateTime time.Time   `yaml:"created" json:"created"`
+	UpdateTime time.Time   `yaml:"updated" json:"updated"`
 	Meaning    string      `yaml:"meaning,omitempty" json:"meaning,omitempty"`
 	Sex        string      `yaml:"sex,omitempty" json:"sex,omitempty"`
 	Locations  []Reference `yaml:"locations,omitempty" json:"locations,omitempty"`
@@ -29,7 +33,9 @@ type Note struct {
 type Locations map[string][]Location
 
 type Location struct {
-	Name     string `yaml:"name" json:"name"`
-	Filename string `yaml:"-" json:"-"`
-	Info     []Note `yaml:"info,omitempty" json:"info,omitempty"`
+	Name       string    `yaml:"name" json:"name"`
+	Filename   string    `yaml:"-" json:"-"`
+	CreateTime time.Time `yaml:"created" json:"created"`
+	UpdateTime time.Time `yaml:"updated" json:"updated"`
+	Info       []Note    `yaml:"info,omitempty" json:"info,omitempty"`
 }

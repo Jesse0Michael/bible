@@ -1,13 +1,15 @@
 name: Abram
+created: 2021-01-21T09:11:06.786620059-07:00
+updated: 2021-01-21T09:11:06.786620059-07:00
 sex: male
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/urofcaldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/urofcaldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
 parents:
-  - name: Terah
-    ref: terah.yaml
+- name: Terah
+  ref: terah.yaml
 spouse:
-  - name: Sarai
-    ref: sarai.yaml
+- name: Sarai
+  ref: sarai.yaml

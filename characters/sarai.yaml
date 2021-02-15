@@ -1,13 +1,15 @@
 name: Sarai
+created: 2021-01-21T09:11:06.813962795-07:00
+updated: 2021-01-21T09:11:06.813962795-07:00
 sex: female
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/urofcaldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/urofcaldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
 spouse:
-  - name: Abram
-    ref: abram.yaml
+- name: Abram
+  ref: abram.yaml
 info:
-  - note: Was barren.
-    ref: https://ref.ly/logosref/BibleESV.Ge11.30
+- note: Was barren.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.30

@@ -1,11 +1,13 @@
 name: Jabal
+created: 2021-01-08T08:57:54.053079276-07:00
+updated: 2021-01-08T08:57:54.053079276-07:00
 meaning: to produce
 sex: male
 parents:
-  - name: Adah
-    ref: adah.yaml
-  - name: Lamech
-    ref: lamech.yaml
+- name: Adah
+  ref: adah.yaml
+- name: Lamech
+  ref: lamech.yaml
 info:
-  - note: Father of those who dwell in tents and have livestock.
-    ref: https://ref.ly/logosref/BibleESV.Ge4.20
+- note: Father of those who dwell in tents and have livestock.
+  ref: https://ref.ly/logosref/BibleESV.Ge4.20
