@@ -1,6 +1,6 @@
 name: Eliphaz
 created: 2021-02-15T08:36:26.335821836-07:00
-updated: 2021-02-15T08:36:26.335821836-07:00
+updated: 2021-02-16T08:20:23.495396-07:00
 sex: male
 associates:
 - name: Job
@@ -31,3 +31,9 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Job15.7-16
 - note: Eliphaz argues against Job saying that the wicked do get punished.
   ref: https://ref.ly/logosref/BibleESV.Job15.20-25
+- note: Eliphaz accuses Job of many very specific sins, all of which there is no basis
+    for in the text.
+  ref: https://ref.ly/logosref/BibleESV.Job22.5-11
+- note: He calls Job to repent of the sins that he accused Job of and if he does,
+    God will surely bless Job, even after his "wickedness".
+  ref: https://ref.ly/logosref/BibleESV.Job22.21-30
