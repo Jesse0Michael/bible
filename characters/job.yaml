@@ -12,6 +12,8 @@ associates:
   ref: bildad.yaml
 - name: Zophar
   ref: zophar.yaml
+- name: Elihu
+  ref: elihu.yaml
 info:
 - note: Blameless and upright. Feared God. Was very wealthy and prosperous, had a
     healthy, large family.
