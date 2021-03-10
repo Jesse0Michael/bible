@@ -1,0 +1,11 @@
+name: Keziah
+created: 2021-03-10T08:27:31.466506-07:00
+updated: 2021-03-10T08:27:31.466506-07:00
+sex: female
+parents:
+- name: Job
+  ref: job.yaml
+info:
+- note: One of Job's children after his trial. Was remarked as beautiful and given
+    an inheritance among her brothers.
+  ref: https://ref.ly/logosref/BibleESV.Job42.13-15

@@ -1,10 +1,17 @@
 name: Job
 created: 2021-02-15T08:43:07.715377155-07:00
-updated: 2021-02-25T07:53:46.856148-07:00
+updated: 2021-03-10T08:22:12.460151-07:00
 sex: male
 locations:
 - name: Uz
   ref: ../locations/uz.yaml
+children:
+- name: Jemimah
+  ref: jemimah.yaml
+- name: Keziah
+  ref: keziah.yaml
+- name: Keren-Happuch
+  ref: keren-happuch.yaml
 associates:
 - name: Eliphaz
   ref: eliphaz.yaml
@@ -179,3 +186,35 @@ info:
     of money or other idols; cursing an enemy or rejoicing in an enemies misfortune;
     withholding from the poor and needy or abusing the land.
   ref: https://ref.ly/logosref/BibleESV.Job31.1-40
+- note: After all the speeches are done, God shows up in a whirlwind to address Job.
+    God does not answer Job's question about why he is suffering nor addresses his
+    claim of innocence. God asks Job a series of rhetorical and sarcastic questions
+    to demonstrated that he is God and much greater than humanity. God asks Job if
+    he was present for creation or when he set the seas in their place. If he could
+    command the land or sky or stars or animals to be.
+  ref: https://ref.ly/logosref/BibleESV.Job38.1-3
+  commentary: God specifically mentions the storehouse of hail which later would be
+    used when God fights a battle for Israel. He mentions several constellations by
+    name.
+- note: In response to God's first speech, in humility and meekness, Job responds
+    to God saying how small he is in comparison to God and that he will not contend
+    or speak against God on account of the glory that He just demonstrated with His
+    questioning.
+  ref: https://ref.ly/logosref/BibleESV.Job40.1-5
+  commentary: Job recognizes the futility of responding to God. He drops his demands
+    for answers and acknowledges that he cannot know the wisdom that only God knows,
+    of how the world works or God's purpose in his life.
+- note: Out of a whirlwind, God challenges Job to be like God, to manage justice and
+    punish the wicked as God.
+  ref: https://ref.ly/logosref/BibleESV.Job40.6-14
+- note: God uses the example of the Behemoth and the Leviathan and his power over
+    them to demonstrate his power to Job.
+  ref: https://ref.ly/logosref/BibleESV.Job40.15-41.11
+- note: Job repents of his challenging God and praises God with glory, acknowledging
+    his power and that his purpose cannot be thwarted.
+  ref: https://ref.ly/logosref/BibleESV.Job42.1-6
+- note: The LORD restored fortune to Job. God gave him twice as much as he had before.
+    Brothers and sisters came with sympathy and offerings of money and gold. He was
+    blessed with sheep, camels, oxen, and donkeys. He was given seven sons and three
+    daughters and lived to be an old man.
+  ref: https://ref.ly/logosref/BibleESV.Job42.10-17
