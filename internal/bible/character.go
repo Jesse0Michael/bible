@@ -158,7 +158,7 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 	if err != nil {
 		return character, err
 	}
-	if parent != nil {
+	if spouse != nil {
 		character.Spouse = append(character.Spouse, *spouse)
 	}
 
