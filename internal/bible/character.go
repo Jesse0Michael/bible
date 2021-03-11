@@ -5,6 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"io/ioutil"
+	"os"
 	"path/filepath"
 	"strings"
 	"time"
@@ -69,6 +70,7 @@ func CreateCharacter(c *cli.Context) error {
 		Filename: filepath.Base(f.Name()),
 	})
 	if err != nil {
+		_ = os.Remove(f.Name())
 		return err
 	}
 
@@ -76,6 +78,7 @@ func CreateCharacter(c *cli.Context) error {
 	character.UpdateTime = character.CreateTime
 	b, err := yaml.Marshal(character)
 	if err != nil {
+		_ = os.Remove(f.Name())
 		return err
 	}
 
