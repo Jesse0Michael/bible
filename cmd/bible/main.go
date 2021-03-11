@@ -52,6 +52,11 @@ func main() {
 			Aliases: []string{"a"},
 			Usage:   "non immediate family member whom this character associated with",
 		},
+		&cli.StringFlag{
+			Name:    "location",
+			Aliases: []string{"l"},
+			Usage:   "specific location this character was at",
+		},
 	}
 	locationFlags := []cli.Flag{
 		&cli.StringFlag{

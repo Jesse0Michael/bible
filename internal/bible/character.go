@@ -170,6 +170,14 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		character.Associates = append(character.Associates, *associate)
 	}
 
+	location, err := addLocation(c.String("location"), ref)
+	if err != nil {
+		return character, err
+	}
+	if location != nil {
+		character.Locations = append(character.Locations, *location)
+	}
+
 	if c.String("note") != "" {
 		note := Note{
 			Note:       c.String("note"),
@@ -264,4 +272,22 @@ func addAssociate(associate string, character Reference) (*Reference, error) {
 		return nil, err
 	}
 	return &Reference{Name: associateCharacter.Name, Reference: ref}, nil
+}
+
+func addLocation(location string, character Reference) (*Reference, error) {
+	if location == "" {
+		return nil, nil
+	}
+	ref, err := FindReference(locationDir, location)
+	if err != nil {
+		return nil, err
+	}
+	b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
+	var loc Location
+	err = yaml.Unmarshal(b, &loc)
+	if err != nil {
+		return nil, err
+	}
+
+	return &Reference{Name: loc.Name, Reference: ref}, nil
 }
