@@ -1,12 +1,20 @@
 name: Lot
 created: 2021-01-21T09:11:06.786663176-07:00
-updated: 2021-01-21T09:11:06.786663176-07:00
+updated: 2021-03-12T09:13:03.610483-07:00
 sex: male
 locations:
 - name: Ur of Chaldeans
   ref: ../locations/urofcaldeans.yaml
 - name: Haran
   ref: ../locations/haran.yaml
+- name: Jordan Valley
+  ref: jordan-valley.yaml
+- name: Sodom
+  ref: sodom.yaml
 parents:
 - name: Haran
   ref: haran.yaml
+info:
+- note: When Lot separated from Abram, he journeyed east to the Jordan Valley and
+    stopped in Sodom.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.11-12

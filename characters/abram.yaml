@@ -1,6 +1,6 @@
 name: Abram
 created: 2021-01-21T09:11:06.786620059-07:00
-updated: 2021-03-11T09:20:43.691412-07:00
+updated: 2021-03-12T09:22:38.855041-07:00
 sex: male
 locations:
 - name: Ur of Chaldeans
@@ -13,6 +13,10 @@ locations:
   ref: bethel.yaml
 - name: Egypt
   ref: egypt.yaml
+- name: Negeb
+  ref: negeb.yaml
+- name: Hebron
+  ref: hebron.yaml
 parents:
 - name: Terah
   ref: terah.yaml
@@ -20,9 +24,9 @@ spouse:
 - name: Sarai
   ref: sarai.yaml
 info:
-- note: 'God commanded Abram to leave his country and his family for a land that He
+- note: God commanded Abram to leave his country and his family for a land that He
     will show him. God promised to make him a great nation and will bless him and
-    those who bless him, and curse those who dishonor him. '
+    those who bless him, and curse those who dishonor him.
   ref: https://ref.ly/logosref/BibleESV.Ge12.1-3
 - note: Abram moved to the land of Canaan, to the Oak of Moreh in Shechem, where Abram
     built his first recorded altar to God.
@@ -37,3 +41,11 @@ info:
   commentary: This a very interesting encounter. By any observation, one would think
     that what Abram did was wrong and sinful, but God used it to get them out of Egypt
     and God does not chastise Abram for this.
+- note: Abram left Egypt for Negeb. From Negeb he went east of Bethel to where he
+    built his alter, and separated himself from Lot because their possessions were
+    growing to greatly that it was causing strife.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.2-9
+- note: God promised the land in Canaan to him and his offspring. God promised to
+    make his offspring as numerous as the dust of the earth. Abram moved to the oaks
+    of Mambre in Hebron and built the LORD another altar.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.14-18
