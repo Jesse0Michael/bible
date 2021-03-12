@@ -292,5 +292,5 @@ func addLocation(location string, character Reference) (*Reference, error) {
 		return nil, err
 	}
 
-	return &Reference{Name: loc.Name, Reference: ref}, nil
+	return &Reference{Name: loc.Name, Reference: fmt.Sprintf("../%s/%s", locationDir, ref)}, nil
 }
