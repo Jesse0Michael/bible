@@ -1,0 +1,26 @@
+name: Birsha
+created: 2021-03-15T07:45:54.167597-07:00
+updated: 2021-03-15T08:23:42.878606-07:00
+locations:
+- name: Gomorrah
+  ref: ../locations/gomorrah.yaml
+- name: Valley Of Siddim
+  ref: ../locations/valley-of-siddim.yaml
+associates:
+- name: Bera
+  ref: bera.yaml
+- name: Shinab
+  ref: shinab.yaml
+- name: Shemeber
+  ref: shemeber.yaml
+- name: Zoar
+  ref: zoar.yaml
+info:
+- note: King of Gomorraah
+  ref: https://ref.ly/logosref/BibleESV.Ge14.2
+- note: The kings of Sodom, Gomorrrah, Admah, Zeboiim, and Bela went to battle in
+    the Valley of Siddim against the kings of Elam, Goiim, Shinar, and Ellasar. The
+    armies of Sodom and Gomorrah fled to the hill country and fell into bitumen pits
+    and their enemies took all of Sodom and Gomorrah's possessions, including Lot
+    who was living in Sodom
+  ref: https://ref.ly/logosref/BibleESV.Ge14.8-12

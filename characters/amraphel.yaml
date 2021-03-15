@@ -1,0 +1,9 @@
+name: Amraphel
+created: 2021-03-15T07:43:16.881006-07:00
+updated: 2021-03-15T07:43:16.881006-07:00
+associates:
+- name: Chedorlaomer
+  ref: chedorlaomer.yaml
+info:
+- note: King of Shinar
+  ref: https://ref.ly/logosref/BibleESV.Ge14.1

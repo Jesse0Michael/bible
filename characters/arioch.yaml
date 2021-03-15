@@ -1,0 +1,9 @@
+name: Arioch
+created: 2021-03-15T07:43:37.21948-07:00
+updated: 2021-03-15T07:43:37.21948-07:00
+associates:
+- name: Chedorlaomer
+  ref: chedorlaomer.yaml
+info:
+- note: King of Ellasar
+  ref: https://ref.ly/logosref/BibleESV.Ge14.1

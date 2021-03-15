@@ -1,0 +1,11 @@
+name: Shinab
+created: 2021-03-15T07:46:42.850133-07:00
+updated: 2021-03-15T07:46:42.850133-07:00
+associates:
+- name: Bera
+  ref: bera.yaml
+- name: Birsha
+  ref: birsha.yaml
+info:
+- note: King of Admah
+  ref: https://ref.ly/logosref/BibleESV.Ge14.2

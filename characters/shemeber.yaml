@@ -1,0 +1,11 @@
+name: Shemeber
+created: 2021-03-15T07:47:19.030952-07:00
+updated: 2021-03-15T07:47:19.030952-07:00
+associates:
+- name: Bera
+  ref: bera.yaml
+- name: Birsha
+  ref: birsha.yaml
+info:
+- note: King of Zeboiim
+  ref: https://ref.ly/logosref/BibleESV.Ge14.2

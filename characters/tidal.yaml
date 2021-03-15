@@ -1,0 +1,9 @@
+name: Tidal
+created: 2021-03-15T07:44:12.403814-07:00
+updated: 2021-03-15T07:44:12.403814-07:00
+associates:
+- name: Chedorlaomer
+  ref: chedorlaomer.yaml
+info:
+- note: King of Goiim
+  ref: https://ref.ly/logosref/BibleESV.Ge14.1

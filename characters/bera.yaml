@@ -1,0 +1,32 @@
+name: Bera
+created: 2021-03-15T07:45:10.891416-07:00
+updated: 2021-03-15T08:48:58.816591-07:00
+locations:
+- name: Sodom
+  ref: ../locations/sodom.yaml
+- name: Valley Of Siddim
+  ref: ../locations/valley-of-siddim.yaml
+associates:
+- name: Birsha
+  ref: birsha.yaml
+- name: Shinab
+  ref: shinab.yaml
+- name: Shemeber
+  ref: shemeber.yaml
+- name: Zoar
+  ref: zoar.yaml
+- name: Melchizedek
+  ref: melchizedek.yaml
+info:
+- note: King of Sodom
+  ref: https://ref.ly/logosref/BibleESV.Ge14.2
+- note: The kings of Sodom, Gomorrrah, Admah, Zeboiim, and Bela went to battle in
+    the Valley of Siddim against the kings of Elam, Goiim, Shinar, and Ellasar. The
+    armies of Sodom and Gomorrah fled to the hill country and fell into bitumen pits
+    and their enemies took all of Sodom and Gomorrah's possessions, including Lot
+    who was living in Sodom
+  ref: https://ref.ly/logosref/BibleESV.Ge14.8-12
+- note: The king of Sodom asked Abram for his people in exchange for all the goods
+    taken from Abram's battle, but Abram took none of the possessions from the king
+    of Sodom, so that he would not be in his debt.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.21-24

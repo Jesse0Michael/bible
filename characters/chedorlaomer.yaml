@@ -1,0 +1,27 @@
+name: Chedorlaomer
+created: 2021-03-15T07:43:55.999971-07:00
+updated: 2021-03-15T08:23:51.165929-07:00
+locations:
+- name: Valley Of Siddim
+  ref: ../locations/valley-of-siddim.yaml
+associates:
+- name: Amraphel
+  ref: amraphel.yaml
+- name: Arioch
+  ref: arioch.yaml
+- name: Tidal
+  ref: tidal.yaml
+info:
+- note: King of Elam
+  ref: https://ref.ly/logosref/BibleESV.Ge14.1
+- note: For twelve years, the kings served Chedorlaomer, but on the thirteenth they
+    rebelled. On the fourteenth year, Chedorlaomer and the kings that were with him
+    defeated those in Ashterothkarnaim, Ham, Shaveh-kiriathaim, the Horites, the Amalekites,
+    and the AAmorites.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.4-7
+- note: The kings of Sodom, Gomorrrah, Admah, Zeboiim, and Bela went to battle in
+    the Valley of Siddim against the kings of Elam, Goiim, Shinar, and Ellasar. The
+    armies of Sodom and Gomorrah fled to the hill country and fell into bitumen pits
+    and their enemies took all of Sodom and Gomorrah's possessions, including Lot
+    who was living in Sodom
+  ref: https://ref.ly/logosref/BibleESV.Ge14.8-12

@@ -1,21 +1,35 @@
 name: Lot
 created: 2021-01-21T09:11:06.786663176-07:00
-updated: 2021-03-12T09:13:03.610483-07:00
+updated: 2021-03-15T08:23:55.530831-07:00
 sex: male
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/ur-of-caldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
-  - name: Jordan Valley
-    ref: ../locations/jordan-valley.yaml
-  - name: Sodom
-    ref: ../locations/sodom.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/ur-of-caldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
+- name: Jordan Valley
+  ref: ../locations/jordan-valley.yaml
+- name: Sodom
+  ref: ../locations/sodom.yaml
+- name: Valley Of Siddim
+  ref: ../locations/valley-of-siddim.yaml
 parents:
-  - name: Haran
-    ref: haran.yaml
+- name: Haran
+  ref: haran.yaml
+associates:
+- name: Abram
+  ref: abram.yaml
 info:
-  - note:
-      When Lot separated from Abram, he journeyed east to the Jordan Valley and
-      stopped in Sodom.
-    ref: https://ref.ly/logosref/BibleESV.Ge13.11-12
+- note: When Lot separated from Abram, he journeyed east to the Jordan Valley and
+    stopped in Sodom.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.11-12
+- note: The kings of Sodom, Gomorrrah, Admah, Zeboiim, and Bela went to battle in
+    the Valley of Siddim against the kings of Elam, Goiim, Shinar, and Ellasar. The
+    armies of Sodom and Gomorrah fled to the hill country and fell into bitumen pits
+    and their enemies took all of Sodom and Gomorrah's possessions, including Lot
+    who was living in Sodom
+  ref: https://ref.ly/logosref/BibleESV.Ge14.8-12
+- note: When Abram learned his nephew Lot was captured, he took 318 of his trained
+    men in pursuit of him. He divided his forces and attacked at night and brought
+    back Lot, his possessions, and his people.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.13-16

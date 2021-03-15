@@ -1,0 +1,14 @@
+name: Melchizedek
+created: 2021-03-15T08:31:00.802387-07:00
+updated: 2021-03-15T08:40:18.88662-07:00
+locations:
+- name: Valley Of Shaveh
+  ref: ../locations/valley-of-shaveh.yaml
+associates:
+- name: Bera
+  ref: bera.yaml
+info:
+- note: King of Salem. Priest of God most high.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.18
+- note: Melchizedek blessed Abram and the LORD for defeating their enemies.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.19-20

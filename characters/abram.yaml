@@ -1,57 +1,64 @@
 name: Abram
 created: 2021-01-21T09:11:06.786620059-07:00
-updated: 2021-03-12T09:22:38.855041-07:00
+updated: 2021-03-15T08:48:12.020298-07:00
 sex: male
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/ur-of-caldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
-  - name: Shechem
-    ref: ../locations/shechem.yaml
-  - name: Bethel
-    ref: ../locations/bethel.yaml
-  - name: Egypt
-    ref: ../locations/egypt.yaml
-  - name: Negeb
-    ref: ../locations/negeb.yaml
-  - name: Hebron
-    ref: ../locations/hebron.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/ur-of-caldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
+- name: Shechem
+  ref: ../locations/shechem.yaml
+- name: Bethel
+  ref: ../locations/bethel.yaml
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Negeb
+  ref: ../locations/negeb.yaml
+- name: Hebron
+  ref: ../locations/hebron.yaml
 parents:
-  - name: Terah
-    ref: terah.yaml
+- name: Terah
+  ref: terah.yaml
 spouse:
-  - name: Sarai
-    ref: sarai.yaml
+- name: Sarai
+  ref: sarai.yaml
+associates:
+- name: Lot
+  ref: lot.yaml
 info:
-  - note:
-      God commanded Abram to leave his country and his family for a land that He
-      will show him. God promised to make him a great nation and will bless him and
-      those who bless him, and curse those who dishonor him.
-    ref: https://ref.ly/logosref/BibleESV.Ge12.1-3
-  - note:
-      Abram moved to the land of Canaan, to the Oak of Moreh in Shechem, where Abram
-      built his first recorded altar to God.
-    ref: https://ref.ly/logosref/BibleESV.Ge12.5-7
-  - note: Abram moved to the hill country east of Bethel and built an altar to the LORD.
-    ref: https://ref.ly/logosref/BibleESV.Ge12.8-9
-  - note:
-      Because of a famine Abram went to Egypt. He told his wife to lie and say she
-      was his sister, because she was very beautiful and the Egyptians will want to
-      take her for their own. When they did, God afflicted Pharaoh and his house with
-      great plagues and Pharaoh sent them away.
-    ref: https://ref.ly/logosref/BibleESV.Ge12.10-20
-    commentary:
-      This a very interesting encounter. By any observation, one would think
-      that what Abram did was wrong and sinful, but God used it to get them out of Egypt
-      and God does not chastise Abram for this.
-  - note:
-      Abram left Egypt for Negeb. From Negeb he went east of Bethel to where he
-      built his alter, and separated himself from Lot because their possessions were
-      growing to greatly that it was causing strife.
-    ref: https://ref.ly/logosref/BibleESV.Ge13.2-9
-  - note:
-      God promised the land in Canaan to him and his offspring. God promised to
-      make his offspring as numerous as the dust of the earth. Abram moved to the oaks
-      of Mambre in Hebron and built the LORD another altar.
-    ref: https://ref.ly/logosref/BibleESV.Ge13.14-18
+- note: God commanded Abram to leave his country and his family for a land that He
+    will show him. God promised to make him a great nation and will bless him and
+    those who bless him, and curse those who dishonor him.
+  ref: https://ref.ly/logosref/BibleESV.Ge12.1-3
+- note: Abram moved to the land of Canaan, to the Oak of Moreh in Shechem, where Abram
+    built his first recorded altar to God.
+  ref: https://ref.ly/logosref/BibleESV.Ge12.5-7
+- note: Abram moved to the hill country east of Bethel and built an altar to the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Ge12.8-9
+- note: Because of a famine Abram went to Egypt. He told his wife to lie and say she
+    was his sister, because she was very beautiful and the Egyptians will want to
+    take her for their own. When they did, God afflicted Pharaoh and his house with
+    great plagues and Pharaoh sent them away.
+  ref: https://ref.ly/logosref/BibleESV.Ge12.10-20
+  commentary: This a very interesting encounter. By any observation, one would think
+    that what Abram did was wrong and sinful, but God used it to get them out of Egypt
+    and God does not chastise Abram for this.
+- note: Abram left Egypt for Negeb. From Negeb he went east of Bethel to where he
+    built his alter, and separated himself from Lot because their possessions were
+    growing to greatly that it was causing strife.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.2-9
+- note: God promised the land in Canaan to him and his offspring. God promised to
+    make his offspring as numerous as the dust of the earth. Abram moved to the oaks
+    of Mambre in Hebron and built the LORD another altar.
+  ref: https://ref.ly/logosref/BibleESV.Ge13.14-18
+- note: When Abram learned his nephew Lot was captured, he took 318 of his trained
+    men in pursuit of him. He divided his forces and attacked at night and brought
+    back Lot, his possessions, and his people.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.13-16
+- note: Abram gave Melchizedek one tenth of everything for the blessing he gave him.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.20
+- note: The king of Sodom asked Abram for his people in exchange for all the goods
+    taken from Abram's battle, but Abram took none of the possessions from the king
+    of Sodom, so that he would not be in his debt.
+  ref: https://ref.ly/logosref/BibleESV.Ge14.21-24
