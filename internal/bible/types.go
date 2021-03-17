@@ -9,6 +9,7 @@ type Character struct {
 	Filename   string      `yaml:"-" json:"-"`
 	CreateTime time.Time   `yaml:"created" json:"created"`
 	UpdateTime time.Time   `yaml:"updated" json:"updated"`
+	Alias      string      `yaml:"alias,omitempty" json:"alias,omitempty"`
 	Meaning    string      `yaml:"meaning,omitempty" json:"meaning,omitempty"`
 	Sex        string      `yaml:"sex,omitempty" json:"sex,omitempty"`
 	Locations  []Reference `yaml:"locations,omitempty" json:"locations,omitempty"`

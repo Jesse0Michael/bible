@@ -1,15 +1,28 @@
 name: Sarai
 created: 2021-01-21T09:11:06.813962795-07:00
-updated: 2021-01-21T09:11:06.813962795-07:00
+updated: 2021-03-17T07:57:22.492102-07:00
 sex: female
+alias: Sarah
 locations:
-  - name: Ur of Chaldeans
-    ref: ../locations/ur-of-caldeans.yaml
-  - name: Haran
-    ref: ../locations/haran.yaml
+- name: Ur of Chaldeans
+  ref: ../locations/ur-of-caldeans.yaml
+- name: Haran
+  ref: ../locations/haran.yaml
 spouse:
-  - name: Abram
-    ref: abram.yaml
+- name: Abram
+  ref: abram.yaml
+associates:
+- name: Hagar
+  ref: hagar.yaml
 info:
-  - note: Was barren.
-    ref: https://ref.ly/logosref/BibleESV.Ge11.30
+- note: Was barren.
+  ref: https://ref.ly/logosref/BibleESV.Ge11.30
+- note: Sarai convinces Abram to impregnate her servant Hagar to solve their childlessness
+    themselves.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.1-3
+- note: When Hagar concieved a son for Abram, Sarai looked on her with contempt and
+    jealousy and Saraai dealt harshly with Hagar and she ran away from Sarai.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.4-6
+- note: God promised to Abram, now Abraham, a son to him and Sarai. And God said that
+    Sarai shall now be called Sarah.
+  ref: https://ref.ly/logosref/BibleESV.Ge17.15-16

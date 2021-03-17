@@ -1,0 +1,17 @@
+name: Ishmael
+created: 2021-03-17T07:47:15.912438-07:00
+updated: 2021-03-17T08:12:44.380132-07:00
+sex: male
+parents:
+- name: Hagar
+  ref: hagar.yaml
+- name: Abram
+  ref: abram.yaml
+info:
+- note: Named Ishmael because the LORD saw Hagar's affliction.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.11
+- note: Though God is establishing his covenant through Isaac, God promised to bless
+    Ishmael and make him a fruitful and mighty nation.
+  ref: https://ref.ly/logosref/BibleESV.Ge17.20-21
+- note: Ishmael was circumcised at 13.
+  ref: https://ref.ly/logosref/BibleESV.Ge17.25

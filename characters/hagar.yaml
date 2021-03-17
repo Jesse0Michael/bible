@@ -1,0 +1,26 @@
+name: Hagar
+created: 2021-03-17T07:32:37.729798-07:00
+updated: 2021-03-17T07:45:46.725825-07:00
+sex: female
+children:
+- name: Ishmael
+  ref: ishmael.yaml
+associates:
+- name: Abram
+  ref: abram.yaml
+- name: Sarai
+  ref: sarai.yaml
+info:
+- note: Servant to Sarai from egypt.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.1
+- note: When Hagar concieved a son for Abram, Sarai looked on her with contempt and
+    jealousy and Saraai dealt harshly with Hagar and she ran away from Sarai.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.4-6
+- note: An angel of the lord came to Hagar and told her to return to Sarai. The angel
+    promised to multiply her offspring.
+  ref: https://ref.ly/logosref/BibleESV.Ge16.7-10
+  commentary: This is the first mention of God intervening with Sarai's and Abram's
+    choice to take their childlessness into their own hands.
+- note: The angel of the LORD told Hagar to call her son Ishmael because the LORD
+    has seen her affliction
+  ref: https://ref.ly/logosref/BibleESV.Ge16.11-12
