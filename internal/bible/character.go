@@ -21,7 +21,7 @@ const (
 func GetCharacter(c *cli.Context) error {
 	name := c.Args().First()
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	ref, err := FindReference(characterDir, name)
@@ -56,7 +56,7 @@ func GetCharacter(c *cli.Context) error {
 func CreateCharacter(c *cli.Context) error {
 	name := strings.Title(c.Args().First())
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	f, err := NewFile(characterDir, name)
@@ -89,7 +89,7 @@ func CreateCharacter(c *cli.Context) error {
 func UpdateCharacter(c *cli.Context) error {
 	name := strings.Title(c.Args().First())
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	ref, err := FindReference(characterDir, name)
@@ -146,7 +146,14 @@ func AuditCharacters(c *cli.Context) error {
 func processCharacter(c *cli.Context, character Character) (Character, error) {
 	ref := Reference{Name: character.Name, Reference: character.Filename}
 	if c.String("sex") != "" {
-		character.Sex = c.String("sex")
+		switch c.String("sex") {
+		case "female":
+			character.Sex = "female"
+		case "male":
+			character.Sex = "male"
+		default:
+			return character, fmt.Errorf("invalid sex: \"%s\" valid values: (male,female)", c.String("sex"))
+		}
 	}
 
 	parent, err := addParent(c.String("parent"), ref)

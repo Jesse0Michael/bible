@@ -20,7 +20,7 @@ func main() {
 		&cli.StringFlag{
 			Name:    "sex",
 			Aliases: []string{"s"},
-			Usage:   "character sex",
+			Usage:   "character sex (male,female)",
 		},
 		&cli.StringFlag{
 			Name:    "parent",

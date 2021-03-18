@@ -21,7 +21,7 @@ const (
 func GetLocation(c *cli.Context) error {
 	name := c.Args().First()
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	ref, err := FindReference(locationDir, name)
@@ -56,7 +56,7 @@ func GetLocation(c *cli.Context) error {
 func CreateLocation(c *cli.Context) error {
 	name := strings.Title(c.Args().First())
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	f, err := NewFile(locationDir, name)
@@ -89,7 +89,7 @@ func CreateLocation(c *cli.Context) error {
 func UpdateLocation(c *cli.Context) error {
 	name := strings.Title(c.Args().First())
 	if name == "" {
-		return errors.New("Required arg NAME not set")
+		return errors.New("required arg NAME not set")
 	}
 
 	ref, err := FindReference(locationDir, name)
