@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	locationDir = "locations"
+	locationDir = "assets/locations"
 )
 
 func GetLocation(c *cli.Context) error {

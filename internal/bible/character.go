@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	characterDir = "characters"
+	characterDir = "assets/characters"
 )
 
 func GetCharacter(c *cli.Context) error {
