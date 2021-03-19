@@ -1,6 +1,6 @@
 name: Lot
 created: 2021-01-21T09:11:06.786663176-07:00
-updated: 2021-03-15T08:23:55.530831-07:00
+updated: 2021-03-19T08:26:56.157713-07:00
 sex: male
 locations:
 - name: Ur of Chaldeans
@@ -13,9 +13,16 @@ locations:
   ref: ../locations/sodom.yaml
 - name: Valley Of Siddim
   ref: ../locations/valley-of-siddim.yaml
+- name: Zoar
+  ref: ../assets/locations/zoar.yaml
 parents:
 - name: Haran
   ref: haran.yaml
+children:
+- name: Moab
+  ref: moab.yaml
+- name: Ben-Ammi
+  ref: ben-ammi.yaml
 associates:
 - name: Abram
   ref: abram.yaml
@@ -33,3 +40,27 @@ info:
     men in pursuit of him. He divided his forces and attacked at night and brought
     back Lot, his possessions, and his people.
   ref: https://ref.ly/logosref/BibleESV.Ge14.13-16
+- note: The angels that visited Abraham arrived at Sodom to judge it. Lot spotted
+    them and invited them to stay with him, eat, and wash their feet.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.1-3
+- note: Wicked men of Sodom came to Lot's house in the night demanding that he hand
+    over the two angels so that they could have sex with him. Lot begged them not
+    to, and even offered them both of his young daughters instead. But the evil men
+    of Sodom approached Lot's home to break in and the angels reached out and blinded
+    the mob.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.4-11
+- note: The angels of the LORD tell Lot and his family to escape Sodom because God
+    was going to destroy it. Lot's betrothed sons-in-law did not believe him. The
+    angels demanded that Lot leave immediately and run for the hills. Lot begged that
+    he instead to the nearby city of Zoar instead of fleeing for the hills, which
+    God allowed and spared the city of Zoar.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.12-22
+- note: As the sun rose while Lot, his wife, and his daughters were escaping Sodom;
+    The LORD rained down sulfur and fire on Sodom and Gomorrah. Lot's wife looked
+    back at the destruction and became a pillar of salt.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.23-26
+- note: Lot and his daughters stayed in a cave, rather than stay in Zoar, after fleeing
+    Sodom before its destruction. The 2 daughters concocted a plan to make their
+    father drunk and sleep with him, to preserve their families line. On two separate
+    nights, they did just that and both became pregnant.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.30-36

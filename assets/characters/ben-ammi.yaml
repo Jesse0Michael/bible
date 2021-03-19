@@ -1,0 +1,11 @@
+name: Ben-Ammi
+created: 2021-03-19T08:29:36.982214-07:00
+updated: 2021-03-19T08:29:36.982214-07:00
+sex: male
+parents:
+- name: Lot
+  ref: lot.yaml
+info:
+- note: Born from Lot and his younger daughter, who got Lot drunk so that she could
+    be made pregnant. Became the father of the Ammonites.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.36-38

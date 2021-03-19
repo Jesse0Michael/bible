@@ -1,0 +1,11 @@
+name: Moab
+created: 2021-03-19T08:28:47.688523-07:00
+updated: 2021-03-19T08:28:47.688523-07:00
+sex: male
+parents:
+- name: Lot
+  ref: lot.yaml
+info:
+- note: Born from Lot and his firstborn daughter, who got Lot drunk so that she could
+    be made pregnant. Became the father of the Moabites.
+  ref: https://ref.ly/logosref/BibleESV.Ge19.36-37
