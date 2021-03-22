@@ -1,0 +1,32 @@
+name: Abimelech
+created: 2021-03-22T08:03:00.656131-07:00
+updated: 2021-03-22T08:27:56.544535-07:00
+sex: male
+locations:
+- name: Gerar
+  ref: ../assets/locations/gerar.yaml
+associates:
+- name: Abram
+  ref: abram.yaml
+- name: Sarai
+  ref: sarai.yaml
+info:
+- note: The king of Gerar
+  ref: https://ref.ly/logosref/BibleESV.Ge20.2
+- note: Abraham had sojourned to Gerar and told Abimelech, the king, that Sarah was
+    his sister and the king took her. But God told Abimelech that he is a dead man
+    because Sarah is Abraham's wife. Because he had not yet been with her, Abimelech
+    begged for mercy to which God said it was him who kept Abimelech from sinning
+    against God.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.2-7
+  commentary: This is the second time Abraham pulled this trick. This time there is
+    some context of God's disapproval of the act, through him confronting Abimelech.
+    Sarah was 90.
+- note: Abimelech confronted Abraham who blamed his actions on there being no fear
+    of God in this place, and tried even harder by saying they technically are brother
+    and sister.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.9-13
+- note: Abimelech sent Abraham and Sarah away with sheep, oxen, servants, and silver.
+    In exchange Abraham prayed to God who healed Abimelech and those in his house,
+    for the LORD had closed the wombs of all the women under Abimelech's house.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.14-18

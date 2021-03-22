@@ -1,6 +1,6 @@
 name: Abram
 created: 2021-01-21T09:11:06.786620059-07:00
-updated: 2021-03-18T08:19:09.486814-07:00
+updated: 2021-03-22T08:27:49.619119-07:00
 alias: Abraham
 sex: male
 locations:
@@ -32,6 +32,8 @@ children:
 associates:
 - name: Lot
   ref: lot.yaml
+- name: Abimelech
+  ref: abimelech.yaml
 info:
 - note: God commanded Abram to leave his country and his family for a land that He
     will show him. God promised to make him a great nation and will bless him and
@@ -125,11 +127,29 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge18.16-21
 - note: Abraham intercedes for Sodom, asking that the LORD not sweep away the righteous
     with the wicked. First Abraham asks the LORD to spare the city if there is 50
-    righteous people, to which the LORD agrees. Abraham then changes his request
-    to 45 righteous people, to which the LORD agrees, again. Abraham changes his request
+    righteous people, to which the LORD agrees. Abraham then changes his request to
+    45 righteous people, to which the LORD agrees, again. Abraham changes his request
     again to 40 people, and God agrees. Not letting up, he changes his request to
     30, and then to 20, and then to 10. All of which God agreed with Abraham's request
     to spare the city if there are 10 righteous people there.
   ref: https://ref.ly/logosref/BibleESV.Ge18.27-33
   commentary: A humbling encounter of letting your requests be known to God, and a
     grim portrayal of how evil these cities are.
+- note: Abraham had sojourned to Gerar and told Abimelech, the king, that Sarah was
+    his sister and the king took her. But God told Abimelech that he is a dead man
+    because Sarah is Abraham's wife. Because he had not yet been with her, Abimelech
+    begged for mercy to which God said it was him who kept Abimelech from sinning
+    against God.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.2-7
+  commentary: This is the second time Abraham pulled this trick. This time there is
+    some context of God's disapproval of the act, through him confronting Abimelech.
+    Sarah was 90.
+- note: Abimelech confronted Abraham who blamed his actions on there being no fear
+    of God in this place, and tried even harder by saying they technically are brother
+    and sister.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.9-13
+- note: Abimelech sent Abraham and Sarah away with sheep, oxen, servants, and silver.
+    In exchange Abraham prayed to God who healed Abimelech and those in his house,
+    for the LORD had closed the wombs of all the women under Abimelech's house.
+  ref: https://ref.ly/logosref/BibleESV.Ge20.14-18
+  commentary: Again, Abraham profits from his deception.
