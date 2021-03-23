@@ -197,6 +197,10 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		character.Info = append(character.Info, note)
 	}
 
+	if c.String("meaning") != "" {
+		character.Meaning = c.String("meaning")
+	}
+
 	return character, nil
 }
 

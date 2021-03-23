@@ -128,5 +128,9 @@ func processLocation(c *cli.Context, location Location) (Location, error) {
 		location.Info = append(location.Info, note)
 	}
 
+	if c.String("meaning") != "" {
+		location.Meaning = c.String("meaning")
+	}
+
 	return location, nil
 }

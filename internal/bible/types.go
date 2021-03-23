@@ -36,6 +36,7 @@ type Locations map[string][]Location
 type Location struct {
 	Name       string    `yaml:"name" json:"name"`
 	Filename   string    `yaml:"-" json:"-"`
+	Meaning    string    `yaml:"meaning,omitempty" json:"meaning,omitempty"`
 	CreateTime time.Time `yaml:"created" json:"created"`
 	UpdateTime time.Time `yaml:"updated" json:"updated"`
 	Info       []Note    `yaml:"info,omitempty" json:"info,omitempty"`

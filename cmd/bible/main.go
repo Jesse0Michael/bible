@@ -57,6 +57,11 @@ func main() {
 			Aliases: []string{"l"},
 			Usage:   "specific location this character was at",
 		},
+		&cli.StringFlag{
+			Name:    "meaning",
+			Aliases: []string{"m"},
+			Usage:   "the meaning behind the name of this character",
+		},
 	}
 	locationFlags := []cli.Flag{
 		&cli.StringFlag{
@@ -73,6 +78,11 @@ func main() {
 			Name:    "commentary",
 			Aliases: []string{"c"},
 			Usage:   "commentary for note (requires note)",
+		},
+		&cli.StringFlag{
+			Name:    "meaning",
+			Aliases: []string{"m"},
+			Usage:   "the meaning behind the name of this location",
 		},
 	}
 	app := cli.App{
