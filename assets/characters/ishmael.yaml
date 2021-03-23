@@ -1,7 +1,12 @@
 name: Ishmael
 created: 2021-03-17T07:47:15.912438-07:00
-updated: 2021-03-17T08:12:44.380132-07:00
+updated: 2021-03-23T08:33:42.076817-07:00
 sex: male
+locations:
+- name: Paran
+  ref: ../assets/locations/paran.yaml
+- name: Egypt
+  ref: ../assets/locations/egypt.yaml
 parents:
 - name: Hagar
   ref: hagar.yaml
@@ -15,3 +20,17 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge17.20-21
 - note: Ishmael was circumcised at 13.
   ref: https://ref.ly/logosref/BibleESV.Ge17.25
+- note: After Abraham and Sarah had Isaac, Sarah asked Abraham to banish Hagar and
+    Ishmael. God allowed Abraham to do so and he sent the mother and the child off
+    with meager provisions to wander the wilderness.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.9-14
+- note: When Hagar's and Ishmael's provisions were gone, Hagar left Ishmael under
+    a bush to die. She walked out of earshot to weep. An Angel of the LORD came Hagar
+    telling her to fear not, for the LORD has heard the boy. God opened her eyes to
+    show her a well of water and they drank.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.15-19
+  commentary: For me, this is one of the saddest stories in the Bible. Though it does
+    show God's compassion for the Widow and Orphan. Ishmael would be around 13-14.
+- note: Ishmael grew up in the wilderness of Paran, and became an expert with a bow,
+    and moved to Egypt.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.20-21

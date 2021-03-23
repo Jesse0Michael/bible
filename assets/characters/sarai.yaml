@@ -1,6 +1,6 @@
 name: Sarai
 created: 2021-01-21T09:11:06.813962795-07:00
-updated: 2021-03-22T08:15:48.409695-07:00
+updated: 2021-03-23T08:00:16.31856-07:00
 alias: Sarah
 sex: female
 locations:
@@ -11,6 +11,9 @@ locations:
 spouse:
 - name: Abram
   ref: abram.yaml
+children:
+- name: Isaac
+  ref: isaac.yaml
 associates:
 - name: Hagar
   ref: hagar.yaml
@@ -50,3 +53,10 @@ info:
   commentary: This is the second time Abraham pulled this trick. This time there is
     some context of God's disapproval of the act, through him confronting Abimelech.
     Sarah was 90.
+- note: As God promised, Abraham and Sarah had a son in their old age whom they named
+    Issac.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.1-7
+- note: After Abraham and Sarah had Isaac, Sarah asked Abraham to banish Hagar and
+    Ishmael. God allowed Abraham to do so and he sent the mother and the child off
+    with meager provisions to wander the wilderness.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.9-14

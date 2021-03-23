@@ -1,10 +1,12 @@
 name: Abimelech
 created: 2021-03-22T08:03:00.656131-07:00
-updated: 2021-03-22T08:27:56.544535-07:00
+updated: 2021-03-23T08:54:05.678213-07:00
 sex: male
 locations:
 - name: Gerar
   ref: ../assets/locations/gerar.yaml
+- name: Beersheba
+  ref: ../locations/beersheba.yaml
 associates:
 - name: Abram
   ref: abram.yaml
@@ -30,3 +32,8 @@ info:
     In exchange Abraham prayed to God who healed Abimelech and those in his house,
     for the LORD had closed the wombs of all the women under Abimelech's house.
   ref: https://ref.ly/logosref/BibleESV.Ge20.14-18
+- note: Abimelech asked Abraham to deal kindly with him as he has done for Abraham.
+    Abraham confronts Abimelech on a well that belonged to Abraham. The two enter
+    a covenant and Abraham gives Abimelech 7 ewe sheep as a witness that Abraham
+    dug this well.
+  ref: https://ref.ly/logosref/BibleESV.Ge21.22-32
