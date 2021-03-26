@@ -1,9 +1,17 @@
 name: Isaac
 created: 2021-03-22T08:36:09.660984-07:00
-updated: 2021-03-22T08:36:25.274448-07:00
+updated: 2021-03-26T07:49:21.738345-07:00
+meaning: laughter
 sex: male
 parents:
 - name: Abram
   ref: abram.yaml
 - name: Sarai
   ref: sarai.yaml
+info:
+- note: Abraham took his son Isaac to the place the LORD asked him to sacrificce him.
+    He built the altar, bound Isaac, and laid him no the wood. Abraham lifted his
+    knife to slaughter Isaac, but the LORD called out to him, telling him to stop,
+    that he truely does fear the LORD, and provided a ram to replace Isaac as the
+    sacrifice.
+  ref: https://ref.ly/logosref/BibleESV.Ge22.9-14

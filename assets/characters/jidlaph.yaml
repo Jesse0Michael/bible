@@ -1,0 +1,9 @@
+name: Jidlaph
+created: 2021-03-26T07:58:16.48441-07:00
+updated: 2021-03-26T07:59:43.42284-07:00
+sex: male
+parents:
+- name: Nahor
+  ref: nahor2.yaml
+- name: Milcah
+  ref: milcah.yaml

@@ -1,0 +1,9 @@
+name: Uz
+created: 2021-03-26T07:55:30.584514-07:00
+updated: 2021-03-26T07:57:23.926719-07:00
+sex: male
+parents:
+- name: Nahor
+  ref: nahor2.yaml
+- name: Milcah
+  ref: milcah.yaml

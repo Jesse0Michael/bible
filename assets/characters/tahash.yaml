@@ -1,0 +1,9 @@
+name: Tahash
+created: 2021-03-26T08:02:55.198702-07:00
+updated: 2021-03-26T08:03:36.565603-07:00
+sex: male
+parents:
+- name: Reumah
+  ref: reumah.yaml
+- name: Nahor
+  ref: nahor2.yaml

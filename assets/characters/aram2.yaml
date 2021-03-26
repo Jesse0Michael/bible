@@ -1,0 +1,7 @@
+name: Aram
+created: 2021-03-26T07:56:31.941317-07:00
+updated: 2021-03-26T07:56:31.941317-07:00
+sex: male
+parents:
+- name: Kemuel
+  ref: kemuel.yaml

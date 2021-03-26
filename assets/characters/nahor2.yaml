@@ -8,3 +8,28 @@ parents:
 spouse:
 - name: Milcah
   ref: milcah.yaml
+children:
+- name: Uz
+  ref: uz2.yaml
+- name: Buz
+  ref: buz.yaml
+- name: Kemuel
+  ref: kemuel.yaml
+- name: Chesed
+  ref: chesed.yaml
+- name: Hazo
+  ref: hazo.yaml
+- name: Pildash
+  ref: pildash.yaml
+- name: Jidlaph
+  ref: jidlaph.yaml
+- name: Bethuel
+  ref: bethuel.yaml
+- name: Tebah
+  ref: tebah.yaml
+- name: Gaham
+  ref: gaham.yaml
+- name: Tahash
+  ref: tahash.yaml
+- name: Maacah
+  ref: maacah.yaml

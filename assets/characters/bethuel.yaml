@@ -1,0 +1,12 @@
+name: Bethuel
+created: 2021-03-26T07:58:24.681134-07:00
+updated: 2021-03-26T07:59:52.327859-07:00
+sex: male
+parents:
+- name: Nahor
+  ref: nahor2.yaml
+- name: Milcah
+  ref: milcah.yaml
+children:
+- name: Rebekah
+  ref: rebekah.yaml

@@ -1,0 +1,9 @@
+name: Tebah
+created: 2021-03-26T08:02:35.344591-07:00
+updated: 2021-03-26T08:03:23.359983-07:00
+sex: male
+parents:
+- name: Reumah
+  ref: reumah.yaml
+- name: Nahor
+  ref: nahor2.yaml

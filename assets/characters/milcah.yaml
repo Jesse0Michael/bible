@@ -5,3 +5,22 @@ sex: female
 spouse:
 - name: Nahor
   ref: nahor2.yaml
+children:
+- name: Uz
+  ref: uz3.yaml
+- name: Uz
+  ref: uz2.yaml
+- name: Buz
+  ref: buz.yaml
+- name: Kemuel
+  ref: kemuel.yaml
+- name: Chesed
+  ref: chesed.yaml
+- name: Hazo
+  ref: hazo.yaml
+- name: Pildash
+  ref: pildash.yaml
+- name: Jidlaph
+  ref: jidlaph.yaml
+- name: Bethuel
+  ref: bethuel.yaml

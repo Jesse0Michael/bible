@@ -1,0 +1,7 @@
+name: Rebekah
+created: 2021-03-26T08:00:33.834798-07:00
+updated: 2021-03-26T08:00:33.834798-07:00
+sex: female
+parents:
+- name: Bethuel
+  ref: bethuel.yaml

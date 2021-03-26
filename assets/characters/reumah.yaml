@@ -1,0 +1,16 @@
+name: Reumah
+created: 2021-03-26T08:02:06.316594-07:00
+updated: 2021-03-26T08:02:06.316594-07:00
+sex: female
+children:
+- name: Tebah
+  ref: tebah.yaml
+- name: Gaham
+  ref: gaham.yaml
+- name: Tahash
+  ref: tahash.yaml
+- name: Maacah
+  ref: maacah.yaml
+info:
+- note: Nahor's, Abraham's brother, concubine.
+  ref: https://ref.ly/logosref/BibleESV.Ge22.24

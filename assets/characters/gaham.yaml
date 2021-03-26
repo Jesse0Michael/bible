@@ -1,0 +1,9 @@
+name: Gaham
+created: 2021-03-26T08:02:42.793286-07:00
+updated: 2021-03-26T08:03:29.875015-07:00
+sex: male
+parents:
+- name: Reumah
+  ref: reumah.yaml
+- name: Nahor
+  ref: nahor2.yaml

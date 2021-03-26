@@ -1,0 +1,12 @@
+name: Kemuel
+created: 2021-03-26T07:56:16.383642-07:00
+updated: 2021-03-26T07:57:35.675838-07:00
+sex: male
+parents:
+- name: Nahor
+  ref: nahor2.yaml
+- name: Milcah
+  ref: milcah.yaml
+children:
+- name: Aram
+  ref: aram2.yaml

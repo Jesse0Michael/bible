@@ -1,0 +1,9 @@
+name: Maacah
+created: 2021-03-26T08:03:02.956336-07:00
+updated: 2021-03-26T08:03:42.578452-07:00
+sex: male
+parents:
+- name: Reumah
+  ref: reumah.yaml
+- name: Nahor
+  ref: nahor2.yaml

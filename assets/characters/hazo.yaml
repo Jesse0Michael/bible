@@ -1,0 +1,9 @@
+name: Hazo
+created: 2021-03-26T07:57:59.570157-07:00
+updated: 2021-03-26T07:59:27.707794-07:00
+sex: male
+parents:
+- name: Nahor
+  ref: nahor2.yaml
+- name: Milcah
+  ref: milcah.yaml
