@@ -1,6 +1,6 @@
 name: Isaac
 created: 2021-03-22T08:36:09.660984-07:00
-updated: 2021-03-26T07:49:21.738345-07:00
+updated: 2021-03-29T08:59:38.382025-07:00
 meaning: laughter
 sex: male
 parents:
@@ -8,6 +8,9 @@ parents:
   ref: abram.yaml
 - name: Sarai
   ref: sarai.yaml
+spouse:
+- name: Rebekah
+  ref: rebekah.yaml
 info:
 - note: Abraham took his son Isaac to the place the LORD asked him to sacrificce him.
     He built the altar, bound Isaac, and laid him no the wood. Abraham lifted his
@@ -15,3 +18,6 @@ info:
     that he truely does fear the LORD, and provided a ram to replace Isaac as the
     sacrifice.
   ref: https://ref.ly/logosref/BibleESV.Ge22.9-14
+- note: Isaac met his father's servant in a field with Rebekah and Isaac took her
+    to her mother's tent and married her.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.66-67

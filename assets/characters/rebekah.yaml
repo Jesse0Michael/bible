@@ -1,7 +1,33 @@
 name: Rebekah
 created: 2021-03-26T08:00:33.834798-07:00
-updated: 2021-03-26T08:00:33.834798-07:00
+updated: 2021-03-29T08:59:30.968866-07:00
 sex: female
+locations:
+- name: Nahor
+  ref: ../locations/nahor.yaml
 parents:
 - name: Bethuel
   ref: bethuel.yaml
+spouse:
+- name: Isaac
+  ref: isaac.yaml
+associates:
+- name: Laban
+  ref: laban.yaml
+info:
+- note: Rebekah offered Abraham's servant, who had been tasked with finding Isaac
+    a wife, water for him and his camels. This was the sign the servant had asked
+    God for to find the woman who was appointed to be Isaac's wife.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.15-21
+- note: Labab and Bethuel give Rebekah to Abraham's servant to return with him and
+    become Isaac's wife.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.50-51
+- note: Rebekah's family sent her off with a blessing that she becomes thousands off
+    ten thousands and her offspring possess the gate of their enemies.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.60
+  commentary: Rebekah's family asked if she could stay 10 days before leaving, but
+    she said she was willing to leave. This blessing is the same blessing that the
+    angel of the LORD gave to Isaac in Gen 22:15-17
+- note: Isaac met his father's servant in a field with Rebekah and Isaac took her
+    to her mother's tent and married her.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.66-67

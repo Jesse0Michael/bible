@@ -1,16 +1,16 @@
-name: Bethuel
-created: 2021-03-26T07:58:24.681134-07:00
-updated: 2021-03-29T08:46:46.097935-07:00
+name: Laban
+created: 2021-03-29T08:39:27.447334-07:00
+updated: 2021-03-29T08:56:00.557261-07:00
 sex: male
-parents:
+locations:
 - name: Nahor
-  ref: nahor2.yaml
-- name: Milcah
-  ref: milcah.yaml
-children:
+  ref: ../locations/nahor.yaml
+associates:
 - name: Rebekah
   ref: rebekah.yaml
 info:
+- note: Rebekah's brother.
+  ref: https://ref.ly/logosref/BibleESV.Ge24.29
 - note: Labab and Bethuel give Rebekah to Abraham's servant to return with him and
     become Isaac's wife.
   ref: https://ref.ly/logosref/BibleESV.Ge24.50-51
