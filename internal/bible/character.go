@@ -161,6 +161,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		return character, err
 	}
 	if parent != nil {
+		if hasReference(parent.Reference, character.Parents) {
+			return character, fmt.Errorf("parent already exists: \"%s\"", parent.Name)
+		}
 		character.Parents = append(character.Parents, *parent)
 	}
 
@@ -169,6 +172,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		return character, err
 	}
 	if spouse != nil {
+		if hasReference(spouse.Reference, character.Spouse) {
+			return character, fmt.Errorf("spouse already exists: \"%s\"", spouse.Name)
+		}
 		character.Spouse = append(character.Spouse, *spouse)
 	}
 
@@ -177,6 +183,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		return character, err
 	}
 	if associate != nil {
+		if hasReference(associate.Reference, character.Associates) {
+			return character, fmt.Errorf("associate already exists: \"%s\"", associate.Name)
+		}
 		character.Associates = append(character.Associates, *associate)
 	}
 
@@ -185,6 +194,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		return character, err
 	}
 	if location != nil {
+		if hasReference(location.Reference, character.Locations) {
+			return character, fmt.Errorf("location already exists: \"%s\"", location.Name)
+		}
 		character.Locations = append(character.Locations, *location)
 	}
 
@@ -220,14 +232,16 @@ func addParent(parent string, character Reference) (*Reference, error) {
 	}
 
 	// Update parent reference
-	parentCharacter.Children = append(parentCharacter.Children, character)
-	b, err = yaml.Marshal(parentCharacter)
-	if err != nil {
-		return nil, err
-	}
+	if !hasReference(character.Reference, parentCharacter.Children) {
+		parentCharacter.Children = append(parentCharacter.Children, character)
+		b, err = yaml.Marshal(parentCharacter)
+		if err != nil {
+			return nil, err
+		}
 
-	if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
-		return nil, err
+		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+			return nil, err
+		}
 	}
 	return &Reference{Name: parentCharacter.Name, Reference: ref}, nil
 }
@@ -248,14 +262,16 @@ func addSpouse(spouse string, character Reference) (*Reference, error) {
 	}
 
 	// Update spouse reference
-	spouseCharacter.Spouse = append(spouseCharacter.Spouse, character)
-	b, err = yaml.Marshal(spouseCharacter)
-	if err != nil {
-		return nil, err
-	}
+	if !hasReference(character.Reference, spouseCharacter.Spouse) {
+		spouseCharacter.Spouse = append(spouseCharacter.Spouse, character)
+		b, err = yaml.Marshal(spouseCharacter)
+		if err != nil {
+			return nil, err
+		}
 
-	if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
-		return nil, err
+		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+			return nil, err
+		}
 	}
 	return &Reference{Name: spouseCharacter.Name, Reference: ref}, nil
 }
@@ -276,14 +292,16 @@ func addAssociate(associate string, character Reference) (*Reference, error) {
 	}
 
 	// Update associate reference
-	associateCharacter.Associates = append(associateCharacter.Associates, character)
-	b, err = yaml.Marshal(associateCharacter)
-	if err != nil {
-		return nil, err
-	}
+	if !hasReference(character.Reference, associateCharacter.Associates) {
+		associateCharacter.Associates = append(associateCharacter.Associates, character)
+		b, err = yaml.Marshal(associateCharacter)
+		if err != nil {
+			return nil, err
+		}
 
-	if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
-		return nil, err
+		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+			return nil, err
+		}
 	}
 	return &Reference{Name: associateCharacter.Name, Reference: ref}, nil
 }
@@ -304,4 +322,13 @@ func addLocation(location string, character Reference) (*Reference, error) {
 	}
 
 	return &Reference{Name: loc.Name, Reference: fmt.Sprintf("../locations/%s", ref)}, nil
+}
+
+func hasReference(ref string, references []Reference) bool {
+	for _, s := range references {
+		if s.Reference == ref {
+			return true
+		}
+	}
+	return false
 }
