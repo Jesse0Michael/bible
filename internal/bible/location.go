@@ -54,68 +54,75 @@ func GetLocation(c *cli.Context) error {
 }
 
 func CreateLocation(c *cli.Context) error {
-	name := strings.Title(c.Args().First())
-	if name == "" {
+	if len(c.Args().Slice()) == 0 {
 		return errors.New("required arg NAME not set")
 	}
+	for _, arg := range c.Args().Slice() {
+		name := strings.Title(arg)
+		f, err := NewFile(locationDir, name)
+		if err != nil {
+			return err
+		}
+		defer f.Close()
 
-	f, err := NewFile(locationDir, name)
-	if err != nil {
-		return err
+		location, err := processLocation(c, Location{
+			Name:     name,
+			Filename: filepath.Base(f.Name()),
+		})
+		if err != nil {
+			_ = os.Remove(f.Name())
+			return err
+		}
+
+		location.CreateTime = time.Now()
+		location.UpdateTime = location.CreateTime
+		b, err := yaml.Marshal(location)
+		if err != nil {
+			_ = os.Remove(f.Name())
+			return err
+		}
+
+		if _, err = f.Write(b); err != nil {
+			return err
+		}
 	}
-	defer f.Close()
-
-	location, err := processLocation(c, Location{
-		Name:     name,
-		Filename: filepath.Base(f.Name()),
-	})
-	if err != nil {
-		_ = os.Remove(f.Name())
-		return err
-	}
-
-	location.CreateTime = time.Now()
-	location.UpdateTime = location.CreateTime
-	b, err := yaml.Marshal(location)
-	if err != nil {
-		_ = os.Remove(f.Name())
-		return err
-	}
-
-	_, err = f.Write(b)
-	return err
+	return nil
 }
 
 func UpdateLocation(c *cli.Context) error {
-	name := strings.Title(c.Args().First())
-	if name == "" {
+	if len(c.Args().Slice()) == 0 {
 		return errors.New("required arg NAME not set")
 	}
+	for _, arg := range c.Args().Slice() {
+		name := strings.Title(arg)
+		ref, err := FindReference(locationDir, name)
+		if err != nil {
+			return err
+		}
+		b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
+		var location Location
+		err = yaml.Unmarshal(b, &location)
+		if err != nil {
+			return err
+		}
 
-	ref, err := FindReference(locationDir, name)
-	if err != nil {
-		return err
-	}
-	b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
-	var location Location
-	err = yaml.Unmarshal(b, &location)
-	if err != nil {
-		return err
-	}
+		location.Filename = ref
+		location, err = processLocation(c, location)
+		if err != nil {
+			return err
+		}
 
-	location.Filename = ref
-	location, err = processLocation(c, location)
-	if err != nil {
-		return err
-	}
+		location.UpdateTime = time.Now()
+		b, err = yaml.Marshal(location)
+		if err != nil {
+			return err
+		}
 
-	location.UpdateTime = time.Now()
-	b, err = yaml.Marshal(location)
-	if err != nil {
-		return err
+		if err := ioutil.WriteFile(filepath.Join(locationDir, ref), b, 0); err != nil {
+			return err
+		}
 	}
-
-	return ioutil.WriteFile(filepath.Join(locationDir, ref), b, 0)
+	return nil
 }
 
 func processLocation(c *cli.Context, location Location) (Location, error) {

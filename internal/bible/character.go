@@ -54,68 +54,75 @@ func GetCharacter(c *cli.Context) error {
 }
 
 func CreateCharacter(c *cli.Context) error {
-	name := strings.Title(c.Args().First())
-	if name == "" {
+	if len(c.Args().Slice()) == 0 {
 		return errors.New("required arg NAME not set")
 	}
+	for _, arg := range c.Args().Slice() {
+		name := strings.Title(arg)
+		f, err := NewFile(characterDir, name)
+		if err != nil {
+			return err
+		}
+		defer f.Close()
 
-	f, err := NewFile(characterDir, name)
-	if err != nil {
-		return err
+		character, err := processCharacter(c, Character{
+			Name:     name,
+			Filename: filepath.Base(f.Name()),
+		})
+		if err != nil {
+			_ = os.Remove(f.Name())
+			return err
+		}
+
+		character.CreateTime = time.Now()
+		character.UpdateTime = character.CreateTime
+		b, err := yaml.Marshal(character)
+		if err != nil {
+			_ = os.Remove(f.Name())
+			return err
+		}
+
+		if _, err = f.Write(b); err != nil {
+			return err
+		}
 	}
-	defer f.Close()
-
-	character, err := processCharacter(c, Character{
-		Name:     name,
-		Filename: filepath.Base(f.Name()),
-	})
-	if err != nil {
-		_ = os.Remove(f.Name())
-		return err
-	}
-
-	character.CreateTime = time.Now()
-	character.UpdateTime = character.CreateTime
-	b, err := yaml.Marshal(character)
-	if err != nil {
-		_ = os.Remove(f.Name())
-		return err
-	}
-
-	_, err = f.Write(b)
-	return err
+	return nil
 }
 
 func UpdateCharacter(c *cli.Context) error {
-	name := strings.Title(c.Args().First())
-	if name == "" {
+	if len(c.Args().Slice()) == 0 {
 		return errors.New("required arg NAME not set")
 	}
+	for _, arg := range c.Args().Slice() {
+		name := strings.Title(arg)
+		ref, err := FindReference(characterDir, name)
+		if err != nil {
+			return err
+		}
+		b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+		var character Character
+		err = yaml.Unmarshal(b, &character)
+		if err != nil {
+			return err
+		}
 
-	ref, err := FindReference(characterDir, name)
-	if err != nil {
-		return err
-	}
-	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
-	var character Character
-	err = yaml.Unmarshal(b, &character)
-	if err != nil {
-		return err
-	}
+		character.Filename = ref
+		character, err = processCharacter(c, character)
+		if err != nil {
+			return err
+		}
 
-	character.Filename = ref
-	character, err = processCharacter(c, character)
-	if err != nil {
-		return err
-	}
+		character.UpdateTime = time.Now()
+		b, err = yaml.Marshal(character)
+		if err != nil {
+			return err
+		}
 
-	character.UpdateTime = time.Now()
-	b, err = yaml.Marshal(character)
-	if err != nil {
-		return err
+		if err := ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+			return err
+		}
 	}
-
-	return ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0)
+	return nil
 }
 
 func AuditCharacters(c *cli.Context) error {
