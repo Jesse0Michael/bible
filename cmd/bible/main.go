@@ -22,12 +22,12 @@ func main() {
 			Aliases: []string{"s"},
 			Usage:   "character sex (male,female)",
 		},
-		&cli.StringFlag{
+		&cli.StringSliceFlag{
 			Name:    "parent",
 			Aliases: []string{"p"},
 			Usage:   "character parent (name or reference)",
 		},
-		&cli.StringFlag{
+		&cli.StringSliceFlag{
 			Name:    "spouse",
 			Aliases: []string{"sp"},
 			Usage:   "character spouse (name or reference)",
@@ -47,12 +47,12 @@ func main() {
 			Aliases: []string{"c"},
 			Usage:   "commentary for note (requires note)",
 		},
-		&cli.StringFlag{
+		&cli.StringSliceFlag{
 			Name:    "associate",
 			Aliases: []string{"a"},
 			Usage:   "non immediate family member whom this character associated with",
 		},
-		&cli.StringFlag{
+		&cli.StringSliceFlag{
 			Name:    "location",
 			Aliases: []string{"l"},
 			Usage:   "specific location this character was at",
@@ -86,8 +86,9 @@ func main() {
 		},
 	}
 	app := cli.App{
-		Name:    "bible",
-		Version: "0.0.0",
+		Name:                 "bible",
+		Version:              "0.0.0",
+		EnableBashCompletion: true,
 		Commands: []*cli.Command{
 			{
 				Name:  "get",

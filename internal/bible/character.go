@@ -156,48 +156,56 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		}
 	}
 
-	parent, err := addParent(c.String("parent"), ref)
-	if err != nil {
-		return character, err
-	}
-	if parent != nil {
-		if hasReference(parent.Reference, character.Parents) {
-			return character, fmt.Errorf("parent already exists: \"%s\"", parent.Name)
+	for _, arg := range c.StringSlice("parent") {
+		parent, err := addParent(arg, ref)
+		if err != nil {
+			return character, err
 		}
-		character.Parents = append(character.Parents, *parent)
+		if parent != nil {
+			if hasReference(parent.Reference, character.Parents) {
+				return character, fmt.Errorf("parent already exists: \"%s\"", parent.Name)
+			}
+			character.Parents = append(character.Parents, *parent)
+		}
 	}
 
-	spouse, err := addSpouse(c.String("spouse"), ref)
-	if err != nil {
-		return character, err
-	}
-	if spouse != nil {
-		if hasReference(spouse.Reference, character.Spouse) {
-			return character, fmt.Errorf("spouse already exists: \"%s\"", spouse.Name)
+	for _, arg := range c.StringSlice("spouse") {
+		spouse, err := addSpouse(arg, ref)
+		if err != nil {
+			return character, err
 		}
-		character.Spouse = append(character.Spouse, *spouse)
+		if spouse != nil {
+			if hasReference(spouse.Reference, character.Spouse) {
+				return character, fmt.Errorf("spouse already exists: \"%s\"", spouse.Name)
+			}
+			character.Spouse = append(character.Spouse, *spouse)
+		}
 	}
 
-	associate, err := addAssociate(c.String("associate"), ref)
-	if err != nil {
-		return character, err
-	}
-	if associate != nil {
-		if hasReference(associate.Reference, character.Associates) {
-			return character, fmt.Errorf("associate already exists: \"%s\"", associate.Name)
+	for _, arg := range c.StringSlice("associate") {
+		associate, err := addAssociate(arg, ref)
+		if err != nil {
+			return character, err
 		}
-		character.Associates = append(character.Associates, *associate)
+		if associate != nil {
+			if hasReference(associate.Reference, character.Associates) {
+				return character, fmt.Errorf("associate already exists: \"%s\"", associate.Name)
+			}
+			character.Associates = append(character.Associates, *associate)
+		}
 	}
 
-	location, err := addLocation(c.String("location"), ref)
-	if err != nil {
-		return character, err
-	}
-	if location != nil {
-		if hasReference(location.Reference, character.Locations) {
-			return character, fmt.Errorf("location already exists: \"%s\"", location.Name)
+	for _, arg := range c.StringSlice("location") {
+		location, err := addLocation(arg, ref)
+		if err != nil {
+			return character, err
 		}
-		character.Locations = append(character.Locations, *location)
+		if location != nil {
+			if hasReference(location.Reference, character.Locations) {
+				return character, fmt.Errorf("location already exists: \"%s\"", location.Name)
+			}
+			character.Locations = append(character.Locations, *location)
+		}
 	}
 
 	if c.String("note") != "" {
@@ -217,9 +225,6 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 }
 
 func addParent(parent string, character Reference) (*Reference, error) {
-	if parent == "" {
-		return nil, nil
-	}
 	ref, err := FindReference(characterDir, parent)
 	if err != nil {
 		return nil, err
@@ -247,9 +252,6 @@ func addParent(parent string, character Reference) (*Reference, error) {
 }
 
 func addSpouse(spouse string, character Reference) (*Reference, error) {
-	if spouse == "" {
-		return nil, nil
-	}
 	ref, err := FindReference(characterDir, spouse)
 	if err != nil {
 		return nil, err
@@ -277,9 +279,6 @@ func addSpouse(spouse string, character Reference) (*Reference, error) {
 }
 
 func addAssociate(associate string, character Reference) (*Reference, error) {
-	if associate == "" {
-		return nil, nil
-	}
 	ref, err := FindReference(characterDir, associate)
 	if err != nil {
 		return nil, err
@@ -307,9 +306,6 @@ func addAssociate(associate string, character Reference) (*Reference, error) {
 }
 
 func addLocation(location string, character Reference) (*Reference, error) {
-	if location == "" {
-		return nil, nil
-	}
 	ref, err := FindReference(locationDir, location)
 	if err != nil {
 		return nil, err
