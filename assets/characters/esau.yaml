@@ -7,6 +7,11 @@ parents:
   ref: isaac.yaml
 - name: Rebekah
   ref: rebekah.yaml
+spouse:
+- name: Judith
+  ref: judith.yaml
+- name: Basemath
+  ref: basemath.yaml
 info:
 - note: Firstborn of Isaac, was born red and hairy
   ref: https://ref.ly/logosref/BibleESV.Ge25.25

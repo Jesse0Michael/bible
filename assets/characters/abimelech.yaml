@@ -1,6 +1,6 @@
 name: Abimelech
 created: 2021-03-22T08:03:00.656131-07:00
-updated: 2021-03-23T08:54:05.678213-07:00
+updated: 2021-04-06T08:19:14.670313-07:00
 sex: male
 locations:
 - name: Gerar
@@ -12,6 +12,10 @@ associates:
   ref: abram.yaml
 - name: Sarai
   ref: sarai.yaml
+- name: Ahuzzath
+  ref: ahuzzath.yaml
+- name: Phicol
+  ref: phicol.yaml
 info:
 - note: The king of Gerar
   ref: https://ref.ly/logosref/BibleESV.Ge20.2
@@ -34,6 +38,16 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge20.14-18
 - note: Abimelech asked Abraham to deal kindly with him as he has done for Abraham.
     Abraham confronts Abimelech on a well that belonged to Abraham. The two enter
-    a covenant and Abraham gives Abimelech 7 ewe sheep as a witness that Abraham
-    dug this well.
+    a covenant and Abraham gives Abimelech 7 ewe sheep as a witness that Abraham dug
+    this well.
   ref: https://ref.ly/logosref/BibleESV.Ge21.22-32
+- note: In the land of the Philistines, Isaac tells them that Rebekah is his sister.
+    Abimelech catches on and confronts Isaac and warns anyone that touches Rebekah
+    would be put to death.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.6-11
+  commentary: Isaac pulled the same scheme for self preservation that his father Abraham
+    pulled twice. Abimelech was even involved in Abraham's last scheme
+- note: King Abimelech, along with his adviser, Ahuzzath, and army commander, Phicol,
+    came to Isaac asking for Isaac to take an coveneantt of peace because it is clear
+    that the LORD has blessed him. They feasted, exchanged oaths, and departed.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.26-31

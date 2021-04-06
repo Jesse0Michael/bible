@@ -1,0 +1,14 @@
+name: Basemath
+created: 2021-04-06T08:28:57.249524-07:00
+updated: 2021-04-06T08:28:57.249524-07:00
+sex: female
+group: Hittite
+parents:
+- name: Elon
+  ref: elon.yaml
+spouse:
+- name: Esau
+  ref: esau.yaml
+info:
+- note: Made life bitter for Isaac and Rebekah, her inlaws.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.34-35

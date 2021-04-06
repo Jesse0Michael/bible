@@ -1,0 +1,8 @@
+name: Elon
+created: 2021-04-06T08:26:41.731886-07:00
+updated: 2021-04-06T08:26:41.731886-07:00
+sex: male
+group: Hittite
+children:
+- name: Basemath
+  ref: basemath.yaml

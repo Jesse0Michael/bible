@@ -1,8 +1,13 @@
 name: Isaac
 created: 2021-03-22T08:36:09.660984-07:00
-updated: 2021-03-29T08:59:38.382025-07:00
+updated: 2021-04-06T08:19:14.667819-07:00
 meaning: laughter
 sex: male
+locations:
+- name: Gerar
+  ref: ../locations/gerar.yaml
+- name: Beersheba
+  ref: ../locations/beersheba.yaml
 parents:
 - name: Abram
   ref: abram.yaml
@@ -26,3 +31,26 @@ info:
 - note: Isaac met his father's servant in a field with Rebekah and Isaac took her
     to her mother's tent and married her.
   ref: https://ref.ly/logosref/BibleESV.Ge24.66-67
+- note: During a famiine, Isaac took hiis family to the land of the Philistines for
+    the LORD told him to not go to Egypt.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.1-3
+- note: In the land of the Philistines, Isaac tells them that Rebekah is his sister.
+    Abimelech catches on and confronts Isaac and warns anyone that touches Rebekah
+    would be put to death.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.6-11
+  commentary: Isaac pulled the same scheme for self preservation that his father Abraham
+    pulled twice. Abimelech was even involved in Abraham's last scheme
+- note: Isaac became very wealthy in the land of the Philistines because of God. They
+    asked him to leave because of fear and envy.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.12-16
+- note: Isaac redug the wells that his father Abraham dug, but the Philistines covered.
+    The Philistine herdsman quarreled with Isaac's at a well renamed Esek and Sitnah
+    until they finally did not quarrel over a well they named Rehoboth.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.17-22
+- note: The LORD spoke to Isaac at Beersheba saying that he will bless him and his
+    offspring. Isaac built an altar to the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.23-25
+- note: King Abimelech, along with his adviser, Ahuzzath, and army commander, Phicol,
+    came to Isaac asking for Isaac to take an coveneantt of peace because it is clear
+    that the LORD has blessed him. They feasted, exchanged oaths, and departed.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.26-31

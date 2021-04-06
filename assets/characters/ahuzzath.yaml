@@ -1,0 +1,12 @@
+name: Ahuzzath
+created: 2021-04-06T08:16:46.056525-07:00
+updated: 2021-04-06T08:19:14.671835-07:00
+sex: male
+associates:
+- name: Abimelech
+  ref: abimelech.yaml
+info:
+- note: King Abimelech, along with his adviser, Ahuzzath, and army commander, Phicol,
+    came to Isaac asking for Isaac to take an coveneantt of peace because it is clear
+    that the LORD has blessed him. They feasted, exchanged oaths, and departed.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.26-31

@@ -1,0 +1,14 @@
+name: Judith
+created: 2021-04-06T08:28:44.621784-07:00
+updated: 2021-04-06T08:28:44.621784-07:00
+sex: female
+group: Hittite
+parents:
+- name: Berri
+  ref: berri.yaml
+spouse:
+- name: Esau
+  ref: esau.yaml
+info:
+- note: Made life bitter for Isaac and Rebekah, her inlaws.
+  ref: https://ref.ly/logosref/BibleESV.Ge26.34-35
