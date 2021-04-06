@@ -228,6 +228,10 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		character.Meaning = c.String("meaning")
 	}
 
+	if c.String("group") != "" {
+		character.Group = c.String("group")
+	}
+
 	return character, nil
 }
 

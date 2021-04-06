@@ -12,6 +12,7 @@ type Character struct {
 	Alias      string      `yaml:"alias,omitempty" json:"alias,omitempty"`
 	Meaning    string      `yaml:"meaning,omitempty" json:"meaning,omitempty"`
 	Sex        string      `yaml:"sex,omitempty" json:"sex,omitempty"`
+	Group      string      `yaml:"group,omitempty" json:"group,omitempty"`
 	Locations  []Reference `yaml:"locations,omitempty" json:"locations,omitempty"`
 	Parents    []Reference `yaml:"parents,omitempty" json:"parents,omitempty"`
 	Spouse     []Reference `yaml:"spouse,omitempty" json:"spouse,omitempty" `
