@@ -1,0 +1,17 @@
+name: Jacob
+created: 2021-04-06T07:48:03.02354-07:00
+updated: 2021-04-06T07:51:51.784356-07:00
+sex: male
+parents:
+- name: Isaac
+  ref: isaac.yaml
+- name: Rebekah
+  ref: rebekah.yaml
+info:
+- note: Isaac's secondborn. Came out holding the heel of Esau.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.26
+- note: Quiet man who dwelled in tents. Loved by Rebekah.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.27-28
+- note: Esau came in from the field while Jacob was cooking stew and sold his birthright
+    to Jacob for the stew.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.29-34

@@ -1,0 +1,9 @@
+name: Zimran
+created: 2021-04-01T08:20:05.808902-07:00
+updated: 2021-04-01T08:20:05.808902-07:00
+sex: male
+parents:
+- name: Abram
+  ref: abram.yaml
+- name: Keturah
+  ref: keturah.yaml

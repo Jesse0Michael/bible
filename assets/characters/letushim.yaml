@@ -1,0 +1,7 @@
+name: Letushim
+created: 2021-04-01T08:49:40.239581-07:00
+updated: 2021-04-01T08:49:40.239581-07:00
+sex: male
+parents:
+- name: Dedan
+  ref: dedan2.yaml

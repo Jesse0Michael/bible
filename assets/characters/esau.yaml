@@ -1,0 +1,17 @@
+name: Esau
+created: 2021-04-06T07:46:54.620141-07:00
+updated: 2021-04-06T07:51:51.785576-07:00
+sex: male
+parents:
+- name: Isaac
+  ref: isaac.yaml
+- name: Rebekah
+  ref: rebekah.yaml
+info:
+- note: Firstborn of Isaac, was born red and hairy
+  ref: https://ref.ly/logosref/BibleESV.Ge25.25
+- note: Skilled hunter. Loved by Isaac because he ate his game.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.27-28
+- note: Esau came in from the field while Jacob was cooking stew and sold his birthright
+    to Jacob for the stew.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.29-34

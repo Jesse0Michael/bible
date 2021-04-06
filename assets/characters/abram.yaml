@@ -1,6 +1,6 @@
 name: Abram
 created: 2021-01-21T09:11:06.786620059-07:00
-updated: 2021-03-29T08:28:09.392107-07:00
+updated: 2021-04-01T09:01:29.728769-07:00
 alias: Abraham
 sex: male
 locations:
@@ -28,11 +28,25 @@ spouse:
   ref: sarai.yaml
 - name: Hagar
   ref: hagar.yaml
+- name: Keturah
+  ref: keturah.yaml
 children:
 - name: Ishmael
   ref: ishmael.yaml
 - name: Isaac
   ref: isaac.yaml
+- name: Zimran
+  ref: zimran.yaml
+- name: Jokshan
+  ref: jokshan.yaml
+- name: Medan
+  ref: medan.yaml
+- name: Midian
+  ref: midian.yaml
+- name: Ishbak
+  ref: ishbak.yaml
+- name: Shuah
+  ref: shuah.yaml
 associates:
 - name: Lot
   ref: lot.yaml
@@ -187,8 +201,7 @@ info:
 - note: Abraham took his son Isaac to the place the LORD asked him to sacrifice him.
     He built the altar, bound Isaac, and laid him no the wood. Abraham lifted his
     knife to slaughter Isaac, but the LORD called out to him, telling him to stop,
-    that he truly does fear the LORD, and provided a ram to replace Isaac as the
-    sacrifice.
+    that he truly does fear the LORD, and provided a ram to replace Isaac as the sacrifice.
   ref: https://ref.ly/logosref/BibleESV.Ge22.9-14
 - note: After mourning Sarah's death, Abraham turned to the Hittites and asked to
     buy property so that he may bury his wife there. He bought a cave to be Sarah's
@@ -198,3 +211,9 @@ info:
     to the land of Abraham's kindred and find a wife for Isaac. He also made the servant
     swear to not let Isaac leave the land of the Canaanites.
   ref: https://ref.ly/logosref/BibleESV.Ge24.1-9
+- note: Abraham gave Isaac all he had and sent the sons of his concubines eastward,
+    with gifts.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.5-6
+- note: Abraham lived to be 175 years old and was burried in a cave in the fields
+    that he bought to bury Sarah in by Isaac and Ishmael
+  ref: https://ref.ly/logosref/BibleESV.Ge25.7-11

@@ -1,6 +1,6 @@
 name: Rebekah
 created: 2021-03-26T08:00:33.834798-07:00
-updated: 2021-03-29T08:59:30.968866-07:00
+updated: 2021-04-06T07:45:32.575609-07:00
 sex: female
 locations:
 - name: Nahor
@@ -11,6 +11,11 @@ parents:
 spouse:
 - name: Isaac
   ref: isaac.yaml
+children:
+- name: Esau
+  ref: esau.yaml
+- name: Jacob
+  ref: jacob.yaml
 associates:
 - name: Laban
   ref: laban.yaml
@@ -31,3 +36,7 @@ info:
 - note: Isaac met his father's servant in a field with Rebekah and Isaac took her
     to her mother's tent and married her.
   ref: https://ref.ly/logosref/BibleESV.Ge24.66-67
+- note: Rebekah was barren until Isaac prayed to the LORD. Then she waaas carrying
+    twins who fought each other in her womb. The LORD told Rebekah that the two children
+    will become two divided nations, and that the older will sserve the younger.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.21-23

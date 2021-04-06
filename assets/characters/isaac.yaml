@@ -11,6 +11,11 @@ parents:
 spouse:
 - name: Rebekah
   ref: rebekah.yaml
+children:
+- name: Esau
+  ref: esau.yaml
+- name: Jacob
+  ref: jacob.yaml
 info:
 - note: Abraham took his son Isaac to the place the LORD asked him to sacrificce him.
     He built the altar, bound Isaac, and laid him no the wood. Abraham lifted his

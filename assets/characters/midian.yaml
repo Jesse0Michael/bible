@@ -1,0 +1,20 @@
+name: Midian
+created: 2021-04-01T08:35:05.138644-07:00
+updated: 2021-04-01T08:35:05.138644-07:00
+sex: male
+parents:
+- name: Abram
+  ref: abram.yaml
+- name: Keturah
+  ref: keturah.yaml
+children:
+- name: Ephah
+  ref: ephah.yaml
+- name: Epher
+  ref: epher.yaml
+- name: Hanoch
+  ref: hanoch.yaml
+- name: Abida
+  ref: abida.yaml
+- name: Eldaah
+  ref: eldaah.yaml

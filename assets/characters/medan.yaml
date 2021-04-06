@@ -1,0 +1,9 @@
+name: Medan
+created: 2021-04-01T08:35:05.126878-07:00
+updated: 2021-04-01T08:35:05.126878-07:00
+sex: male
+parents:
+- name: Abram
+  ref: abram.yaml
+- name: Keturah
+  ref: keturah.yaml

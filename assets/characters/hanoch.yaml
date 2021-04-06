@@ -1,0 +1,7 @@
+name: Hanoch
+created: 2021-04-01T08:51:01.421379-07:00
+updated: 2021-04-01T08:51:01.421379-07:00
+sex: male
+parents:
+- name: Midian
+  ref: midian.yaml

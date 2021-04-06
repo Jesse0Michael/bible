@@ -1,0 +1,23 @@
+name: Keturah
+created: 2021-04-01T08:18:26.792815-07:00
+updated: 2021-04-01T08:18:26.792815-07:00
+sex: female
+spouse:
+- name: Abram
+  ref: abram.yaml
+children:
+- name: Zimran
+  ref: zimran.yaml
+- name: Jokshan
+  ref: jokshan.yaml
+- name: Medan
+  ref: medan.yaml
+- name: Midian
+  ref: midian.yaml
+- name: Ishbak
+  ref: ishbak.yaml
+- name: Shuah
+  ref: shuah.yaml
+info:
+- note: Abraham's wife after Sarah.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.1-2

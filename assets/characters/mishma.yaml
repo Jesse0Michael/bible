@@ -1,0 +1,11 @@
+name: Mishma
+created: 2021-04-06T07:41:41.952953-07:00
+updated: 2021-04-06T07:41:41.952953-07:00
+sex: male
+parents:
+- name: Ishmael
+  ref: ishmael.yaml
+info:
+- note: SSon of Abrham's son Ishmael. Settled from Havilah to Shur, in the direction
+    towards Assyria.
+  ref: https://ref.ly/logosref/BibleESV.Ge25.13-18

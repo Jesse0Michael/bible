@@ -1,0 +1,14 @@
+name: Dedan
+created: 2021-04-01T08:48:31.351689-07:00
+updated: 2021-04-01T08:48:31.351689-07:00
+sex: male
+parents:
+- name: Jokshan
+  ref: jokshan.yaml
+children:
+- name: Asshurim
+  ref: asshurim.yaml
+- name: Letushim
+  ref: letushim.yaml
+- name: Leummim
+  ref: leummim.yaml

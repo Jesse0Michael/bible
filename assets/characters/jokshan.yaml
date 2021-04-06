@@ -1,0 +1,14 @@
+name: Jokshan
+created: 2021-04-01T08:29:58.568839-07:00
+updated: 2021-04-01T08:29:58.568839-07:00
+sex: male
+parents:
+- name: Abram
+  ref: abram.yaml
+- name: Keturah
+  ref: keturah.yaml
+children:
+- name: Sheba
+  ref: sheba3.yaml
+- name: Dedan
+  ref: dedan2.yaml

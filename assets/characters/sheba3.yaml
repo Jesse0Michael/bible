@@ -1,0 +1,7 @@
+name: Sheba
+created: 2021-04-01T08:48:31.34587-07:00
+updated: 2021-04-01T08:48:31.34587-07:00
+sex: male
+parents:
+- name: Jokshan
+  ref: jokshan.yaml

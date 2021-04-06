@@ -12,6 +12,31 @@ parents:
   ref: hagar.yaml
 - name: Abram
   ref: abram.yaml
+children:
+- name: Nebaioth
+  ref: nebaioth.yaml
+- name: Kedar
+  ref: kedar.yaml
+- name: Adbeel
+  ref: adbeel.yaml
+- name: Mibsam
+  ref: mibsam.yaml
+- name: Mishma
+  ref: mishma.yaml
+- name: Dumaah
+  ref: dumaah.yaml
+- name: Massa
+  ref: massa.yaml
+- name: Hadad
+  ref: hadad.yaml
+- name: Tema
+  ref: tema.yaml
+- name: Jetur
+  ref: jetur.yaml
+- name: Naphish
+  ref: naphish.yaml
+- name: Kedemah
+  ref: kedemah.yaml
 info:
 - note: Named Ishmael because the LORD saw Hagar's affliction.
   ref: https://ref.ly/logosref/BibleESV.Ge16.11

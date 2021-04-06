@@ -1,0 +1,9 @@
+name: Ishbak
+created: 2021-04-01T08:35:05.145347-07:00
+updated: 2021-04-01T08:35:05.145347-07:00
+sex: male
+parents:
+- name: Abram
+  ref: abram.yaml
+- name: Keturah
+  ref: keturah.yaml
