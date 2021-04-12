@@ -1,7 +1,12 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-04-06T07:51:51.784356-07:00
+updated: 2021-04-12T07:48:46.262685-07:00
 sex: male
+locations:
+- name: Haran
+  ref: ../locations/haran.yaml
+- name: Bethel
+  ref: ../locations/bethel.yaml
 parents:
 - name: Isaac
   ref: isaac.yaml
@@ -15,3 +20,35 @@ info:
 - note: Esau came in from the field while Jacob was cooking stew and sold his birthright
     to Jacob for the stew.
   ref: https://ref.ly/logosref/BibleESV.Ge25.29-34
+- note: Rebekah convinces Jacob to trick his father into blessing him instead of Esau.
+    While Esau was hunting game for his father as he asked. Jacob brought 2 goats
+    to his mom to prepare them and covered himself in animals skin to pass as amaan
+    as hairy as Esau is.
+  ref: https://ref.ly/logosref/BibleESV.Ge27.5-17
+- note: Jacob decieved his father Isaac into thinking he was his brother Esau by wearing
+    goat fur and fulfilling the request made to Esau.
+  ref: https://ref.ly/logosref/BibleESV.Ge27.18-25
+- note: Isaac blessed Jacob asking God to give hiim the fattnesss of the earth and
+    plenty of frain and wine, that nations will serve him and his brother will bow
+    down to him.
+  ref: https://ref.ly/logosref/BibleESV.Ge27.27-29
+  commentary: This matches what the LORD told Rebekah when she bot pregnant. It also
+    reiterates covenant God made with Abraham.
+- note: Because Jacob stole Esau's blessing, Esau plotted to kill Jacob after their
+    father dies. Because of this, Rebekah told Jacob to flee to her brother in Haran.
+  ref: https://ref.ly/logosref/BibleESV.Ge27.41-45
+- note: Rebekah convinces Isaac to send Jacob away because she doesn't want Jacob
+    to marry a Hittite woman. Isaac sends Jacob to Rebekah's brother in Haran.
+  ref: https://ref.ly/logosref/BibleESV.Ge27.46-28.5
+  commentary: The real reason for wanting Jacob to leave was to protect him from his
+    brother Esau.
+- note: On his way to Haran, Jacob fell asleep on a rock and had a dream. In the dream
+    there was a ladder that scaled to the heavens and angels were climbing up and
+    down the laadder. God spoke from atop the ladder and told Jacon that the land
+    he is in will be given to him and his decendants will be numerous.
+  ref: https://ref.ly/logosref/BibleESV.Ge28.11-17
+  commentary: Reiteration of God's covenant with Abraham.
+- note: When Jacob awoke from his dream he anointed the rock he slept on with oil.
+    He said this stone shall become God's house and that he would offer God one tenth
+    of everything he receives.
+  ref: ""
