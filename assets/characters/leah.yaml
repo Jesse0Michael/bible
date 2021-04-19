@@ -1,0 +1,49 @@
+name: Leah
+created: 2021-04-12T08:03:15.701402-07:00
+updated: 2021-04-19T08:20:55.073727-07:00
+sex: female
+locations:
+  - name: Haran
+    ref: ../locations/haran.yaml
+parents:
+  - name: Laban
+    ref: laban.yaml
+children:
+  - name: Reuben
+    ref: reuben.yaml
+  - name: Simeon
+    ref: simeon.yaml
+  - name: Levi
+    ref: levi.yaml
+  - name: Judah
+    ref: judah.yaml
+  - name: Issachar
+    ref: issachar.yaml
+  - name: Zebulun
+    ref: zebulun.yaml
+  - name: Dinah
+    ref: dinah.yaml
+associates:
+  - name: Zilpah
+    ref: zilpah.yaml
+info:
+  - note: Laban's oldest daughter. Her eyes were weak.
+    ref: https://ref.ly/logosref/BibleESV.Ge29.16-17
+  - note:
+      After serving Laban for 7 years, he tricked Jacob and gave him his oldest
+      daughter, Leah, instead of Rachel. When Jacob confronted Laban he said that would
+      giver him Rachel as well if he completed 7 more years of service, which he did.
+    ref: https://ref.ly/logosref/BibleESV.Ge29.21-30
+  - note:
+      The LORD saw Leah waas hated and allowed her to conceive children while Rachel's
+      womb was shut
+    ref: https://ref.ly/logosref/BibleESV.Ge29.31-35
+  - note:
+      When Leah could bear no more children she gave her servant Zilpah to be Jacobs
+      wife and bear more children.
+    ref: https://ref.ly/logosref/BibleESV.Ge30.9-13
+  - note:
+      Reuben brought his mother mandrakes that he found in the field and Rachel
+      begged Leah for them. Rachel traded Leah a night with Jacob for the mandrakes.
+    ref: https://ref.ly/logosref/BibleESV.Ge30.14-18
+    commentary: mandrakes were believed to bring fertility.

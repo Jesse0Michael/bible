@@ -1,0 +1,44 @@
+name: Rachel
+created: 2021-04-12T07:52:52.973753-07:00
+updated: 2021-04-19T08:24:24.95438-07:00
+sex: female
+locations:
+- name: Haran
+  ref: ../locations/haran.yaml
+parents:
+- name: Laban
+  ref: laban.yaml
+children:
+- name: Joseph
+  ref: joseph.yaml
+associates:
+- name: Bilhah
+  ref: bilhah.yaml
+info:
+- note: Worked as a shepherdess for her father.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.9
+- note: Jacob arrived in Haran at a well where his mother's brother's daughter, Rachel,
+    happened to arrive with the flock of sheep she was herding. Jacob rolled the stone
+    away from the well, told her who he was, and she brought him back to her father's
+    house to stay.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.10-14
+- note: Laban's youngest daughter. Beaautiful in form and appearance.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.16-17
+- note: After serving Laban for 7 years, he tricked Jacob and gave him his oldest
+    daughter, Leah, instead of Rachel. When Jacob confronted Laban he said that would
+    giver him Rachel as well if he completed 7 more years of service, which he did.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.21-30
+- note: The LORD saw Leah waas hated and allowed her to conceive children while Rachel's
+    womb was shut
+  ref: https://ref.ly/logosref/BibleESV.Ge29.31-35
+- note: When Rachel could not bear children of her own, she gave her servant Bilhah
+    to Jacob to bear children for her.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.1-8
+- note: Reuben brought his mother mandrakes that he found in the field and Rachel
+    begged Leah for them. Rachel traded Leah a night with Jacob for the mandrakes.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.14-18
+  commentary: mandrakes were believed to bring fertility.
+- note: The LORD heard Rachel and finally opened her womb and bore her a son name
+    Joseph.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.22-24
+  commentary: Rachel's one real son went on to become the favorite.

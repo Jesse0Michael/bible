@@ -1,0 +1,9 @@
+name: Dinah
+created: 2021-04-19T08:21:43.793483-07:00
+updated: 2021-04-19T08:21:43.793483-07:00
+sex: female
+parents:
+- name: Jacob
+  ref: jacob.yaml
+- name: Leah
+  ref: leah.yaml

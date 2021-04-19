@@ -1,6 +1,6 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-04-12T07:48:46.262685-07:00
+updated: 2021-04-19T08:44:03.941465-07:00
 sex: male
 locations:
 - name: Haran
@@ -12,6 +12,34 @@ parents:
   ref: isaac.yaml
 - name: Rebekah
   ref: rebekah.yaml
+spouse:
+- name: Zilpah
+  ref: zilpah.yaml
+children:
+- name: Reuben
+  ref: reuben.yaml
+- name: Simeon
+  ref: simeon.yaml
+- name: Levi
+  ref: levi.yaml
+- name: Judah
+  ref: judah.yaml
+- name: Dan
+  ref: dan.yaml
+- name: Naphtali
+  ref: naphtali.yaml
+- name: Gad
+  ref: gad.yaml
+- name: Asher
+  ref: asher.yaml
+- name: Issachar
+  ref: issachar.yaml
+- name: Zebulun
+  ref: zebulun.yaml
+- name: Dinah
+  ref: dinah.yaml
+- name: Joseph
+  ref: joseph.yaml
 info:
 - note: Isaac's secondborn. Came out holding the heel of Esau.
   ref: https://ref.ly/logosref/BibleESV.Ge25.26
@@ -52,3 +80,28 @@ info:
     He said this stone shall become God's house and that he would offer God one tenth
     of everything he receives.
   ref: ""
+- note: Jacob arrived in Haran at a well where his mother's brother's daughter, Rachel,
+    happened to arrive with the flock of sheep she was herding. Jacob rolled the stone
+    away from the well, told her who he was, and she brought him back to her father's
+    house to stay.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.10-14
+- note: Jacob loved Rachel and agreed to serve Laban for 7 years to his marry her.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.18-20
+  commentary: The years seemed like days because of his love for Rachel.
+- note: After serving Laban for 7 years, he tricked Jacob and gave him his oldest
+    daughter, Leah, instead of Rachel. When Jacob confronted Laban he said that would
+    giver him Rachel as well if he completed 7 more years of service, which he did.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.21-30
+- note: After bearing all of his children, Jacob asked Laban to allow him to return
+    to his home land, but Laaban did not want Jacob to leave because he had brough
+    him much wealth.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.25-30
+- note: Jacob and Laban made a deal to let Jacob have all of the speckled, spotted,
+    and black sheep and goats. Laban deceptively had his sons remove the speckled,
+    spotted and black sheep and goats.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.31-36
+- note: Jacob used sympathetic magic to influence the spotted nature of Laban's flock's
+    offspring in order to increase his wealth based on their deal.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.37-42
+  commentary: Sympathetic magic was the belief that Jacob could influence the coloring
+    of the sheep and goats based off of what he put around them when they were breeding.

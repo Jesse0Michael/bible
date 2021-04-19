@@ -1,0 +1,21 @@
+name: Zilpah
+created: 2021-04-12T08:09:18.639287-07:00
+updated: 2021-04-19T08:15:38.891161-07:00
+sex: female
+spouse:
+- name: Jacob
+  ref: jacob.yaml
+children:
+- name: Gad
+  ref: gad.yaml
+- name: Asher
+  ref: asher.yaml
+associates:
+- name: Leah
+  ref: leah.yaml
+info:
+- note: Leah's female servant.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.24
+- note: When Leah could bear no more children she gave her servant Zilpah to be Jacobs
+    wife and bear more children.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.9-13

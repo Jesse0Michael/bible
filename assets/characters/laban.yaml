@@ -1,10 +1,15 @@
 name: Laban
 created: 2021-03-29T08:39:27.447334-07:00
-updated: 2021-03-29T08:56:00.557261-07:00
+updated: 2021-04-19T08:39:33.549525-07:00
 sex: male
 locations:
 - name: Nahor
   ref: ../locations/nahor.yaml
+children:
+- name: Rachel
+  ref: rachel.yaml
+- name: Leah
+  ref: leah.yaml
 associates:
 - name: Rebekah
   ref: rebekah.yaml
@@ -14,3 +19,15 @@ info:
 - note: Labab and Bethuel give Rebekah to Abraham's servant to return with him and
     become Isaac's wife.
   ref: https://ref.ly/logosref/BibleESV.Ge24.50-51
+- note: After serving Laban for 7 years, he tricked Jacob and gave him his oldest
+    daughter, Leah, instead of Rachel. When Jacob confronted Laban he said that would
+    giver him Rachel as well if he completed 7 more years of service, which he did.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.21-30
+- note: After bearing all of his children, Jacob asked Laban to allow him to return
+    to his home land, but Laaban did not want Jacob to leave because he had brough
+    him much wealth.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.25-30
+- note: Jacob and Laban made a deal to let Jacob have all of the speckled, spotted,
+    and black sheep and goats. Laban deceptively had his sons remove the speckled,
+    spotted and black sheep and goats.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.31-36

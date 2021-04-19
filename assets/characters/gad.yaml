@@ -1,0 +1,9 @@
+name: Gad
+created: 2021-04-19T08:16:36.123857-07:00
+updated: 2021-04-19T08:16:36.123857-07:00
+sex: male
+parents:
+- name: Jacob
+  ref: jacob.yaml
+- name: Zilpah
+  ref: zilpah.yaml

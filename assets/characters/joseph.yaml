@@ -1,0 +1,9 @@
+name: Joseph
+created: 2021-04-19T08:22:10.132954-07:00
+updated: 2021-04-19T08:22:10.132954-07:00
+sex: male
+parents:
+- name: Jacob
+  ref: jacob.yaml
+- name: Rachel
+  ref: rachel.yaml

@@ -1,0 +1,18 @@
+name: Bilhah
+created: 2021-04-12T08:10:03.058078-07:00
+updated: 2021-04-19T08:13:05.536329-07:00
+sex: female
+children:
+- name: Dan
+  ref: dan.yaml
+- name: Naphtali
+  ref: naphtali.yaml
+associates:
+- name: Rachel
+  ref: rachel.yaml
+info:
+- note: Rachel's female servant.
+  ref: https://ref.ly/logosref/BibleESV.Ge29.29
+- note: When Rachel could not bear children of her own, she gave her servant Bilhah
+    to Jacob to bear children for her.
+  ref: https://ref.ly/logosref/BibleESV.Ge30.1-8
