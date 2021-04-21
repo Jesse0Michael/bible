@@ -1,12 +1,14 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-04-19T08:44:03.941465-07:00
+updated: 2021-04-21T08:28:57.269624-07:00
 sex: male
 locations:
 - name: Haran
   ref: ../locations/haran.yaml
 - name: Bethel
   ref: ../locations/bethel.yaml
+- name: Gilead
+  ref: ../locations/gilead.yaml
 parents:
 - name: Isaac
   ref: isaac.yaml
@@ -105,3 +107,13 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge30.37-42
   commentary: Sympathetic magic was the belief that Jacob could influence the coloring
     of the sheep and goats based off of what he put around them when they were breeding.
+- note: Laban stopped treating Jacob with favor. God told Jacob to return to the land
+    of his father.
+  ref: https://ref.ly/logosref/BibleESV.Ge31.2-3
+- note: Jacob fled from Laban in secret with his family and property. Laban persued
+    Jacob and caught up with him in Gilead. God warned Laban not to say anything to
+    Jacob, good or bad.
+  ref: https://ref.ly/logosref/BibleESV.Ge31.22-32
+- note: Jacob and Laban made a covenant at Galeed to not cross the boundry where the
+    pillar they created was made. They ate and said fairwell to eachother.
+  ref: https://ref.ly/logosref/BibleESV.Ge31.51-55

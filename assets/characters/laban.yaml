@@ -1,10 +1,12 @@
 name: Laban
 created: 2021-03-29T08:39:27.447334-07:00
-updated: 2021-04-19T08:39:33.549525-07:00
+updated: 2021-04-21T08:28:57.27257-07:00
 sex: male
 locations:
 - name: Nahor
   ref: ../locations/nahor.yaml
+- name: Gilead
+  ref: ../locations/gilead.yaml
 children:
 - name: Rachel
   ref: rachel.yaml
@@ -31,3 +33,10 @@ info:
     and black sheep and goats. Laban deceptively had his sons remove the speckled,
     spotted and black sheep and goats.
   ref: https://ref.ly/logosref/BibleESV.Ge30.31-36
+- note: Jacob fled from Laban in secret with his family and property. Laban persued
+    Jacob and caught up with him in Gilead. God warned Laban not to say anything to
+    Jacob, good or bad.
+  ref: https://ref.ly/logosref/BibleESV.Ge31.22-32
+- note: Jacob and Laban made a covenant at Galeed to not cross the boundry where the
+    pillar they created was made. They ate and said fairwell to eachother.
+  ref: https://ref.ly/logosref/BibleESV.Ge31.51-55
