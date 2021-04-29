@@ -232,6 +232,10 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 		character.Group = c.String("group")
 	}
 
+	if c.String("alias") != "" {
+		character.Alias = c.String("alias")
+	}
+
 	return character, nil
 }
 

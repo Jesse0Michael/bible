@@ -67,6 +67,11 @@ func main() {
 			Aliases: []string{"g"},
 			Usage:   "the people group the character belongs to",
 		},
+		&cli.StringFlag{
+			Name:    "alias",
+			Aliases: []string{"al"},
+			Usage:   "the alias given to the character",
+		},
 	}
 	locationFlags := []cli.Flag{
 		&cli.StringFlag{
