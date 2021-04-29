@@ -1,6 +1,6 @@
 name: Esau
 created: 2021-04-06T07:46:54.620141-07:00
-updated: 2021-04-09T08:25:25.005656-07:00
+updated: 2021-04-29T08:10:05.205666-07:00
 sex: male
 parents:
 - name: Isaac
@@ -33,3 +33,7 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge28.8-9
   commentary: Mahalath was not a Canaanite so maybe Esau did this to please his parents.
     Mahalath is called Basemath elsewhere.
+- note: When Jacob was returning to the land of Canaan, he sent servants ahead of
+    him to deliever a message to Esau. The messengers returned saying that Esau is
+    coming to meet him with 400 men which made Jacob greatly afraid.
+  ref: https://ref.ly/logosref/BibleESV.Ge32.3-7
