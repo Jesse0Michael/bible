@@ -41,4 +41,5 @@ type Location struct {
 	CreateTime time.Time `yaml:"created" json:"created"`
 	UpdateTime time.Time `yaml:"updated" json:"updated"`
 	Info       []Note    `yaml:"info,omitempty" json:"info,omitempty"`
+	Alias      string    `yaml:"alias,omitempty" json:"alias,omitempty"`
 }

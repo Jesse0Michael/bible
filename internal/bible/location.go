@@ -139,5 +139,9 @@ func processLocation(c *cli.Context, location Location) (Location, error) {
 		location.Meaning = c.String("meaning")
 	}
 
+	if c.String("alias") != "" {
+		location.Alias = c.String("alias")
+	}
+
 	return location, nil
 }

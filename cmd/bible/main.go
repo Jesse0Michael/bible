@@ -94,6 +94,11 @@ func main() {
 			Aliases: []string{"m"},
 			Usage:   "the meaning behind the name of this location",
 		},
+		&cli.StringFlag{
+			Name:    "alias",
+			Aliases: []string{"al"},
+			Usage:   "the alias given to the location",
+		},
 	}
 	app := cli.App{
 		Name:                 "bible",
