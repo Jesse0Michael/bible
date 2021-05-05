@@ -1,6 +1,6 @@
 name: Rebekah
 created: 2021-03-26T08:00:33.834798-07:00
-updated: 2021-04-09T08:08:04.788192-07:00
+updated: 2021-05-05T08:52:19.55301-07:00
 sex: female
 locations:
 - name: Nahor
@@ -19,6 +19,8 @@ children:
 associates:
 - name: Laban
   ref: laban.yaml
+- name: Deborah
+  ref: deborah.yaml
 info:
 - note: Rebekah offered Abraham's servant, who had been tasked with finding Isaac
     a wife, water for him and his camels. This was the sign the servant had asked
@@ -56,3 +58,5 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge27.46-28.5
   commentary: The real reason for wanting Jacob to leave was to protect him from his
     brother Esau.
+- note: Deborah, Rebekah's nurse, died and was burried at Bethel
+  ref: https://ref.ly/logosref/BibleESV.Ge35.8

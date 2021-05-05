@@ -1,6 +1,6 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-05-03T08:13:34.601598-07:00
+updated: 2021-05-05T08:59:05.723742-07:00
 alias: Israel
 sex: male
 locations:
@@ -10,6 +10,8 @@ locations:
   ref: ../locations/bethel.yaml
 - name: Gilead
   ref: ../locations/gilead.yaml
+- name: Shechem
+  ref: ../locations/shechem.yaml
 parents:
 - name: Isaac
   ref: isaac.yaml
@@ -43,6 +45,8 @@ children:
   ref: dinah.yaml
 - name: Joseph
   ref: joseph.yaml
+- name: Benjamin
+  ref: benjamin.yaml
 info:
 - note: Isaac's secondborn. Came out holding the heel of Esau.
   ref: https://ref.ly/logosref/BibleESV.Ge25.26
@@ -155,3 +159,32 @@ info:
     El-Elohe-Israel
   ref: https://ref.ly/logosref/BibleESV.Ge33.18-20
   commentary: Shechem is where Abraham once built an altar to the LORD.
+- note: Hamor went to Jacob on his son, Shechem's, behalf and asked him to give Dinah
+    to Shechem in marraige. He proposed their people and his people marrying and dwelling
+    togetheer. Jacob's sons responded saying that they would only allow thiss intermarriage
+    if all of their men were circumcised.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.5-17
+- note: To live and marry and dwell with Jacob's people; Hamor, Shechem, and all their
+    people met Jacob's sons demand and circumcised ever mail in their city.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.18-24
+- note: On the third day after they have been tricked into circumcising all their
+    males, Simeon and Levi killed Hamor, Shechem, and all the males in the city and
+    all the sons of Jacob plundered the city.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.25-29
+- note: After killing and plundering the people who raped Dinah, Jacob's daughter,
+    Jacob criticizes Simeon and Levi saying that they have brought the threat of the
+    Canaanites and the Perizzites on him.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.30-31
+  commentary: Jacob's concern is not justice for his raped daughter, or the killing
+    of innocent men not associated with the rape, but the threat that might be placed
+    on himself.
+- note: God asked Jacob to build an altar to Him in Bethel. Jacob took the false gods
+    and rings from his people, burried them under a tree in Shechem, and went to Bethel
+    to build an altar.
+  ref: https://ref.ly/logosref/BibleESV.Ge35.1-7
+  commentary: The LORD protected Jacob's family on this journey.
+- note: God blessed Jacob and gave him the name Israel (again). The LORD told him
+    nations and kings will come from him and He will give him the land promised to
+    Abraham and Isaac. Jacob built a pillar to God and poured out a drink offering
+    and oil on it.
+  ref: https://ref.ly/logosref/BibleESV.Ge35.9-15

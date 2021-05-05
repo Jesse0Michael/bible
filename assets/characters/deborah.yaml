@@ -1,0 +1,13 @@
+name: Deborah
+created: 2021-05-05T08:50:57.990537-07:00
+updated: 2021-05-05T08:52:32.139135-07:00
+sex: female
+locations:
+- name: Bethel
+  ref: ../locations/bethel.yaml
+associates:
+- name: Rebekah
+  ref: rebekah.yaml
+info:
+- note: Deborah, Rebekah's nurse, died and was burried at Bethel
+  ref: https://ref.ly/logosref/BibleESV.Ge35.8

@@ -1,9 +1,14 @@
 name: Levi
 created: 2021-04-19T08:05:36.078294-07:00
-updated: 2021-04-19T08:05:36.078294-07:00
+updated: 2021-05-05T08:27:28.129836-07:00
 sex: male
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+info:
+- note: On the third day after they have been tricked into circumcising all their
+    males, Simeon and Levi killed Hamor, Shechem, and all the males in the city and
+    all the sons of Jacob plundered the city.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.25-29

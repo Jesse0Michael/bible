@@ -1,6 +1,6 @@
 name: Rachel
 created: 2021-04-12T07:52:52.973753-07:00
-updated: 2021-04-21T08:13:42.946352-07:00
+updated: 2021-05-05T09:04:25.173274-07:00
 sex: female
 locations:
 - name: Haran
@@ -11,6 +11,8 @@ parents:
 children:
 - name: Joseph
   ref: joseph.yaml
+- name: Benjamin
+  ref: benjamin.yaml
 associates:
 - name: Bilhah
   ref: bilhah.yaml
@@ -50,3 +52,6 @@ info:
     a camel's saddle and sat on them saying that she cannot rise because she was having
     her period.
   ref: https://ref.ly/logosref/BibleESV.Ge31.33-35
+- note: On the way back from Bethel, Rachel gave birth to Benjamin and then died and
+    was burried in a tomb near Ephrath (Bethlehem).
+  ref: https://ref.ly/logosref/BibleESV.Ge35.16-21

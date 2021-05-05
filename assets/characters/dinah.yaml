@@ -1,9 +1,13 @@
 name: Dinah
 created: 2021-04-19T08:21:43.793483-07:00
-updated: 2021-04-19T08:21:43.793483-07:00
+updated: 2021-05-05T08:14:47.957146-07:00
 sex: female
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+info:
+- note: Shechem rapes Dinah, the daughter of Jacob, and then asks his father to help
+    get Dinah to be his wife.
+  ref: https://ref.ly/logosref/BibleESV.Ge34.1-4

@@ -1,6 +1,6 @@
 name: Isaac
 created: 2021-03-22T08:36:09.660984-07:00
-updated: 2021-04-09T08:08:04.785845-07:00
+updated: 2021-05-05T09:08:55.221686-07:00
 meaning: laughter
 sex: male
 locations:
@@ -8,6 +8,8 @@ locations:
   ref: ../locations/gerar.yaml
 - name: Beersheba
   ref: ../locations/beersheba.yaml
+- name: Hebron
+  ref: ../locations/hebron.yaml
 parents:
 - name: Abram
   ref: abram.yaml
@@ -68,3 +70,5 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge27.46-28.5
   commentary: The real reason for wanting Jacob to leave was to protect him from his
     brother Esau.
+- note: Isaac lived to be 180 years old. He was burried at Mamre by both his sons
+  ref: https://ref.ly/logosref/BibleESV.Ge35.27-29

@@ -1,0 +1,14 @@
+name: Benjamin
+created: 2021-05-05T09:03:08.854217-07:00
+updated: 2021-05-05T09:04:25.175255-07:00
+alias: Ben-oni
+sex: male
+parents:
+- name: Rachel
+  ref: rachel.yaml
+- name: Jacob
+  ref: jacob.yaml
+info:
+- note: On the way back from Bethel, Rachel gave birth to Benjamin and then died and
+    was burried in a tomb near Ephrath (Bethlehem).
+  ref: https://ref.ly/logosref/BibleESV.Ge35.16-21
