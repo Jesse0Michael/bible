@@ -85,6 +85,7 @@ func CreateLocation(c *cli.Context) error {
 		if _, err = f.Write(b); err != nil {
 			return err
 		}
+		fmt.Printf("created location: %s\n", f.Name())
 	}
 	return nil
 }
@@ -121,6 +122,7 @@ func UpdateLocation(c *cli.Context) error {
 		if err := ioutil.WriteFile(filepath.Join(locationDir, ref), b, 0); err != nil {
 			return err
 		}
+		fmt.Printf("updated location: %s\n", ref)
 	}
 	return nil
 }

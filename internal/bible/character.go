@@ -85,6 +85,7 @@ func CreateCharacter(c *cli.Context) error {
 		if _, err = f.Write(b); err != nil {
 			return err
 		}
+		fmt.Printf("created character: %s\n", f.Name())
 	}
 	return nil
 }
@@ -121,6 +122,7 @@ func UpdateCharacter(c *cli.Context) error {
 		if err := ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
 			return err
 		}
+		fmt.Printf("updated character: %s\n", ref)
 	}
 	return nil
 }
@@ -169,10 +171,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 			return character, err
 		}
 		if parent != nil {
-			if hasReference(parent.Reference, character.Parents) {
-				return character, fmt.Errorf("parent already exists: \"%s\"", parent.Name)
+			if !hasReference(parent.Reference, character.Parents) {
+				character.Parents = append(character.Parents, *parent)
 			}
-			character.Parents = append(character.Parents, *parent)
 		}
 	}
 
@@ -182,10 +183,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 			return character, err
 		}
 		if spouse != nil {
-			if hasReference(spouse.Reference, character.Spouse) {
-				return character, fmt.Errorf("spouse already exists: \"%s\"", spouse.Name)
+			if !hasReference(spouse.Reference, character.Spouse) {
+				character.Spouse = append(character.Spouse, *spouse)
 			}
-			character.Spouse = append(character.Spouse, *spouse)
 		}
 	}
 
@@ -195,10 +195,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 			return character, err
 		}
 		if associate != nil {
-			if hasReference(associate.Reference, character.Associates) {
-				return character, fmt.Errorf("associate already exists: \"%s\"", associate.Name)
+			if !hasReference(associate.Reference, character.Associates) {
+				character.Associates = append(character.Associates, *associate)
 			}
-			character.Associates = append(character.Associates, *associate)
 		}
 	}
 
@@ -208,10 +207,9 @@ func processCharacter(c *cli.Context, character Character) (Character, error) {
 			return character, err
 		}
 		if location != nil {
-			if hasReference(location.Reference, character.Locations) {
-				return character, fmt.Errorf("location already exists: \"%s\"", location.Name)
+			if !hasReference(location.Reference, character.Locations) {
+				character.Locations = append(character.Locations, *location)
 			}
-			character.Locations = append(character.Locations, *location)
 		}
 	}
 
