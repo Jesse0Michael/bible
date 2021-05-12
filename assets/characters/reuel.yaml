@@ -1,0 +1,18 @@
+name: Reuel
+created: 2021-05-10T07:57:25.944709-07:00
+updated: 2021-05-10T07:57:25.944709-07:00
+sex: male
+parents:
+- name: Esau
+  ref: esau.yaml
+- name: Basemath
+  ref: basemath.yaml
+children:
+- name: Nahath
+  ref: nahath.yaml
+- name: Zerah
+  ref: zerah.yaml
+- name: Shammah
+  ref: shammah.yaml
+- name: Mizzah
+  ref: mizzah.yaml

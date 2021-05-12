@@ -1,0 +1,8 @@
+name: Aran
+created: 2021-05-10T08:47:49.242086-07:00
+updated: 2021-05-10T08:47:49.242086-07:00
+sex: male
+group: hivite
+parents:
+- name: Disdan
+  ref: dishan.yaml

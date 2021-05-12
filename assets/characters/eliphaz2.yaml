@@ -1,0 +1,25 @@
+name: Eliphaz
+created: 2021-05-10T07:57:00.169535-07:00
+updated: 2021-05-10T07:57:00.169535-07:00
+sex: male
+parents:
+- name: Adah
+  ref: adah2.yaml
+- name: Esau
+  ref: esau.yaml
+spouse:
+- name: Timna
+  ref: timna.yaml
+children:
+- name: Amalek
+  ref: amalek.yaml
+- name: Teman
+  ref: teman.yaml
+- name: Omar
+  ref: omar.yaml
+- name: Zepho
+  ref: zepho.yaml
+- name: Gatam
+  ref: gatam.yaml
+- name: Kenaz
+  ref: kenaz.yaml

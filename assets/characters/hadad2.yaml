@@ -1,0 +1,17 @@
+name: Hadad
+created: 2021-05-12T08:07:49.913504-07:00
+updated: 2021-05-12T08:07:49.913504-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+- name: Avith
+  ref: ../locations/avith.yaml
+associates:
+- name: Husham
+  ref: husham.yaml
+- name: Samlah
+  ref: samlah.yaml
+info:
+- note: Son of Bedad. Reigned after Husham. Defeated Midian in the country of Moab.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.35

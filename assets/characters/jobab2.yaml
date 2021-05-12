@@ -1,0 +1,15 @@
+name: Jobab
+created: 2021-05-12T08:01:08.250489-07:00
+updated: 2021-05-12T08:01:08.250489-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+associates:
+- name: Bela
+  ref: bela.yaml
+- name: Husham
+  ref: husham.yaml
+info:
+- note: Son of Zerah of Bozrah. Reigned in Edom after Bela.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.33

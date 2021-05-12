@@ -1,0 +1,16 @@
+name: Husham
+created: 2021-05-12T08:02:25.065529-07:00
+updated: 2021-05-12T08:02:25.065529-07:00
+sex: male
+group: Temanites
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+associates:
+- name: Jobab
+  ref: jobab2.yaml
+- name: Hadad
+  ref: hadad2.yaml
+info:
+- note: King of Edom after Jobab died.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.34

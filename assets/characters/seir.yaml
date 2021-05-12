@@ -1,0 +1,22 @@
+name: Seir
+created: 2021-05-10T08:28:05.876002-07:00
+updated: 2021-05-10T08:28:05.876002-07:00
+sex: male
+group: horite
+children:
+  - name: Lotan
+    ref: lotan.yaml
+  - name: Shobal
+    ref: shobal.yaml
+  - name: Anah
+    ref: anah2.yaml
+  - name: Dishon
+    ref: dishon.yaml
+  - name: Ezer
+    ref: ezer.yaml
+  - name: Dishan
+    ref: dishan.yaml
+  - name: Zibeon
+    ref: zibeon.yaml
+  - name: Timna
+    ref: timna.yaml

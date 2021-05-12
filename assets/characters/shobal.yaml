@@ -1,0 +1,19 @@
+name: Shobal
+created: 2021-05-10T08:32:33.186901-07:00
+updated: 2021-05-10T08:32:33.186901-07:00
+sex: male
+group: hivite
+parents:
+- name: Seir
+  ref: seir.yaml
+children:
+- name: Alvan
+  ref: alvan.yaml
+- name: Manahath
+  ref: manahath.yaml
+- name: Ebal
+  ref: ebal.yaml
+- name: Shepo
+  ref: shepo.yaml
+- name: Onam
+  ref: onam.yaml

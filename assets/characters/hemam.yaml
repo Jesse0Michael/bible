@@ -1,0 +1,7 @@
+name: Hemam
+created: 2021-05-10T08:33:37.456566-07:00
+updated: 2021-05-10T08:33:37.456566-07:00
+sex: male
+parents:
+- name: Lotan
+  ref: lotan.yaml

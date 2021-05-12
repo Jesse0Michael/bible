@@ -1,0 +1,8 @@
+name: Cheran
+created: 2021-05-10T08:42:44.788632-07:00
+updated: 2021-05-10T08:42:44.788632-07:00
+sex: male
+group: hivite
+parents:
+- name: Dishon
+  ref: dishon.yaml

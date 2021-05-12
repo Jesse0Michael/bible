@@ -1,0 +1,15 @@
+name: Korah
+created: 2021-05-10T07:57:52.830253-07:00
+updated: 2021-05-10T08:17:12.777918-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Esau
+  ref: esau.yaml
+- name: Oholibamah
+  ref: oholibamah.yaml
+info:
+- note: Chief of Eliphaz in the land of Edom
+  ref: https://ref.ly/logosref/BibleESV.Ge36.15-16

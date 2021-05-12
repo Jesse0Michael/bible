@@ -1,0 +1,8 @@
+name: Dishon
+created: 2021-05-10T08:40:12.424457-07:00
+updated: 2021-05-10T08:40:12.424457-07:00
+sex: male
+group: hivite
+parents:
+- name: Anah
+  ref: anah.yaml

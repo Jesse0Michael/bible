@@ -1,0 +1,8 @@
+name: Alvan
+created: 2021-05-10T08:34:57.417786-07:00
+updated: 2021-05-10T08:34:57.417786-07:00
+sex: male
+group: hivite
+parents:
+- name: Shobal
+  ref: shobal.yaml

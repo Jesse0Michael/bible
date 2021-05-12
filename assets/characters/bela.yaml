@@ -1,0 +1,15 @@
+name: Bela
+created: 2021-05-12T07:59:03.75206-07:00
+updated: 2021-05-12T07:59:03.75206-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+- name: Dinhabah
+  ref: ../locations/dinhabah.yaml
+associates:
+- name: Jobab
+  ref: jobab2.yaml
+info:
+- note: Son of Beor. King in Edom, ini the city of Dinhabah.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.32

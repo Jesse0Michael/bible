@@ -1,0 +1,17 @@
+name: Dishon
+created: 2021-05-10T08:32:33.191408-07:00
+updated: 2021-05-10T08:32:33.191408-07:00
+sex: male
+group: hivite
+parents:
+- name: Seir
+  ref: seir.yaml
+children:
+- name: Hemdan
+  ref: hemdan.yaml
+- name: Eshban
+  ref: eshban.yaml
+- name: Ithran
+  ref: ithran.yaml
+- name: Cheran
+  ref: cheran.yaml

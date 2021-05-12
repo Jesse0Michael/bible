@@ -1,0 +1,17 @@
+name: Anah
+created: 2021-05-10T07:52:55.058467-07:00
+updated: 2021-05-10T08:39:27.037092-07:00
+sex: male
+group: hivite
+parents:
+- name: Zibeon
+  ref: zibeon.yaml
+children:
+- name: Oholibamah
+  ref: oholibamah.yaml
+- name: Dishon
+  ref: dishon2.yaml
+info:
+- note: Found hotsprings in the wilderness as he pastured the donkeys of his father,
+    Zibeon.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.24

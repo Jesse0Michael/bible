@@ -1,0 +1,7 @@
+name: Hori
+created: 2021-05-10T08:33:37.454156-07:00
+updated: 2021-05-10T08:33:37.454156-07:00
+sex: male
+parents:
+- name: Lotan
+  ref: lotan.yaml

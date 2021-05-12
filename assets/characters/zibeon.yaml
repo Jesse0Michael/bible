@@ -1,0 +1,13 @@
+name: Zibeon
+created: 2021-05-10T07:52:10.161881-07:00
+updated: 2021-05-10T08:32:43.587363-07:00
+sex: male
+group: Hivite
+parents:
+- name: Seir
+  ref: seir.yaml
+children:
+- name: Anah
+  ref: anah.yaml
+- name: Aiah
+  ref: aiah.yaml

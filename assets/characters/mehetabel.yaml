@@ -1,0 +1,15 @@
+name: Mehetabel
+created: 2021-05-12T08:18:58.549636-07:00
+updated: 2021-05-12T08:18:58.549636-07:00
+sex: female
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+- name: Pau
+  ref: ../locations/pau.yaml
+spouse:
+- name: Hadar
+  ref: hadar.yaml
+info:
+- note: Daughter of Matred, Daughter of Mezahab.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.39

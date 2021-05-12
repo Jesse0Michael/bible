@@ -6,3 +6,5 @@ group: Hittite
 children:
 - name: Basemath
   ref: basemath.yaml
+- name: Adah
+  ref: adah2.yaml

@@ -1,0 +1,10 @@
+name: Iram
+created: 2021-05-12T08:26:55.285534-07:00
+updated: 2021-05-12T08:26:55.285534-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+info:
+- note: Chief of Edom.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.40-43

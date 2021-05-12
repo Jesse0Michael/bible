@@ -1,0 +1,21 @@
+name: Timna
+created: 2021-05-10T08:04:17.443215-07:00
+updated: 2021-05-12T08:28:50.675612-07:00
+sex: female
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Seir
+  ref: seir.yaml
+spouse:
+- name: Eliphaz
+  ref: eliphaz2.yaml
+children:
+- name: Amalek
+  ref: amalek.yaml
+info:
+- note: Concubine to Eliphaz
+  ref: https://ref.ly/logosref/BibleESV.Ge36.12
+- note: Chief of Edom.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.40-43

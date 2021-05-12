@@ -1,0 +1,15 @@
+name: Baal-Hanan
+created: 2021-05-12T08:14:57.862576-07:00
+updated: 2021-05-12T08:14:57.862576-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+associates:
+- name: Shaul
+  ref: shaul.yaml
+- name: Hadar
+  ref: hadar.yaml
+info:
+- note: Son of Achbor. Reigned in Edom after Shaul.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.38

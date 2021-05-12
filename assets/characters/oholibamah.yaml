@@ -1,0 +1,23 @@
+name: Oholibamah
+created: 2021-05-10T07:53:31.963574-07:00
+updated: 2021-05-12T08:28:50.678714-07:00
+sex: female
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Anah
+  ref: anah.yaml
+spouse:
+- name: Esau
+  ref: esau.yaml
+children:
+- name: Jeush
+  ref: jeush.yaml
+- name: Jalam
+  ref: jalam.yaml
+- name: Korah
+  ref: korah.yaml
+info:
+- note: Chief of Edom.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.40-43

@@ -1,0 +1,13 @@
+name: Omar
+created: 2021-05-10T08:08:45.875675-07:00
+updated: 2021-05-10T08:17:12.772515-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Eliphaz
+  ref: eliphaz2.yaml
+info:
+- note: Chief of Eliphaz in the land of Edom
+  ref: https://ref.ly/logosref/BibleESV.Ge36.15-16

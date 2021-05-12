@@ -1,0 +1,24 @@
+name: Adah
+created: 2021-05-10T07:50:42.300581-07:00
+updated: 2021-05-10T07:50:42.300581-07:00
+sex: female
+group: Hittite
+parents:
+- name: Elon
+  ref: elon.yaml
+spouse:
+- name: Esau
+  ref: esau.yaml
+children:
+- name: Eliphaz
+  ref: eliphaz2.yaml
+- name: Teman
+  ref: teman.yaml
+- name: Omar
+  ref: omar.yaml
+- name: Zepho
+  ref: zepho.yaml
+- name: Gatam
+  ref: gatam.yaml
+- name: Kenaz
+  ref: kenaz.yaml

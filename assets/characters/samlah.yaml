@@ -1,0 +1,15 @@
+name: Samlah
+created: 2021-05-12T08:10:40.733191-07:00
+updated: 2021-05-12T08:10:40.733191-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+associates:
+- name: Hadad
+  ref: hadad2.yaml
+- name: Shaul
+  ref: shaul.yaml
+info:
+- note: From Masrekah. Reigned in Edom after Hadad.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.36

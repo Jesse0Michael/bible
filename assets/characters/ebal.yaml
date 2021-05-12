@@ -1,0 +1,8 @@
+name: Ebal
+created: 2021-05-10T08:34:57.423376-07:00
+updated: 2021-05-10T08:34:57.423376-07:00
+sex: male
+group: hivite
+parents:
+- name: Shobal
+  ref: shobal.yaml

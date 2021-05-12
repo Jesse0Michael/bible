@@ -1,0 +1,13 @@
+name: Disdan
+created: 2021-05-10T08:32:33.19778-07:00
+updated: 2021-05-10T08:32:33.19778-07:00
+sex: male
+group: hivite
+parents:
+- name: Seir
+  ref: seir.yaml
+children:
+- name: Uz
+  ref: uz3.yaml
+- name: Aran
+  ref: aran.yaml

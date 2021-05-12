@@ -1,0 +1,15 @@
+name: Amalek
+created: 2021-05-10T08:04:56.358143-07:00
+updated: 2021-05-10T08:17:12.781565-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Eliphaz
+  ref: eliphaz2.yaml
+- name: Timna
+  ref: timna.yaml
+info:
+- note: Chief of Eliphaz in the land of Edom
+  ref: https://ref.ly/logosref/BibleESV.Ge36.15-16

@@ -1,7 +1,12 @@
 name: Esau
 created: 2021-04-06T07:46:54.620141-07:00
-updated: 2021-05-03T08:08:32.558246-07:00
+updated: 2021-05-10T08:01:25.055597-07:00
+alias: Edom
 sex: male
+group: Edomites
+locations:
+- name: Seir
+  ref: ../locations/seir.yaml
 parents:
 - name: Isaac
   ref: isaac.yaml
@@ -12,6 +17,21 @@ spouse:
   ref: judith.yaml
 - name: Basemath
   ref: basemath.yaml
+- name: Adah
+  ref: adah2.yaml
+- name: Oholibamah
+  ref: oholibamah.yaml
+children:
+- name: Eliphaz
+  ref: eliphaz2.yaml
+- name: Reuel
+  ref: reuel.yaml
+- name: Jeush
+  ref: jeush.yaml
+- name: Jalam
+  ref: jalam.yaml
+- name: Korah
+  ref: korah.yaml
 info:
 - note: Firstborn of Isaac, was born red and hairy
   ref: https://ref.ly/logosref/BibleESV.Ge25.25

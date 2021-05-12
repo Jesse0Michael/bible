@@ -1,0 +1,13 @@
+name: Nahath
+created: 2021-05-10T08:10:19.724257-07:00
+updated: 2021-05-10T08:18:30.954914-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+parents:
+- name: Reuel
+  ref: reuel.yaml
+info:
+- note: Chief of Reuel in the land of Edom.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.17

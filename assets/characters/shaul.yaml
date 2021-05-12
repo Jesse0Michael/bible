@@ -1,0 +1,15 @@
+name: Shaul
+created: 2021-05-12T08:13:49.480068-07:00
+updated: 2021-05-12T08:13:49.480068-07:00
+sex: male
+locations:
+- name: Edom
+  ref: ../locations/edom.yaml
+associates:
+- name: Samlah
+  ref: samlah.yaml
+- name: Baal-Hanan
+  ref: baal-hanan.yaml
+info:
+- note: From Rehoboth on the Euphrates. Reigned after Samlah.
+  ref: https://ref.ly/logosref/BibleESV.Ge36.37
