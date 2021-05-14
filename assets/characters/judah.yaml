@@ -1,9 +1,16 @@
 name: Judah
 created: 2021-04-19T08:05:36.082367-07:00
-updated: 2021-04-19T08:05:36.082367-07:00
+updated: 2021-05-14T08:18:02.317243-07:00
 sex: male
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+info:
+- note: Reuben saved Joseph by convincing their brother not to kill him, but only
+    throw him in a pit. So Joseph's brothers took his robe and threw him in an empty
+    pit without water. They sat down to eat and saw a caravan of Ishmaelites on their
+    way to Egypt. Judah suggested selling Joseph as a slave and they sold him for
+    20 shekels of silver.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.18-28

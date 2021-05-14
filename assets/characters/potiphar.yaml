@@ -1,0 +1,14 @@
+name: Potiphar
+created: 2021-05-14T08:23:15.227652-07:00
+updated: 2021-05-14T08:23:15.227652-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+associates:
+- name: Joseph
+  ref: joseph.yaml
+info:
+- note: The Midianites sold Joseph to Potiphar as a slave. Potiphar was an officer
+    of Pharaoh, the captain of the guard.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.29-35

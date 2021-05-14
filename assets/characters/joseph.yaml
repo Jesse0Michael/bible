@@ -1,9 +1,45 @@
 name: Joseph
 created: 2021-04-19T08:22:10.132954-07:00
-updated: 2021-04-19T08:22:10.132954-07:00
+updated: 2021-05-14T08:23:25.411647-07:00
 sex: male
+locations:
+- name: Shechem
+  ref: ../locations/shechem.yaml
+- name: Dothan
+  ref: ../locations/dothan.yaml
+- name: Egypt
+  ref: ../locations/egypt.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Rachel
   ref: rachel.yaml
+associates:
+- name: Potiphar
+  ref: potiphar.yaml
+info:
+- note: When Joesph wasa 17, he was pasturing his father's flock with his brothers
+    and brought a bad report of his brothers to Jacob.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.2
+- note: Jacob loved Joseph more than his otherr sons and made him a roobe off many
+    colors. Because Jacob loved him more, his brothers hated Joseph.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.3-4
+- note: Joseph had a dream where he and his brothers were binding sheaves in the field
+    and Joseph's sheaf stood upright and the other sheaves bowed down to it. His brother
+    hated him for this dream, asking him, in hatred and dibelief, if he would reign
+    over them.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.5-8
+- note: Joseph had another dream and told his brothers that the sun and the moon and
+    11 stars were bowing down to him. When he told his father, Jacob rebuked him for
+    thinking he and his mothere and brothers would bow down to him.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.9-11
+- note: Jacob sent Joseph to pasture the flock with his brothers. Joseph heard they
+    had went to Dothan. When he found them there, they conspired to kill him and throw
+    him into a pit, planning to say that he was devoured by a fierce animal.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.12-20
+- note: Reuben saved Joseph by convincing their brother not to kill him, but only
+    throw him in a pit. So Joseph's brothers took his robe and threw him in an empty
+    pit without water. They sat down to eat and saw a caravan of Ishmaelites on their
+    way to Egypt. Judah suggested selling Joseph as a slave and they sold him for
+    20 shekels of silver.
+  ref: https://ref.ly/logosref/BibleESV.Ge37.18-28
