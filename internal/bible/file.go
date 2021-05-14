@@ -33,18 +33,19 @@ func FindReference(dir, name string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	var matches []os.FileInfo
+	var matches []string
 	for _, f := range files {
 		if strings.HasPrefix(f.Name(), name) {
-			matches = append(matches, f)
+			matches = append(matches, f.Name())
 		}
 	}
 	count := len(matches)
 	if count == 1 {
-		return matches[0].Name(), nil
+		return matches[0], nil
 	}
 	if count > 1 {
-		return "", fmt.Errorf("ambiguous references found: %s/%s*", dir, name)
+
+		return "", fmt.Errorf("ambiguous references found: %s/%s*\n%s", dir, name, strings.Join(matches, "\n"))
 	}
 
 	return "", fmt.Errorf("no reference found: %s/%s*", dir, name)
