@@ -1,0 +1,21 @@
+name: Bath-Shua
+created: 2021-05-18T08:18:06.390668-07:00
+updated: 2021-05-18T08:42:20.450307-07:00
+sex: female
+group: Canaanite
+parents:
+- name: Shua
+  ref: shua.yaml
+spouse:
+- name: Judah
+  ref: judah.yaml
+children:
+- name: Er
+  ref: er.yaml
+- name: Onan
+  ref: onan.yaml
+- name: Shelah
+  ref: shelah2.yaml
+info:
+- note: Judah took Bath-Shua for his wife and she conceived 3 sons.
+  ref: https://ref.ly/logosref/BibleESV.Ge38.2-5

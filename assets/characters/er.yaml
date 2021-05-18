@@ -1,0 +1,15 @@
+name: Er
+created: 2021-05-18T08:19:23.983967-07:00
+updated: 2021-05-18T08:22:16.024753-07:00
+sex: male
+parents:
+  - name: Judah
+    ref: judah.yaml
+  - name: Bath-Shua
+    ref: bath-shua.yaml
+spouse:
+  - name: Tamar
+    ref: tamar.yaml
+info:
+  - note: Er was evil in the sight of the LORD and was killed.
+    ref: https://ref.ly/logosref/BibleESV.Ge38.7

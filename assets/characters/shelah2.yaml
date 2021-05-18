@@ -1,0 +1,9 @@
+name: Shelah
+created: 2021-05-18T08:19:23.99924-07:00
+updated: 2021-05-18T08:19:23.99924-07:00
+sex: male
+parents:
+  - name: Judah
+    ref: judah.yaml
+  - name: Bath-Shua
+    ref: bath-shua.yaml

@@ -1,0 +1,11 @@
+name: Hirah
+created: 2021-05-18T08:15:47.964993-07:00
+updated: 2021-05-18T08:15:47.964993-07:00
+sex: male
+group: Adullamite
+associates:
+- name: Judah
+  ref: judah.yaml
+info:
+- note: Friend of Judah.
+  ref: https://ref.ly/logosref/BibleESV.Ge38.1

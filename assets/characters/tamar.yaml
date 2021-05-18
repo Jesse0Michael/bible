@@ -1,38 +1,22 @@
-name: Judah
-created: 2021-04-19T08:05:36.082367-07:00
-updated: 2021-05-18T09:43:55.663416-07:00
-sex: male
-parents:
-- name: Jacob
-  ref: jacob.yaml
-- name: Leah
-  ref: leah.yaml
+name: Tamar
+created: 2021-05-18T08:21:27.527732-07:00
+updated: 2021-05-18T09:43:55.666521-07:00
+sex: female
 spouse:
-- name: Bath-Shua
-  ref: bath-shua.yaml
-children:
 - name: Er
   ref: er.yaml
 - name: Onan
   ref: onan.yaml
-- name: Shelah
-  ref: shelah2.yaml
+children:
 - name: Zerah
   ref: zerah2.yaml
 - name: Perez
   ref: perez.yaml
-associates:
-- name: Hirah
-  ref: hirah.yaml
 info:
-- note: Reuben saved Joseph by convincing their brother not to kill him, but only
-    throw him in a pit. So Joseph's brothers took his robe and threw him in an empty
-    pit without water. They sat down to eat and saw a caravan of Ishmaelites on their
-    way to Egypt. Judah suggested selling Joseph as a slave and they sold him for
-    20 shekels of silver.
-  ref: https://ref.ly/logosref/BibleESV.Ge37.18-28
-- note: Judah took Bath-Shua for his wife and she conceived 3 sons.
-  ref: https://ref.ly/logosref/BibleESV.Ge38.2-5
+- note: After Er died, Judah told Er's brother, Onan, to take Tamar as his wife. Onan
+    did not want to because the offspring they had would not be his. When Onan had
+    sex with Tamar, he would waist his semen on the ground so she would not get pregnant.
+  ref: https://ref.ly/logosref/BibleESV.Ge38.8-9
 - note: Judah told Tamar to wait at her father's house until Shelah was older. Then,
     when Judah's wife Bath-Shua died, Judah mourned and went to Timnah to shere sheep.
     Tamar took off her widow's garments and dressed like a prostitute and seduced
