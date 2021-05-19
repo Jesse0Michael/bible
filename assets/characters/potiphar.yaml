@@ -1,6 +1,6 @@
 name: Potiphar
 created: 2021-05-14T08:23:15.227652-07:00
-updated: 2021-05-14T08:23:15.227652-07:00
+updated: 2021-05-19T07:49:24.747942-07:00
 sex: male
 locations:
 - name: Egypt
@@ -12,3 +12,6 @@ info:
 - note: The Midianites sold Joseph to Potiphar as a slave. Potiphar was an officer
     of Pharaoh, the captain of the guard.
   ref: https://ref.ly/logosref/BibleESV.Ge37.29-35
+- note: The LORD was with Joseph in Egypt and caused everything he did to succeed.
+    Potiphar, his master, Saw this and made Joseph head of his house.
+  ref: https://ref.ly/logosref/BibleESV.Ge39.2-6
