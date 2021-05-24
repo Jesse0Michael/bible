@@ -1,6 +1,7 @@
 name: Joseph
 created: 2021-04-19T08:22:10.132954-07:00
-updated: 2021-05-19T08:10:50.393634-07:00
+updated: 2021-05-24T08:16:51.223868-07:00
+alias: Zaphenath-paneah
 sex: male
 locations:
 - name: Shechem
@@ -14,6 +15,14 @@ parents:
   ref: jacob.yaml
 - name: Rachel
   ref: rachel.yaml
+spouse:
+- name: Asenath
+  ref: asenath.yaml
+children:
+- name: Manasseh
+  ref: manasseh.yaml
+- name: Ephraim
+  ref: ephraim.yaml
 associates:
 - name: Potiphar
   ref: potiphar.yaml
@@ -73,3 +82,28 @@ info:
 - note: In 3 days, both dream interpretations came true. The cupbearer was restored,
     the baker was hanged.
   ref: https://ref.ly/logosref/BibleESV.Ge40.20-23
+- note: 2 years after Joseph inerepreted the dreams of the cupbearer and baker, Pharaoh
+    had a dream. In his dream 7 healthy cows came out of the Nile and ate the reed
+    grass, then 7 unhealthy cows came out of the Nile and ate the healthy cows. Pharaoh
+    had a second dream where 7 ears of good grain grew out of one stalk, then 7 blighted
+    ears grew out of it. Pharaoh's spirit was troubled and none of the Egyptian magicians
+    or wise men could interpret the dream. His cupbearer remembered Joseph and told
+    the Pharaoh how he interpreted his and the baker's dream and they came true. Pharaoh
+    sent for Joseph who was cleaned up and told Pharaoh it is not him, but God who
+    will reveal the meaning of the dream. Joseph says the 2 dreams are the same. the
+    7 healthy cows and 7 good ears of grain are 7 years of are 7 years of healthy
+    harvest, and the 7 unheaathy cows and blighted ears of grain are 7 years of famine.
+  ref: https://ref.ly/logosref/BibleESV.Ge41.1-32
+- note: Joseph instructed Pharaoh to select a wise maan to oversee the land and save
+    one fifth of the produce during the 7 years of plenty to have enough when the
+    famine comes. Pharaoh decides that none could be as wise as Joseph, with the LORD
+    on his side, and appoints Joseph to be second in command to rule over the land.
+  ref: https://ref.ly/logosref/BibleESV.Ge41.33-41
+- note: Pharaoh gave Joseph hiss signet ring, clothess, a gold chain, and a chariot.
+    Pharaoh gave Joseph the name Zaphenath-paneah aand gave him the daughter of Potiphera
+    as a wife.
+  ref: https://ref.ly/logosref/BibleESV.Ge41.42-45
+- note: 7 years of famine followed the 7 years of plenty, just as Joseph interpreted.
+    All of Egypt came to Joseph to buy grain as well as those outside of Egypt because
+    of how severe the famine was.
+  ref: https://ref.ly/logosref/BibleESV.Ge41.53-57

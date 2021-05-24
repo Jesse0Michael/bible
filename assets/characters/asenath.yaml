@@ -1,0 +1,18 @@
+name: Asenath
+created: 2021-05-24T08:11:12.841645-07:00
+updated: 2021-05-24T08:11:12.841645-07:00
+sex: female
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+spouse:
+- name: Joseph
+  ref: joseph.yaml
+children:
+- name: Manasseh
+  ref: manasseh.yaml
+- name: Ephraim
+  ref: ephraim.yaml
+info:
+- note: The daughter of Potiphera, priest of On.
+  ref: https://ref.ly/logosref/BibleESV.Ge41.45

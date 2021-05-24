@@ -1,0 +1,13 @@
+name: Manasseh
+created: 2021-05-24T08:13:49.316765-07:00
+updated: 2021-05-24T08:13:49.316765-07:00
+meaning: God has made me forget all my hardship
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Joseph
+  ref: joseph.yaml
+- name: Asenath
+  ref: asenath.yaml
