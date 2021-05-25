@@ -1,6 +1,6 @@
 name: Judah
 created: 2021-04-19T08:05:36.082367-07:00
-updated: 2021-05-18T09:43:55.663416-07:00
+updated: 2021-05-25T08:37:03.20883-07:00
 sex: male
 parents:
 - name: Jacob
@@ -46,3 +46,7 @@ info:
     told him to identify the belongings and let her live, realizing that he was the
     father.
   ref: https://ref.ly/logosref/BibleESV.Ge38.24-26
+- note: After some time, with Simeon still being held captive in Egypt, Jacob asks
+    his brothers to return to Egypt to buy food. They refuse to go without Benjamin.
+    Judah puts Benjamin's saftey as his responsibility
+  ref: https://ref.ly/logosref/BibleESV.Ge43.1-10

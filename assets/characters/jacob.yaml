@@ -1,6 +1,6 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-05-14T08:21:48.7716-07:00
+updated: 2021-05-25T08:40:05.042441-07:00
 alias: Israel
 sex: male
 locations:
@@ -48,7 +48,7 @@ children:
 - name: Benjamin
   ref: benjamin.yaml
 info:
-- note: Isaac's secondborn. Came out holding the heel of Esau.
+- note: Isaac's second born. Came out holding the heel of Esau.
   ref: https://ref.ly/logosref/BibleESV.Ge25.26
 - note: Quiet man who dwelled in tents. Loved by Rebekah.
   ref: https://ref.ly/logosref/BibleESV.Ge25.27-28
@@ -57,15 +57,15 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge25.29-34
 - note: Rebekah convinces Jacob to trick his father into blessing him instead of Esau.
     While Esau was hunting game for his father as he asked. Jacob brought 2 goats
-    to his mom to prepare them and covered himself in animals skin to pass as amaan
+    to his mom to prepare them and covered himself in animals skin to pass as a man
     as hairy as Esau is.
   ref: https://ref.ly/logosref/BibleESV.Ge27.5-17
-- note: Jacob decieved his father Isaac into thinking he was his brother Esau by wearing
+- note: Jacob deceived his father Isaac into thinking he was his brother Esau by wearing
     goat fur and fulfilling the request made to Esau.
   ref: https://ref.ly/logosref/BibleESV.Ge27.18-25
-- note: Isaac blessed Jacob asking God to give hiim the fattnesss of the earth and
-    plenty of frain and wine, that nations will serve him and his brother will bow
-    down to him.
+- note: Isaac blessed Jacob asking God to give him the fatness of the earth and plenty
+    of grain and wine, that nations will serve him and his brother will bow down to
+    him.
   ref: https://ref.ly/logosref/BibleESV.Ge27.27-29
   commentary: This matches what the LORD told Rebekah when she bot pregnant. It also
     reiterates covenant God made with Abraham.
@@ -79,8 +79,8 @@ info:
     brother Esau.
 - note: On his way to Haran, Jacob fell asleep on a rock and had a dream. In the dream
     there was a ladder that scaled to the heavens and angels were climbing up and
-    down the laadder. God spoke from atop the ladder and told Jacon that the land
-    he is in will be given to him and his decendants will be numerous.
+    down the ladder. God spoke from atop the ladder and told Jacob that the land he
+    is in will be given to him and his descendants will be numerous.
   ref: https://ref.ly/logosref/BibleESV.Ge28.11-17
   commentary: Reiteration of God's covenant with Abraham.
 - note: When Jacob awoke from his dream he anointed the rock he slept on with oil.
@@ -100,7 +100,7 @@ info:
     giver him Rachel as well if he completed 7 more years of service, which he did.
   ref: https://ref.ly/logosref/BibleESV.Ge29.21-30
 - note: After bearing all of his children, Jacob asked Laban to allow him to return
-    to his home land, but Laaban did not want Jacob to leave because he had brough
+    to his home land, but Laban did not want Jacob to leave because he had brought
     him much wealth.
   ref: https://ref.ly/logosref/BibleESV.Ge30.25-30
 - note: Jacob and Laban made a deal to let Jacob have all of the speckled, spotted,
@@ -115,15 +115,15 @@ info:
 - note: Laban stopped treating Jacob with favor. God told Jacob to return to the land
     of his father.
   ref: https://ref.ly/logosref/BibleESV.Ge31.2-3
-- note: Jacob fled from Laban in secret with his family and property. Laban persued
+- note: Jacob fled from Laban in secret with his family and property. Laban pursued
     Jacob and caught up with him in Gilead. God warned Laban not to say anything to
     Jacob, good or bad.
   ref: https://ref.ly/logosref/BibleESV.Ge31.22-32
-- note: Jacob and Laban made a covenant at Galeed to not cross the boundry where the
-    pillar they created was made. They ate and said fairwell to eachother.
+- note: Jacob and Laban made a covenant at Galeed to not cross the boundary where
+    the pillar they created was made. They ate and said farewell to each other.
   ref: https://ref.ly/logosref/BibleESV.Ge31.51-55
 - note: When Jacob was returning to the land of Canaan, he sent servants ahead of
-    him to deliever a message to Esau. The messengers returned saying that Esau is
+    him to deliver a message to Esau. The messengers returned saying that Esau is
     coming to meet him with 400 men which made Jacob greatly afraid.
   ref: https://ref.ly/logosref/BibleESV.Ge32.3-7
 - note: Jacob split his camp into two camps, so that if Esau attacked one, the other
@@ -134,9 +134,9 @@ info:
     to be delivered to Esau as a present while Jacob stayed at his camp.
   ref: https://ref.ly/logosref/BibleESV.Ge32.13-21
 - note: Jacob sent his family ahead of him in thee night and a man, that turned out
-    to be God, wrestled with Jacob througout the night. When God did not prevail against
-    Jacob, he touched his him to put it out of its socket. Jacob would not let God
-    go until he blessed him, which he did and changed Jacob's name to Israel.
+    to be God, wrestled with Jacob throughout the night. When God did not prevail
+    against Jacob, he touched his him to put it out of its socket. Jacob would not
+    let God go until he blessed him, which he did and changed Jacob's name to Israel.
   ref: https://ref.ly/logosref/BibleESV.Ge32.22-32
   commentary: The text calls the person who wrestled with Jacob a man, but Jacob says
     it is God. Because of Jacob's dislocated him, the people of Israel did not eat
@@ -144,7 +144,7 @@ info:
 - note: When Jacob saw Esau approaching, he wen before his family, bowing himself
     to the ground 7 times before his brother.
   ref: https://ref.ly/logosref/BibleESV.Ge33.1-3
-  commentary: The imagry of Jacob walking and bowing towards his brother sticks in
+  commentary: The imagery of Jacob walking and bowing towards his brother sticks in
     my head as something many do when approaching God with our shame. Which, like
     for Jacob, is not necessary because God embraces us with love.
 - note: Esau embraced his brother Jacob with love. He attempted to return the company
@@ -152,7 +152,7 @@ info:
     gift.
   ref: https://ref.ly/logosref/BibleESV.Ge33.4-11
 - note: Jacob insisted that Esau go before him and Jacob will journey behind at the
-    pace of his young livestock. Esau journied south to Seir. Jacob journied north
+    pace of his young livestock. Esau journeyed south to Seir. Jacob journeyed north
     and camped at Succoth.
   ref: https://ref.ly/logosref/BibleESV.Ge33.12-17
 - note: Jacob found safety in the Shechem, bought land, and erected an altar called
@@ -160,7 +160,7 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ge33.18-20
   commentary: Shechem is where Abraham once built an altar to the LORD.
 - note: Hamor went to Jacob on his son, Shechem's, behalf and asked him to give Dinah
-    to Shechem in marraige. He proposed their people and his people marrying and dwelling
+    to Shechem in marriage. He proposed their people and his people marrying and dwelling
     togetheer. Jacob's sons responded saying that they would only allow thiss intermarriage
     if all of their men were circumcised.
   ref: https://ref.ly/logosref/BibleESV.Ge34.5-17
@@ -179,7 +179,7 @@ info:
     of innocent men not associated with the rape, but the threat that might be placed
     on himself.
 - note: God asked Jacob to build an altar to Him in Bethel. Jacob took the false gods
-    and rings from his people, burried them under a tree in Shechem, and went to Bethel
+    and rings from his people, buried them under a tree in Shechem, and went to Bethel
     to build an altar.
   ref: https://ref.ly/logosref/BibleESV.Ge35.1-7
   commentary: The LORD protected Jacob's family on this journey.
@@ -188,11 +188,32 @@ info:
     Abraham and Isaac. Jacob built a pillar to God and poured out a drink offering
     and oil on it.
   ref: https://ref.ly/logosref/BibleESV.Ge35.9-15
-- note: Jacob loved Joseph more than his otherr sons and made him a roobe off many
-    colors. Because Jacob loved him more, his brothers hated Joseph.
+- note: Jacob loved Joseph more than his other sons and made him a robe off many colors.
+    Because Jacob loved him more, his brothers hated Joseph.
   ref: https://ref.ly/logosref/BibleESV.Ge37.3-4
 - note: When Ruben learned that Joseph had been sold into slavery, he grieved and
     tore his clothes. The brothers conspired to tear and cover Joseph's robe in blood
     and tell Jacob that he'd been murdered by an animal. When Jacob heard this lie,
     he tore his clothes and mourned for many days, no one could comfort him.
   ref: https://ref.ly/logosref/BibleESV.Ge37.29-35
+- note: Jacob sent his sons to Egypt to retrieve grain during a great famine. All
+    of Joseph's brothers except Benjamin went.
+  ref: https://ref.ly/logosref/BibleESV.Ge42.1-5
+- note: Joseph filled his brothers bags with grain, replaced their money, and gave
+    them provisions for the journey. Simeon was bound and kept behind. The brothers
+    discovered that they provisions had been refilled. They returned to their father,
+    Jacob, and informed him that they must return with Benjamin but Jacob refused
+    to send him.
+  ref: https://ref.ly/logosref/BibleESV.Ge42.24-38
+  commentary: The brothers were afraid when they found their provisions refilled because
+    they thought they would be accused of stealing it. Jacob refused to let Benjamin
+    go because he had already lost Joseph, and now Simeon, and wasn't going to lose
+    Benjamin as well.
+- note: After some time, with Simeon still being held captive in Egypt, Jacob asks
+    his brothers to return to Egypt to buy food. They refuse to go without Benjamin.
+    Judah puts Benjamin's saftey as his responsibility
+  ref: https://ref.ly/logosref/BibleESV.Ge43.1-10
+- note: Jacob sends his sons with gifts to give and double the money, to pay for the
+    grain and to return what was replaced in their sacks. The gifts were balm, honey,
+    gum, myrrh, pistashio nuts, and almonds.
+  ref: https://ref.ly/logosref/BibleESV.Ge43.11-12
