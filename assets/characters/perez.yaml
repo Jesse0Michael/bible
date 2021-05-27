@@ -1,12 +1,20 @@
 name: Perez
 created: 2021-05-18T09:46:11.033981-07:00
-updated: 2021-05-18T09:46:11.033981-07:00
+updated: 2021-05-27T08:17:59.646745-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Tamar
   ref: tamar.yaml
 - name: Judah
   ref: judah.yaml
+children:
+- name: Hezron
+  ref: hezron2.yaml
+- name: Hamul
+  ref: hamul.yaml
 info:
 - note: Tamar gave birth to twins. Zerah was coming out first, but instead Perez made
     his way out first.

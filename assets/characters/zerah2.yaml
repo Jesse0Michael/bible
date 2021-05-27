@@ -1,7 +1,10 @@
 name: Zerah
 created: 2021-05-18T09:46:11.028621-07:00
-updated: 2021-05-18T09:46:11.028621-07:00
+updated: 2021-05-27T08:20:25.091112-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Tamar
   ref: tamar.yaml

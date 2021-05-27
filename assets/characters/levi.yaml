@@ -1,12 +1,22 @@
 name: Levi
 created: 2021-04-19T08:05:36.078294-07:00
-updated: 2021-05-05T08:27:28.129836-07:00
+updated: 2021-05-27T08:17:59.655762-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+children:
+- name: Gershon
+  ref: gershon.yaml
+- name: Kohath
+  ref: kohath.yaml
+- name: Merari
+  ref: merari.yaml
 info:
 - note: On the third day after they have been tricked into circumcising all their
     males, Simeon and Levi killed Hamor, Shechem, and all the males in the city and

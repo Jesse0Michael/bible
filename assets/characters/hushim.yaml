@@ -1,0 +1,12 @@
+name: Hushim
+created: 2021-05-27T08:03:56.652157-07:00
+updated: 2021-05-27T08:17:59.516604-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Dan
+  ref: dan.yaml

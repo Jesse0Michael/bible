@@ -1,0 +1,12 @@
+name: Shaul
+created: 2021-05-27T07:53:08.054444-07:00
+updated: 2021-05-27T08:17:59.68287-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Simeon
+  ref: simeon.yaml

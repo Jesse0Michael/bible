@@ -1,0 +1,17 @@
+name: Beriah
+created: 2021-05-27T08:01:17.116143-07:00
+updated: 2021-05-27T08:17:59.579673-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Asher
+  ref: asher.yaml
+children:
+- name: Herber
+  ref: herber.yaml
+- name: Malchiel
+  ref: malchiel.yaml

@@ -1,0 +1,12 @@
+name: Yob
+created: 2021-05-27T07:56:23.490945-07:00
+updated: 2021-05-27T08:17:59.638746-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Issachar
+  ref: issachar.yaml

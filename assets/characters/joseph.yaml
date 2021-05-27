@@ -1,6 +1,6 @@
 name: Joseph
 created: 2021-04-19T08:22:10.132954-07:00
-updated: 2021-05-26T08:24:46.053006-07:00
+updated: 2021-05-27T08:22:31.880735-07:00
 alias: Zaphenath-paneah
 sex: male
 locations:
@@ -10,6 +10,8 @@ locations:
   ref: ../locations/dothan.yaml
 - name: Egypt
   ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
@@ -164,10 +166,18 @@ info:
     and come to live in Goshen where he will provide for them in the remaining years
     of famine. Joseph embraced his brothers and they wept.
   ref: https://ref.ly/logosref/BibleESV.Ge45.1-15
-  commentary: The narrative of Joseph is so rich with God's work and character. That he 
-    can use the sin of Joseph's brother's for his will. Nothing is out of his control
+  commentary: The narrative of Joseph is so rich with God's work and character. That
+    he can use the sin of Joseph's brother's for his will. Nothing is out of his control
     and can't be used for his purposes.
 - note: Pharaoh was pleased with Joseph, therefore provided provisions for Joseph's
     brothers to travel and retrieve their father and offered them the best land Egypt
     had to offer.
   ref: https://ref.ly/logosref/BibleESV.Ge45.16-20
+- note: Jacob met Joseph in Goshen and fell onto his father's neck and wept. Jacob
+    says that he can die now, for he has seen Joseph's face and knows he is alive.
+  ref: https://ref.ly/logosref/BibleESV.Ge46.28-31
+- note: Joseph instructed his brothers to tell Pharaoh that they were all shepherds
+    because they have been keepers of livestock since youth when he asked them their
+    profession inorder to dwell in the land of Goshen, for sheperds were an abomination
+    to the Egyptians.
+  ref: https://ref.ly/logosref/BibleESV.Ge46.31-34

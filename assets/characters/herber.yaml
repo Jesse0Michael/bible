@@ -1,0 +1,12 @@
+name: Herber
+created: 2021-05-27T08:01:56.029841-07:00
+updated: 2021-05-27T08:17:59.555255-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Beriah
+  ref: beriah.yaml

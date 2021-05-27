@@ -1,0 +1,12 @@
+name: Becher
+created: 2021-05-27T08:03:09.423105-07:00
+updated: 2021-05-27T08:17:59.526622-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Benjamin
+  ref: benjamin.yaml

@@ -1,9 +1,25 @@
 name: Gad
 created: 2021-04-19T08:16:36.123857-07:00
-updated: 2021-04-19T08:16:36.123857-07:00
+updated: 2021-05-27T08:17:59.58645-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Zilpah
   ref: zilpah.yaml
+children:
+- name: Haggi
+  ref: haggi.yaml
+- name: Shuni
+  ref: shuni.yaml
+- name: Ezbron
+  ref: ezbron.yaml
+- name: Erri
+  ref: erri.yaml
+- name: Arodi
+  ref: arodi.yaml
+- name: Areli
+  ref: areli.yaml

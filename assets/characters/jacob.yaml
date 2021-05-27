@@ -1,6 +1,6 @@
 name: Jacob
 created: 2021-04-06T07:48:03.02354-07:00
-updated: 2021-05-26T08:27:45.166122-07:00
+updated: 2021-05-27T08:17:23.957323-07:00
 alias: Israel
 sex: male
 locations:
@@ -12,6 +12,12 @@ locations:
   ref: ../locations/gilead.yaml
 - name: Shechem
   ref: ../locations/shechem.yaml
+- name: Beersheba
+  ref: ../locations/beersheba.yaml
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Isaac
   ref: isaac.yaml
@@ -222,3 +228,14 @@ info:
     but in a position of honor in egypt. Jacob's spirit was revived and he agreed
     to move to Egypt to see his son.
   ref: https://ref.ly/logosref/BibleESV.Ge45.25-28
+- note: Jacob offered sacrifices to God at Beersheba on the way to Egypt to escape
+    the famine ane reuinite with Joseph. The LORD spoke to Jacob here telling him
+    to not be afraid to go to Egypt, for He will make him a great nation and go before
+    him.
+  ref: https://ref.ly/logosref/BibleESV.Ge46.1-4
+- note: Jacob traveled with his sons, wives, and livestock, in the wagons and provisions
+    that Pharaoh sent, to egypt.
+  ref: https://ref.ly/logosref/BibleESV.Ge46.5-7
+- note: Jacob met Joseph in Goshen and fell onto his father's neck and wept. Jacob
+    says that he can die now, for he has seen Joseph's face and knows he is alive.
+  ref: https://ref.ly/logosref/BibleESV.Ge46.28-31

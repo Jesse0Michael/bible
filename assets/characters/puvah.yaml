@@ -1,0 +1,12 @@
+name: Puvah
+created: 2021-05-27T07:56:23.487816-07:00
+updated: 2021-05-27T08:17:59.634887-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Issachar
+  ref: issachar.yaml

@@ -1,9 +1,21 @@
 name: Issachar
 created: 2021-04-19T08:19:14.601012-07:00
-updated: 2021-04-19T08:19:14.601012-07:00
+updated: 2021-05-27T08:17:59.626521-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+children:
+- name: Tola
+  ref: tola.yaml
+- name: Puvah
+  ref: puvah.yaml
+- name: Yob
+  ref: yob.yaml
+- name: Shimron
+  ref: shimron.yaml

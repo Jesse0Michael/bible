@@ -1,7 +1,10 @@
 name: Judah
 created: 2021-04-19T08:05:36.082367-07:00
-updated: 2021-05-26T08:06:02.505823-07:00
+updated: 2021-05-27T08:20:25.065078-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml

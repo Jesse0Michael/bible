@@ -1,0 +1,12 @@
+name: Guni
+created: 2021-05-27T08:04:19.488791-07:00
+updated: 2021-05-27T08:17:59.504896-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Naphtali
+  ref: naphtali.yaml

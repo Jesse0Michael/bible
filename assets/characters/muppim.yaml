@@ -1,0 +1,12 @@
+name: Muppim
+created: 2021-05-27T08:03:09.45725-07:00
+updated: 2021-05-27T08:17:59.543007-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Benjamin
+  ref: benjamin.yaml

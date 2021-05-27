@@ -1,12 +1,28 @@
 name: Simeon
 created: 2021-04-19T08:05:36.07378-07:00
-updated: 2021-05-25T08:30:10.460552-07:00
+updated: 2021-05-27T08:17:59.666971-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+children:
+- name: Jemuel
+  ref: jemuel.yaml
+- name: Jamin
+  ref: jamin.yaml
+- name: Ohad
+  ref: ohad.yaml
+- name: Jachin
+  ref: jachin.yaml
+- name: Zohar
+  ref: zohar.yaml
+- name: Shaul
+  ref: shaul2.yaml
 info:
 - note: On the third day after they have been tricked into circumcising all their
     males, Simeon and Levi killed Hamor, Shechem, and all the males in the city and

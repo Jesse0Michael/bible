@@ -1,9 +1,23 @@
 name: Asher
 created: 2021-04-19T08:16:36.128187-07:00
-updated: 2021-04-19T08:16:36.128187-07:00
+updated: 2021-05-27T08:17:59.560659-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Zilpah
   ref: zilpah.yaml
+children:
+- name: Imnah
+  ref: imnah.yaml
+- name: Ishvah
+  ref: ishvah.yaml
+- name: Ishvi
+  ref: ishvi.yaml
+- name: Beriah
+  ref: beriah.yaml
+- name: Serah
+  ref: serah.yaml

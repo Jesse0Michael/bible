@@ -1,0 +1,12 @@
+name: Carmi
+created: 2021-05-27T07:52:28.974667-07:00
+updated: 2021-05-27T08:19:18.82266-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Reuben
+  ref: reuben.yaml

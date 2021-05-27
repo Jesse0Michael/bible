@@ -1,0 +1,12 @@
+name: Haggi
+created: 2021-05-27T08:00:44.986691-07:00
+updated: 2021-05-27T08:17:59.589138-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Gad
+  ref: gad.yaml

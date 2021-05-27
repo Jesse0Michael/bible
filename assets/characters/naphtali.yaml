@@ -1,9 +1,21 @@
 name: Naphtali
 created: 2021-04-19T08:11:39.025076-07:00
-updated: 2021-04-19T08:11:39.025076-07:00
+updated: 2021-05-27T08:17:59.499257-07:00
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Bilhah
   ref: bilhah.yaml
+children:
+- name: Jahzeel
+  ref: jahzeel.yaml
+- name: Guni
+  ref: guni.yaml
+- name: Jezer
+  ref: jezer.yaml
+- name: Shillem
+  ref: shillem.yaml

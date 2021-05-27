@@ -1,13 +1,37 @@
 name: Benjamin
 created: 2021-05-05T09:03:08.854217-07:00
-updated: 2021-05-26T08:25:51.297826-07:00
+updated: 2021-05-27T08:17:59.520801-07:00
 alias: Ben-oni
 sex: male
+locations:
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Rachel
   ref: rachel.yaml
 - name: Jacob
   ref: jacob.yaml
+children:
+- name: Bela
+  ref: bela2.yaml
+- name: Becher
+  ref: becher.yaml
+- name: Ashbel
+  ref: ashbel.yaml
+- name: Gera
+  ref: gera.yaml
+- name: Naaman
+  ref: naaman.yaml
+- name: Ehi
+  ref: ehi.yaml
+- name: Rosh
+  ref: rosh.yaml
+- name: Muppim
+  ref: muppim.yaml
+- name: Huppim
+  ref: huppim.yaml
+- name: Ard
+  ref: ard.yaml
 info:
 - note: On the way back from Bethel, Rachel gave birth to Benjamin and then died and
     was burried in a tomb near Ephrath (Bethlehem).

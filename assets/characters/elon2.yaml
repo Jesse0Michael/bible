@@ -1,0 +1,12 @@
+name: Elon
+created: 2021-05-27T07:59:25.928563-07:00
+updated: 2021-05-27T08:17:59.619341-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Zebulun
+  ref: zebulun.yaml

@@ -1,0 +1,12 @@
+name: Sered
+created: 2021-05-27T07:59:25.925271-07:00
+updated: 2021-05-27T08:17:59.614745-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Zebulun
+  ref: zebulun.yaml

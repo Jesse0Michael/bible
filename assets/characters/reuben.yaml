@@ -1,15 +1,26 @@
 name: Reuben
 created: 2021-04-19T08:05:36.0691-07:00
-updated: 2021-05-25T08:22:44.400643-07:00
+updated: 2021-05-27T08:17:59.685383-07:00
 sex: male
 locations:
 - name: Dothan
   ref: ../locations/dothan.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
 - name: Leah
   ref: leah.yaml
+children:
+- name: Hanoch
+  ref: hanoch2.yaml
+- name: Pallu
+  ref: pallu.yaml
+- name: Hezron
+  ref: hezron.yaml
+- name: Carmi
+  ref: carmi.yaml
 info:
 - note: Reuben laid with his father's concubine, Bilhah.
   ref: https://ref.ly/logosref/BibleESV.Ge35.22

@@ -1,0 +1,12 @@
+name: Ohad
+created: 2021-05-27T07:53:08.039254-07:00
+updated: 2021-05-27T08:17:59.674276-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+- name: Goshen
+  ref: ../locations/goshen.yaml
+parents:
+- name: Simeon
+  ref: simeon.yaml
