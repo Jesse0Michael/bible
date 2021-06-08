@@ -1,6 +1,6 @@
 name: Manasseh
 created: 2021-05-24T08:13:49.316765-07:00
-updated: 2021-05-24T08:13:49.316765-07:00
+updated: 2021-05-28T08:23:08.372471-07:00
 meaning: God has made me forget all my hardship
 sex: male
 locations:
@@ -11,3 +11,10 @@ parents:
   ref: joseph.yaml
 - name: Asenath
   ref: asenath.yaml
+info:
+- note: Joseph took his sons, Ephraim and Manasseh, to his father and he blessed them
+    both. But when Jacob blessed them he crossed his arms and put his right hand on
+    Ephraim, the younger, and his left hand on Manasseh. Joseph tried to correct Jacob,
+    but he refused. Both sons were blessed to carry on his namee and grow into a multitude
+    of nations. Both great, but Ephraim's greater.
+  ref: https://ref.ly/logosref/BibleESV.Ge48.8-20

@@ -1,6 +1,6 @@
 name: Asher
 created: 2021-04-19T08:16:36.128187-07:00
-updated: 2021-05-27T08:17:59.560659-07:00
+updated: 2021-06-08T08:22:56.678528-07:00
 sex: male
 locations:
 - name: Goshen
@@ -21,3 +21,6 @@ children:
   ref: beriah.yaml
 - name: Serah
   ref: serah.yaml
+info:
+- note: Jacob blessed Asher to be rich in foood and yield royal delicacies.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.20

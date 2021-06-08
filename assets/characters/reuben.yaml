@@ -1,6 +1,6 @@
 name: Reuben
 created: 2021-04-19T08:05:36.0691-07:00
-updated: 2021-05-27T08:17:59.685383-07:00
+updated: 2021-06-08T07:59:58.180982-07:00
 sex: male
 locations:
 - name: Dothan
@@ -40,3 +40,6 @@ info:
     turns and weeps, though the brothers did not know he understood them, for he has
     been using an interpreter.
   ref: https://ref.ly/logosref/BibleESV.Ge42.21-24
+- note: Jacob cursed Reuben, his firstborn, and demoted him from his blessing because
+    of the reelationship he had with Bilhah.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.3-4

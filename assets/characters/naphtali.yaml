@@ -1,6 +1,6 @@
 name: Naphtali
 created: 2021-04-19T08:11:39.025076-07:00
-updated: 2021-05-27T08:17:59.499257-07:00
+updated: 2021-06-08T08:25:17.18599-07:00
 sex: male
 locations:
 - name: Goshen
@@ -19,3 +19,6 @@ children:
   ref: jezer.yaml
 - name: Shillem
   ref: shillem.yaml
+info:
+- note: Jacob called Naphtali a dooe let loose, that bears beaautiful fawns.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.21

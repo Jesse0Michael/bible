@@ -1,6 +1,6 @@
 name: Dan
 created: 2021-04-19T08:11:39.020458-07:00
-updated: 2021-05-27T08:17:59.513585-07:00
+updated: 2021-06-08T08:20:43.450789-07:00
 sex: male
 locations:
 - name: Goshen
@@ -13,3 +13,6 @@ parents:
 children:
 - name: Hushim
   ref: hushim.yaml
+info:
+- note: Jacob called Dan an accuser of his people, like the serpent.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.16-18

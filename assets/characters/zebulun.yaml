@@ -1,6 +1,6 @@
 name: Zebulun
 created: 2021-04-19T08:21:25.768481-07:00
-updated: 2021-05-27T08:17:59.609939-07:00
+updated: 2021-06-08T08:10:20.096532-07:00
 sex: male
 locations:
 - name: Goshen
@@ -17,3 +17,6 @@ children:
   ref: elon2.yaml
 - name: Jahleel
   ref: jahleel.yaml
+info:
+- note: Jacob blessed Zebulun with land by the sea, to become a haven for ships.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.13

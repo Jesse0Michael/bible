@@ -1,6 +1,6 @@
 name: Issachar
 created: 2021-04-19T08:19:14.601012-07:00
-updated: 2021-05-27T08:17:59.626521-07:00
+updated: 2021-06-08T08:13:26.332622-07:00
 sex: male
 locations:
 - name: Goshen
@@ -19,3 +19,7 @@ children:
   ref: yob.yaml
 - name: Shimron
   ref: shimron.yaml
+info:
+- note: Jacob blessed Issachar with being as strong as a donkey but more content with
+    not working, and would be forced to labor.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.14-15

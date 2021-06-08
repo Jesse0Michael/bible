@@ -1,6 +1,6 @@
 name: Gad
 created: 2021-04-19T08:16:36.123857-07:00
-updated: 2021-05-27T08:17:59.58645-07:00
+updated: 2021-06-08T08:21:50.388025-07:00
 sex: male
 locations:
 - name: Goshen
@@ -23,3 +23,6 @@ children:
   ref: arodi.yaml
 - name: Areli
   ref: areli.yaml
+info:
+- note: Jacob said that raiders would raid Gad, but he would raid at their heels.
+  ref: https://ref.ly/logosref/BibleESV.Ge49.19
