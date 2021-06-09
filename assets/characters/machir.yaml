@@ -1,0 +1,7 @@
+name: Machir
+created: 2021-06-09T08:00:14.803764-07:00
+updated: 2021-06-09T08:00:14.803764-07:00
+sex: male
+parents:
+- name: Manasseh
+  ref: manasseh.yaml

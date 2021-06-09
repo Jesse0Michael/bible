@@ -11,6 +11,9 @@ parents:
   ref: joseph.yaml
 - name: Asenath
   ref: asenath.yaml
+children:
+- name: Machir
+  ref: machir.yaml
 info:
 - note: Joseph took his sons, Ephraim and Manasseh, to his father and he blessed them
     both. But when Jacob blessed them he crossed his arms and put his right hand on

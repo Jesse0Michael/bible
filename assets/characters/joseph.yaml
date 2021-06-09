@@ -1,6 +1,6 @@
 name: Joseph
 created: 2021-04-19T08:22:10.132954-07:00
-updated: 2021-06-08T08:29:47.38907-07:00
+updated: 2021-06-09T08:02:24.58668-07:00
 alias: Zaphenath-paneah
 sex: male
 locations:
@@ -12,6 +12,8 @@ locations:
   ref: ../locations/egypt.yaml
 - name: Goshen
   ref: ../locations/goshen.yaml
+- name: Atad
+  ref: ../locations/atad.yaml
 parents:
 - name: Jacob
   ref: jacob.yaml
@@ -207,3 +209,25 @@ info:
     him, he was unmoved and did not retaliate. Jacob blessed Joseph by the Almighty
     God, with thee blessings of his parents, on Joseph, who was set apart.
   ref: https://ref.ly/logosref/BibleESV.Ge49.22-26
+- note: Joseph wept over his father and commanded his servants to embalm him, taking
+    40 days. The Egyptians wept for 70 days.
+  ref: https://ref.ly/logosref/BibleESV.Ge50.1-3
+- note: Joseph asked Pharaoh for permission then went to Canaan to bury his father,
+    along with his brothers, their families and many egyptian officials in a great
+    company.
+  ref: https://ref.ly/logosref/BibleESV.Ge50.4-9
+- note: After they burried Joseph, all returned to Egypt
+  ref: https://ref.ly/logosref/BibleESV.Ge50.12-14
+- note: Joseph's brothers feared that he might take revenge on them for all the evil
+    they did to him now that their father is gone. They lied saying that Jacob commanded
+    Joseeph to forgive their transgressions. Joseph wept and told them to not fear.
+    He is in the place of God, and what they menant for evil, God meant for good,
+    so that many peoplee should be kept alive.
+  ref: https://ref.ly/logosref/BibleESV.Ge50.15-21
+- note: Joseph lieved to be 110 years old
+  ref: https://ref.ly/logosref/BibleESV.Ge50.22
+- note: On his death bed, Joseph told his brothers that God will come to them to give
+    them the land that he promised Abraham, Isaac, and Jacob. He asked his brothers
+    to carry his bones with them to the promised land. Joseph died, was embalmed,
+    and put in a coffin.
+  ref: https://ref.ly/logosref/BibleESV.Ge50.22-26
