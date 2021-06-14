@@ -1,0 +1,13 @@
+name: Gershom
+created: 2021-06-14T07:53:15.914327-07:00
+updated: 2021-06-14T07:53:15.914327-07:00
+meaning: I have been a sojourner in a foreign land.
+sex: male
+locations:
+- name: Midian
+  ref: ../locations/midian.yaml
+parents:
+- name: Zipporah
+  ref: zipporah.yaml
+- name: Moses
+  ref: moses.yaml

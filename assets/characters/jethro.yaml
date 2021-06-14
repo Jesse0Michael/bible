@@ -1,0 +1,15 @@
+name: Reuel
+created: 2021-06-14T07:49:04.085788-07:00
+updated: 2021-06-14T07:59:22.416145-07:00
+alias: Reuel
+sex: male
+locations:
+- name: Midian
+  ref: ../locations/midian.yaml
+children:
+- name: Zipporah
+  ref: zipporah.yaml
+info:
+- note: Father of 7 daughters. Invited Moses to dwell with them after he helped water
+    his flock. Gave Moses his daughter Zipporah.
+  ref: https://ref.ly/logosref/BibleESV.Ex2.18-21

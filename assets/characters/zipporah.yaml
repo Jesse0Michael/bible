@@ -1,0 +1,20 @@
+name: Zipporah
+created: 2021-06-14T07:51:11.915315-07:00
+updated: 2021-06-14T07:51:11.915315-07:00
+sex: female
+locations:
+- name: Midian
+  ref: ../locations/midian.yaml
+parents:
+- name: Jethro
+  ref: jethro.yaml
+spouse:
+- name: Moses
+  ref: moses.yaml
+children:
+- name: Gershom
+  ref: gershom.yaml
+info:
+- note: Daughter of the priest of Midian. Given to Moses for after helping water Jethro's
+    flock and dwelling with them.
+  ref: https://ref.ly/logosref/BibleESV.Ex2.20-21

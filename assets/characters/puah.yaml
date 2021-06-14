@@ -1,0 +1,13 @@
+name: Puah
+created: 2021-06-11T07:32:21.934795-07:00
+updated: 2021-06-11T07:32:21.934795-07:00
+sex: female
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+info:
+- note: A Hebrew midwife instructed by Pharaoh to kill any Hebrew males that are born.
+    Feared God and did not listen to Pharaoh's command. She lied to Pharaoh saying
+    that the Hebrew women have their babies before the midwives get to them. God
+    blessed her with a family for this.
+  ref: https://ref.ly/logosref/BibleESV.Ex1.15-21
