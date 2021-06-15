@@ -1,0 +1,14 @@
+name: Aaron
+created: 2021-06-15T08:24:13.665086-07:00
+updated: 2021-06-15T08:41:47.952317-07:00
+sex: male
+group: Levite
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+info:
+- note: God told Aaron to meet Moses in the wilderness. Moses told Aaron of all that
+    God has commanded him, the signs he is to perform, and that Aaron is to be his
+    voice. They gathered the people of Israel, Aaron spoke the words, Moses did the
+    signs, and they all believed, bowed, and worshiped.
+  ref: https://ref.ly/logosref/BibleESV.Ex4.27-31

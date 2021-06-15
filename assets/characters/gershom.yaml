@@ -1,6 +1,6 @@
 name: Gershom
 created: 2021-06-14T07:53:15.914327-07:00
-updated: 2021-06-14T07:53:15.914327-07:00
+updated: 2021-06-15T08:39:00.708565-07:00
 meaning: I have been a sojourner in a foreign land.
 sex: male
 locations:
@@ -11,3 +11,10 @@ parents:
   ref: zipporah.yaml
 - name: Moses
   ref: moses.yaml
+info:
+- note: On the way to Egypt God was angry and set out to kill (Moses or Gershom) but
+    Zipporah interviened and circumcised Gershom with a flint and touched Moses' feet
+    with the foreskin, relenting God's anger.
+  ref: https://ref.ly/logosref/BibleESV.Ex4.24-26
+  commentary: It is likely that God was coming to kill Gershom, not Moses, for not
+    having followed the Israel practice of circumcision.
