@@ -1,0 +1,11 @@
+name: Abiasaph
+created: 2021-06-17T08:31:38.88791-07:00
+updated: 2021-06-17T08:31:38.88791-07:00
+sex: male
+group: Korahites
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Korah
+  ref: korah2.yaml

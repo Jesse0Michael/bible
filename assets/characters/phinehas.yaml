@@ -1,0 +1,10 @@
+name: Phinehas
+created: 2021-06-17T08:33:03.415223-07:00
+updated: 2021-06-17T08:33:03.415223-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Eleazar
+  ref: eleazar.yaml

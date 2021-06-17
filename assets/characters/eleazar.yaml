@@ -1,0 +1,15 @@
+name: Eleazar
+created: 2021-06-17T08:30:11.204693-07:00
+updated: 2021-06-17T08:30:11.204693-07:00
+sex: male
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Aaron
+  ref: aaron.yaml
+- name: Elisheba
+  ref: elisheba.yaml
+children:
+- name: Phinehas
+  ref: phinehas.yaml

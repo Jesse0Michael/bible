@@ -1,0 +1,16 @@
+name: Jochebed
+created: 2021-06-17T08:23:22.809287-07:00
+updated: 2021-06-17T08:23:22.809287-07:00
+sex: female
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Levi
+  ref: levi.yaml
+spouse:
+- name: Amram
+  ref: amram.yaml
+children:
+- name: Moses
+  ref: moses.yaml

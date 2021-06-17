@@ -1,6 +1,6 @@
 name: Levi
 created: 2021-04-19T08:05:36.078294-07:00
-updated: 2021-06-08T08:01:52.569374-07:00
+updated: 2021-06-17T08:19:39.236759-07:00
 sex: male
 locations:
 - name: Goshen
@@ -17,6 +17,8 @@ children:
   ref: kohath.yaml
 - name: Merari
   ref: merari.yaml
+- name: Jochebed
+  ref: jochebed.yaml
 info:
 - note: On the third day after they have been tricked into circumcising all their
     males, Simeon and Levi killed Hamor, Shechem, and all the males in the city and
@@ -25,3 +27,5 @@ info:
 - note: Jacob called Simeon and Levi out on their violence and cursed their anger,
     and divided them.
   ref: https://ref.ly/logosref/BibleESV.Ge49.5-7
+- note: Lived to be 137 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ex6.16

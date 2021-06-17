@@ -1,6 +1,6 @@
 name: Kohath
 created: 2021-05-27T07:54:12.07189-07:00
-updated: 2021-05-27T08:17:59.661384-07:00
+updated: 2021-06-17T08:20:06.848034-07:00
 sex: male
 locations:
 - name: Egypt
@@ -10,3 +10,15 @@ locations:
 parents:
 - name: Levi
   ref: levi.yaml
+children:
+- name: Amram
+  ref: amram.yaml
+- name: Izhar
+  ref: izhar.yaml
+- name: Hebron
+  ref: hebron.yaml
+- name: Uzziel
+  ref: uzziel.yaml
+info:
+- note: Lived to be 133 years old.
+  ref: https://ref.ly/logosref/BibleESV.Ex6.18

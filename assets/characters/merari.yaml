@@ -10,3 +10,8 @@ locations:
 parents:
 - name: Levi
   ref: levi.yaml
+children:
+- name: Mahli
+  ref: mahli.yaml
+- name: Mushi
+  ref: mushi.yaml

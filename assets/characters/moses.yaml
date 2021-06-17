@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-06-15T08:41:47.946641-07:00
+updated: 2021-06-17T08:23:55.291283-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -11,6 +11,11 @@ locations:
   ref: ../locations/midian.yaml
 - name: Horeb
   ref: ../locations/horeb.yaml
+parents:
+- name: Amram
+  ref: amram.yaml
+- name: Jochebed
+  ref: jochebed.yaml
 spouse:
 - name: Zipporah
   ref: zipporah.yaml
@@ -85,3 +90,18 @@ info:
     voice. They gathered the people of Israel, Aaron spoke the words, Moses did the
     signs, and they all believed, bowed, and worshiped.
   ref: https://ref.ly/logosref/BibleESV.Ex4.27-31
+- note: Moses and Aaron went to Pharaoh and asked to let the Israelites leave to hold
+    a feast in the wilderness. Pharaoh refused and made the Israelites work harder
+    by not giving them straw to make bricks and beat them when they did nott make
+    as many bricks as when they were given straw.
+  ref: https://ref.ly/logosref/BibleESV.Ex5.1-14
+- note: The Israelite leaders confronted Pharaoh on their harsh treatment who said
+    it was because of Moses and Aarron. They blamed Mosses and Aaron for their near
+    certain death. Moses cried out to the LORD for answers.
+  ref: https://ref.ly/logosref/BibleESV.Ex5.20-23
+- note: The LORD said to Moses that he will now see what he will do to Pharaoh. He
+    reintroduces himself and reminds Moses of the covenant he gave to Israel's fathers
+    and instructs Moses to tell the Israelites thaat the LORD will deliver them from
+    the slavery of the Egyptians. The Israelites did not listen, for their spirits
+    were broken.
+  ref: https://ref.ly/logosref/BibleESV.Ex6.1-9

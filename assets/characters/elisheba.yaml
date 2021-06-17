@@ -1,0 +1,22 @@
+name: Elisheba
+created: 2021-06-17T08:29:03.959717-07:00
+updated: 2021-06-17T08:29:03.959717-07:00
+sex: female
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Amminadab
+  ref: amminadab.yaml
+spouse:
+- name: Aaron
+  ref: aaron.yaml
+children:
+- name: Nadab
+  ref: nadab.yaml
+- name: Abiihu
+  ref: abiihu.yaml
+- name: Eleazar
+  ref: eleazar.yaml
+- name: Ithamar
+  ref: ithamar.yaml

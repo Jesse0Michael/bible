@@ -10,3 +10,8 @@ locations:
 parents:
 - name: Levi
   ref: levi.yaml
+children:
+- name: Libni
+  ref: libni.yaml
+- name: Shimei
+  ref: shimei.yaml

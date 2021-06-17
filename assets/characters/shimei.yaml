@@ -1,0 +1,11 @@
+name: Shimei
+created: 2021-06-17T08:17:47.749685-07:00
+updated: 2021-06-17T08:17:47.749685-07:00
+sex: male
+group: levites
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Gershon
+  ref: gershon.yaml
