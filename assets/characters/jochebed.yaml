@@ -14,3 +14,7 @@ spouse:
 children:
 - name: Moses
   ref: moses.yaml
+- name: Aaron
+  ref: aaron.yaml
+- name: Miriam
+  ref: miriam.yaml

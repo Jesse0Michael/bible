@@ -1,11 +1,16 @@
 name: Aaron
 created: 2021-06-15T08:24:13.665086-07:00
-updated: 2021-06-28T07:59:11.225797-07:00
+updated: 2021-06-30T08:28:26.814889-07:00
 sex: male
 group: Levite
 locations:
 - name: Egypt
   ref: ../locations/egypt.yaml
+parents:
+- name: Amram
+  ref: amram.yaml
+- name: Jochebed
+  ref: jochebed.yaml
 spouse:
 - name: Elisheba
   ref: elisheba.yaml

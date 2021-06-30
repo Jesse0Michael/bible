@@ -1,0 +1,16 @@
+name: Miriam
+created: 2021-06-30T08:31:09.812514-07:00
+updated: 2021-06-30T08:31:09.812514-07:00
+sex: female
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
+parents:
+- name: Amram
+  ref: amram.yaml
+- name: Jochebed
+  ref: jochebed.yaml
+info:
+- note: Sister of Moses and Aaron. The prophetess who took her tambourine and danced
+    with all the other women after Moses' song and sang.
+  ref: https://ref.ly/logosref/BibleESV.Ex15.20-21

@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-06-28T08:12:35.920005-07:00
+updated: 2021-06-30T08:37:43.66181-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -11,6 +11,14 @@ locations:
   ref: ../locations/midian.yaml
 - name: Horeb
   ref: ../locations/horeb.yaml
+- name: Red Sea
+  ref: ../locations/red-sea.yaml
+- name: Shur
+  ref: ../locations/shur.yaml
+- name: Marah
+  ref: ../locations/marah.yaml
+- name: Elim
+  ref: ../locations/elim.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -200,3 +208,21 @@ info:
   commentary: God did not lead them straight to the land of the Philistines right
     away because there was a war that might frighten them and cause them to return
     to Egypt.
+- note: The Israelites were camped near the water and saw the Egyptian army coming.
+    They cried and complained to Moses who told them God would bring them salvation.
+    God instructed Moses to lift his staff and stretch out his hand over the sea.
+  ref: https://ref.ly/logosref/BibleESV.Ex14.10-18
+- note: An angel of the LORD put it self inbetween the Israelites and Egypt as a pillarr
+    of cloud and Moses lifted his staff and arm and the water divided. The Israelites
+    crossed the Red Sea on dry ground with a wall of water on both sides of them.
+    The Egyptians pursued, but the LORD caused them to panic and their chariots to
+    get stuck and, when Israel was cleard, covered the Egyptians with the sea and
+    drown them.
+  ref: https://ref.ly/logosref/BibleESV.Ex14.19-31
+- note: Moses and the Israelites sang a song of praise too God for his mighy power
+    and triumph over Egypt.
+  ref: https://ref.ly/logosref/BibleESV.Ex15.1-18
+- note: When the Israelites were thirsty and cried to Moses and couldnt drink because
+    the water was bitter, God told Moses to take a log He showed him aand threw it
+    into the water and it became sweet
+  ref: https://ref.ly/logosref/BibleESV.Ex15.22-26
