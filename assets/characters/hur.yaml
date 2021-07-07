@@ -1,20 +1,13 @@
-name: Amalek
-created: 2021-05-10T08:04:56.358143-07:00
-updated: 2021-07-07T07:58:20.026-07:00
+name: Hur
+created: 2021-07-07T07:57:34.313312-07:00
+updated: 2021-07-07T07:57:34.313312-07:00
 sex: male
 locations:
-- name: Edom
-  ref: ../locations/edom.yaml
-parents:
-- name: Eliphaz
-  ref: eliphaz2.yaml
-- name: Timna
-  ref: timna.yaml
+- name: Rephidim
+  ref: ../locations/rephidim.yaml
 info:
-- note: Chief of Eliphaz in the land of Edom
-  ref: https://ref.ly/logosref/BibleESV.Ge36.15-16
 - note: Moses chose Joshua to fight with Amalek. Moses would stand on the top of the
     hill with his staff raised up. When Moses hand was up, Israel prvaled, when it
     was down they faltered. When Moses was weary, Aaron and Hur put a stone under
     him for him to sit and held up his hands and Joshua overwhelmed Almalek
-  ref: ""
+  ref: https://ref.ly/logosref/BibleESV.Ex17.8-13

@@ -1,6 +1,6 @@
 name: Zipporah
 created: 2021-06-14T07:51:11.915315-07:00
-updated: 2021-06-15T08:39:00.700738-07:00
+updated: 2021-07-07T08:08:24.847632-07:00
 sex: female
 locations:
 - name: Midian
@@ -14,6 +14,8 @@ spouse:
 children:
 - name: Gershom
   ref: gershom.yaml
+- name: Eliezer
+  ref: eliezer.yaml
 info:
 - note: Daughter of the priest of Midian. Given to Moses for after helping water Jethro's
     flock and dwelling with them.
@@ -24,3 +26,7 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ex4.24-26
   commentary: It is likely that God was coming to kill Gershom, not Moses, for not
     having followed the Israel practice of circumcision.
+- note: Moses' father-in-law, Jethro, brought Zipporah, his wife, and Gershom and
+    Eliezer, his sons, to him in the wildernes. Moses told Jethro all of what God
+    had done to deliver them from Egypt and Jethro rejoiced.
+  ref: https://ref.ly/logosref/BibleESV.Ex18.1-9

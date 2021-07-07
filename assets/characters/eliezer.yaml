@@ -1,0 +1,15 @@
+name: Eliezer
+created: 2021-07-07T08:04:08.124756-07:00
+updated: 2021-07-07T08:08:24.853239-07:00
+meaning: The God of my father was my help, and delivered me from the sword of Pharaoh
+sex: male
+parents:
+- name: Moses
+  ref: moses.yaml
+- name: Zipporah
+  ref: zipporah.yaml
+info:
+- note: Moses' father-in-law, Jethro, brought Zipporah, his wife, and Gershom and
+    Eliezer, his sons, to him in the wildernes. Moses told Jethro all of what God
+    had done to deliver them from Egypt and Jethro rejoiced.
+  ref: https://ref.ly/logosref/BibleESV.Ex18.1-9

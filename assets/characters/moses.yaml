@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-06-30T08:37:43.66181-07:00
+updated: 2021-07-07T08:13:24.591016-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -19,6 +19,8 @@ locations:
   ref: ../locations/marah.yaml
 - name: Elim
   ref: ../locations/elim.yaml
+- name: Rephidim
+  ref: ../locations/rephidim.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -30,6 +32,8 @@ spouse:
 children:
 - name: Gershom
   ref: gershom.yaml
+- name: Eliezer
+  ref: eliezer.yaml
 info:
 - note: When Moses was born, his mother hid him for 3 months to protect him from Pharaoh's
     decree to kill all Hebrew boys. His mother placed Moses in a basket and floated
@@ -226,3 +230,43 @@ info:
     the water was bitter, God told Moses to take a log He showed him aand threw it
     into the water and it became sweet
   ref: https://ref.ly/logosref/BibleESV.Ex15.22-26
+- note: The Israelites were angry with Moses and Aaron, saying they they brought them
+    into the wilderness to die of hunger. Moses prayed to God who said that he will
+    send quail for meat in the evening and bread from heaven in the morning. To test
+    them, God said that they must only gather enough for that day, but on the 6th
+    day gather enough for 2 days. Aaron told the Israelites this command.
+  ref: https://ref.ly/logosref/BibleESV.Ex16.2-12
+- note: God sent the quail in the evening and the morning dew left white flakes of
+    bread on the ground that they called manna. Those who gathered more than they
+    needed found that it bred worms and stank and melted. On the 7th day, some Israelites
+    went out to gather manna and found none. This made God angry who said he gave
+    them a Sabbath that they should keep.
+  ref: https://ref.ly/logosref/BibleESV.Ex16.19-30
+  commentary: This is the first instructions to keep a sabbath.
+- note: The LORD instructed Moses to keep an omer of manna with them in a jar so that
+    future generations may see and understand how the LORD provided for them in the
+    wilderness for 40 years.
+  ref: https://ref.ly/logosref/BibleESV.Ex16.31-35
+- note: The Israelites came to Rephidim and quarrelled with Moses because there was
+    no water. God told Moses to take his staff and strike the rock at Horeb. He did
+    and water poured out of the rock
+  ref: https://ref.ly/logosref/BibleESV.Ex17.1-7
+- note: Moses chose Joshua to fight with Amalek. Moses would stand on the top of the
+    hill with his staff raised up. When Moses hand was up, Israel prvaled, when it
+    was down they faltered. When Moses was weary, Aaron and Hur put a stone under
+    him for him to sit and held up his hands and Joshua overwhelmed Almalek
+  ref: ""
+- note: After the battle with Amalek, th LORD instructed Moses to write in memorial
+    that He will blot out the memory of Amalek. Moses build an alter and named it
+    The LORD is my Banner.
+  ref: https://ref.ly/logosref/BibleESV.Ex17.14-16
+- note: Moses' father-in-law, Jethro, brought Zipporah, his wife, and Gershom and
+    Eliezer, his sons, to him in the wildernes. Moses told Jethro all of what God
+    had done to deliver them from Egypt and Jethro rejoiced.
+  ref: https://ref.ly/logosref/BibleESV.Ex18.1-9
+- note: Jethro blessed Moses and saw that the LORD is greater than all gods and offered
+    a burnt sacrifice to the LORD. He then witnessed Moses sitting as judge of his
+    people from morning till night. Jethro adviced him to represent the people and
+    bring their cases to God, butfind honorable men to act as chiefs over different
+    sized groups of people to settle any small matters. Moses listened.
+  ref: https://ref.ly/logosref/BibleESV.Ex18.10-27

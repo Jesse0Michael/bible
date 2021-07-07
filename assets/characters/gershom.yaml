@@ -1,6 +1,6 @@
 name: Gershom
 created: 2021-06-14T07:53:15.914327-07:00
-updated: 2021-06-15T08:39:00.708565-07:00
+updated: 2021-07-07T08:08:24.850348-07:00
 meaning: I have been a sojourner in a foreign land.
 sex: male
 locations:
@@ -18,3 +18,7 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Ex4.24-26
   commentary: It is likely that God was coming to kill Gershom, not Moses, for not
     having followed the Israel practice of circumcision.
+- note: Moses' father-in-law, Jethro, brought Zipporah, his wife, and Gershom and
+    Eliezer, his sons, to him in the wildernes. Moses told Jethro all of what God
+    had done to deliver them from Egypt and Jethro rejoiced.
+  ref: https://ref.ly/logosref/BibleESV.Ex18.1-9
