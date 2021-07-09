@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-07-07T08:13:24.591016-07:00
+updated: 2021-07-09T08:25:50.93592-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -21,6 +21,8 @@ locations:
   ref: ../locations/elim.yaml
 - name: Rephidim
   ref: ../locations/rephidim.yaml
+- name: Sinai
+  ref: ../locations/sinai.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -270,3 +272,33 @@ info:
     bring their cases to God, butfind honorable men to act as chiefs over different
     sized groups of people to settle any small matters. Moses listened.
   ref: https://ref.ly/logosref/BibleESV.Ex18.10-27
+- note: Moses went to God at Sinai who told Moses to tell His people that if they
+    obey his voice and keep his covenant, they will be his treasured possession, for
+    all the earth is His.
+  ref: https://ref.ly/logosref/BibleESV.Ex19.3-8
+- note: The LORD told Moses that he ill be coming down in a thick cloud on Mount Sinai
+    in three days. Moses consecrated his people, had them wash their garments and
+    abstain from sex. He warned them that anyone who touches the mountain that day
+    will die, anyone who touches one who was killed this way will be stoned or shot.
+  ref: https://ref.ly/logosref/BibleESV.Ex19.7-15
+- note: The LORD appeared on Mount Sinai with thunder and lightning as a thick cloud.
+    A loud trumpet had sounded. The whole mountain was covered in smoke and trembled,
+    because the LORD decended on it in fire. God called Moses and he went to the top
+    of the mountain, permitting Aaron to come with.
+  ref: https://ref.ly/logosref/BibleESV.Ex19.16-25
+- note: God spoke the ten commandments and all of the law to Moses who shared it with
+    the Israelites. He built an altar to God at the base of Mount Sinai with 12 pillars
+    for the 12 tribes. Burnt offerings and pease offerings were presented to the LORD.
+    Moses threw the blood on the pillars and he read the Book of the Covenant and
+    he threw blood on the people.
+  ref: https://ref.ly/logosref/BibleESV.Ex24.1-8
+- note: Moses, Aaron, his sons Nadab and Abihu, and 70 of the elders went up the mountain
+    to see God and eat and Drink with him. Under God's feet was a pavement of sapphire
+    stone.
+  ref: https://ref.ly/logosref/BibleESV.Ex24.9-11
+- note: The LORD called Moses to the mountain to give him the stone tablets conatining
+    the law and the commandments. Moses went up with his assistant Joshua. The cloud
+    covered the mountain for 6 days, on the 7th it called out to Moses. The appearance
+    of the LORD was like a devouring fire on top of the mountain. Moses entered the
+    cloud for 40 days and nights.
+  ref: https://ref.ly/logosref/BibleESV.Ex24.12-18

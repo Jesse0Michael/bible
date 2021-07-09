@@ -14,8 +14,8 @@ spouse:
 children:
 - name: Nadab
   ref: nadab.yaml
-- name: Abiihu
-  ref: abiihu.yaml
+- name: Abihu
+  ref: abihu.yaml
 - name: Eleazar
   ref: eleazar.yaml
 - name: Ithamar

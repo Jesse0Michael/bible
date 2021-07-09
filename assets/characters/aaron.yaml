@@ -1,6 +1,6 @@
 name: Aaron
 created: 2021-06-15T08:24:13.665086-07:00
-updated: 2021-07-07T07:57:50.685463-07:00
+updated: 2021-07-09T08:22:11.214059-07:00
 sex: male
 group: Levite
 locations:
@@ -17,8 +17,8 @@ spouse:
 children:
 - name: Nadab
   ref: nadab.yaml
-- name: Abiihu
-  ref: abiihu.yaml
+- name: Abihu
+  ref: abihu.yaml
 - name: Eleazar
   ref: eleazar.yaml
 - name: Ithamar
@@ -121,3 +121,12 @@ info:
     was down they faltered. When Moses was weary, Aaron and Hur put a stone under
     him for him to sit and held up his hands and Joshua overwhelmed Almalek
   ref: ""
+- note: The LORD appeared on Mount Sinai with thunder and lightning as a thick cloud.
+    A loud trumpet had sounded. The whole mountain was covered in smoke and trembled,
+    because the LORD decended on it in fire. God called Moses and he went to the top
+    of the mountain, permitting Aaron to come with.
+  ref: https://ref.ly/logosref/BibleESV.Ex19.16-25
+- note: Moses, Aaron, his sons Nadab and Abihu, and 70 of the elders went up the mountain
+    to see God and eat and Drink with him. Under God's feet was a pavement of sapphire
+    stone.
+  ref: https://ref.ly/logosref/BibleESV.Ex24.9-11
