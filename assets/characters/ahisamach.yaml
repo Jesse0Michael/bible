@@ -1,0 +1,10 @@
+name: Ahisamach
+created: 2021-07-21T08:01:46.760772-07:00
+updated: 2021-07-21T08:01:46.760772-07:00
+sex: male
+group: dan
+children:
+- name: Oholiab
+  ref: oholiab2.yaml
+- name: Oholiab
+  ref: oholiab.yaml

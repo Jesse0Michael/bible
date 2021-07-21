@@ -5,6 +5,9 @@ sex: male
 locations:
 - name: Rephidim
   ref: ../locations/rephidim.yaml
+children:
+- name: Uri
+  ref: uri.yaml
 info:
 - note: Moses chose Joshua to fight with Amalek. Moses would stand on the top of the
     hill with his staff raised up. When Moses hand was up, Israel prvaled, when it

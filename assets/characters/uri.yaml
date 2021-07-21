@@ -1,0 +1,11 @@
+name: Uri
+created: 2021-07-21T07:58:51.115379-07:00
+updated: 2021-07-21T08:00:32.648383-07:00
+sex: male
+group: judah
+parents:
+- name: Hur
+  ref: hur.yaml
+children:
+- name: Bezalel
+  ref: bezalel.yaml

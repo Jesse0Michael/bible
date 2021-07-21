@@ -1,0 +1,12 @@
+name: Oholiab
+created: 2021-07-21T08:03:30.659306-07:00
+updated: 2021-07-21T08:05:34.421655-07:00
+sex: male
+group: dan
+parents:
+- name: Ahisamach
+  ref: ahisamach.yaml
+info:
+- note: God brought two artistic craftsmen to Moses, Oholiab and Bezalel, to be the
+    ones from Israel who will create all of the things God asked to be made.
+  ref: https://ref.ly/logosref/BibleESV.Ex31.1-11

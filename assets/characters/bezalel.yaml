@@ -1,0 +1,12 @@
+name: Bezalel
+created: 2021-07-21T08:00:19.113556-07:00
+updated: 2021-07-21T08:05:34.423944-07:00
+sex: male
+group: Judah
+parents:
+- name: Uri
+  ref: uri.yaml
+info:
+- note: God brought two artistic craftsmen to Moses, Oholiab and Bezalel, to be the
+    ones from Israel who will create all of the things God asked to be made.
+  ref: https://ref.ly/logosref/BibleESV.Ex31.1-11
