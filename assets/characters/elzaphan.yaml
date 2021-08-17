@@ -1,6 +1,6 @@
 name: Elzaphan
 created: 2021-06-17T08:25:53.980848-07:00
-updated: 2021-06-17T08:25:53.980848-07:00
+updated: 2021-08-17T07:45:34.938317-07:00
 sex: male
 locations:
 - name: Egypt
@@ -8,3 +8,8 @@ locations:
 parents:
 - name: Uzziel
   ref: uzziel.yaml
+info:
+- note: Moses callded Mishael and Elzaphan to carry the bodies of Nadab and Abihu,
+    their cousins, away from the camp after they had been consumed by the fire of
+    the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Le10.4-5
