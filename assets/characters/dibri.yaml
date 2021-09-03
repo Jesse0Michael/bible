@@ -1,0 +1,8 @@
+name: Dibri
+created: 2021-09-03T07:59:09.017538-07:00
+updated: 2021-09-03T07:59:09.017538-07:00
+sex: male
+group: Dan
+children:
+- name: Shelomith
+  ref: shelomith.yaml

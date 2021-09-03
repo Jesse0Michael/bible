@@ -1,0 +1,15 @@
+name: Shelomith
+created: 2021-09-03T08:00:15.249506-07:00
+updated: 2021-09-03T08:00:15.249506-07:00
+sex: female
+group: Dan
+parents:
+- name: Dibri
+  ref: dibri.yaml
+info:
+- note: The son of Shelomith, an Israelite woman, and an Egyptian fought an Israelite
+    man in the camp. The son blphemed the Name and was brought to Moses. All of the
+    congregation was brought out to stone him
+  ref: https://ref.ly/logosref/BibleESV.Le24.10-16
+  commentary: The punishement of death for blaspheming the Name of God was brought
+    down on even a non Israelite living with them.
