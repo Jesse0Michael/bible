@@ -1,0 +1,8 @@
+name: Zurishaddai
+created: 2021-09-08T08:16:50.659107-07:00
+updated: 2021-09-08T08:16:50.659107-07:00
+sex: male
+group: simeon
+children:
+- name: Shelumiel
+  ref: shelumiel.yaml

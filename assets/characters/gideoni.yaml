@@ -1,0 +1,8 @@
+name: Gideoni
+created: 2021-09-08T08:23:07.861505-07:00
+updated: 2021-09-08T08:23:07.861505-07:00
+sex: male
+group: benjamin
+children:
+- name: Abidan
+  ref: abidan.yaml

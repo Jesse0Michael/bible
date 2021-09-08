@@ -1,0 +1,8 @@
+name: Ammishaddai
+created: 2021-09-08T08:23:43.254804-07:00
+updated: 2021-09-08T08:23:43.254804-07:00
+sex: male
+group: dan
+children:
+- name: Ahiezer
+  ref: ahiezer.yaml

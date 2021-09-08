@@ -1,0 +1,8 @@
+name: Enan
+created: 2021-09-08T08:25:57.167131-07:00
+updated: 2021-09-08T08:25:57.167131-07:00
+sex: male
+group: naphtali
+children:
+- name: Ahira
+  ref: ahira.yaml

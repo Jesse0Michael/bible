@@ -1,0 +1,8 @@
+name: Shedeur
+created: 2021-09-08T08:15:58.255754-07:00
+updated: 2021-09-08T08:15:58.255754-07:00
+sex: male
+group: reuben
+children:
+- name: Elizur
+  ref: elizur.yaml

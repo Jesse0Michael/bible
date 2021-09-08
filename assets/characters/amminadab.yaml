@@ -1,7 +1,8 @@
 name: Amminadab
 created: 2021-06-17T08:28:20.972978-07:00
-updated: 2021-06-17T08:28:20.972978-07:00
+updated: 2021-09-08T08:17:48.669242-07:00
 sex: male
+group: judah
 locations:
 - name: Egypt
   ref: ../locations/egypt.yaml

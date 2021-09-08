@@ -1,0 +1,8 @@
+name: Deuel
+created: 2021-09-08T08:25:22.302524-07:00
+updated: 2021-09-08T08:25:22.302524-07:00
+sex: male
+group: gad
+children:
+- name: Eliasaph
+  ref: eliasaph.yaml

@@ -1,0 +1,7 @@
+name: Zuar
+created: 2021-09-08T08:18:29.41947-07:00
+updated: 2021-09-08T08:18:29.41947-07:00
+group: issachar
+children:
+- name: Nethanel
+  ref: nethanel.yaml

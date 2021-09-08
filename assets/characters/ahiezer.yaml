@@ -1,13 +1,11 @@
-name: Nahshon
-created: 2021-06-17T08:28:37.495496-07:00
-updated: 2021-09-08T08:31:54.259196-07:00
+name: Ahiezer
+created: 2021-09-08T08:23:58.87283-07:00
+updated: 2021-09-08T08:31:54.272707-07:00
 sex: male
-locations:
-- name: Egypt
-  ref: ../locations/egypt.yaml
+group: dan
 parents:
-- name: Amminadab
-  ref: amminadab.yaml
+- name: Ammishaddai
+  ref: ammishaddai.yaml
 info:
 - note: Moses and Aaron took a man from each tribe to help take a cencus of each tribe.
     Elizur from Reuben, Shelumiel from Simeon, Nahshon from Judah, Nethanel from Issacar,

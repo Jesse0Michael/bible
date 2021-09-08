@@ -1,0 +1,8 @@
+name: Helon
+created: 2021-09-08T08:20:19.310039-07:00
+updated: 2021-09-08T08:20:19.310039-07:00
+sex: male
+group: zebulun
+children:
+- name: Eliab
+  ref: eliab.yaml

@@ -1,0 +1,8 @@
+name: Ammihud
+created: 2021-09-08T08:21:37.94688-07:00
+updated: 2021-09-08T08:21:37.94688-07:00
+sex: male
+group: ephraim
+children:
+- name: Elishama
+  ref: elishama.yaml

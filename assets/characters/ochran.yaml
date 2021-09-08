@@ -1,0 +1,8 @@
+name: Ochran
+created: 2021-09-08T08:24:15.253957-07:00
+updated: 2021-09-08T08:24:15.253957-07:00
+sex: male
+group: asher
+children:
+- name: Pagiel
+  ref: pagiel.yaml

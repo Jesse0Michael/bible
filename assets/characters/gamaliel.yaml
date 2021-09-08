@@ -1,13 +1,11 @@
-name: Nahshon
-created: 2021-06-17T08:28:37.495496-07:00
-updated: 2021-09-08T08:31:54.259196-07:00
+name: Gamaliel
+created: 2021-09-08T08:22:39.434233-07:00
+updated: 2021-09-08T08:31:54.268593-07:00
 sex: male
-locations:
-- name: Egypt
-  ref: ../locations/egypt.yaml
+group: manasseh
 parents:
-- name: Amminadab
-  ref: amminadab.yaml
+- name: Pedahzur
+  ref: pedahzur.yaml
 info:
 - note: Moses and Aaron took a man from each tribe to help take a cencus of each tribe.
     Elizur from Reuben, Shelumiel from Simeon, Nahshon from Judah, Nethanel from Issacar,

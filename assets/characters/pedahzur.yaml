@@ -1,0 +1,8 @@
+name: Pedahzur
+created: 2021-09-08T08:22:20.584718-07:00
+updated: 2021-09-08T08:22:20.584718-07:00
+sex: male
+group: manasseh
+children:
+- name: Gamaliel
+  ref: gamaliel.yaml
