@@ -1,12 +1,20 @@
 name: Elizaphan
-created: 2021-09-09T07:50:01.783563-07:00
+created: 2021-06-17T08:25:53.980848-07:00
 updated: 2021-09-09T07:55:44.940576-07:00
 sex: male
 group: kohathites
+alias: Elzaphan
 parents:
 - name: Uzziel
   ref: uzziel.yaml
+locations:
+- name: Egypt
+  ref: ../locations/egypt.yaml
 info:
+- note: Moses callded Mishael and Elzaphan to carry the bodies of Nadab and Abihu,
+    their cousins, away from the camp after they had been consumed by the fire of
+    the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Le10.4-5
 - note: Chief of the Kohathites.
   ref: https://ref.ly/logosref/BibleESV.Nu3.27-31
 - note: Assigned guard duty over the ark, the table, the lampstand, the altars, the
