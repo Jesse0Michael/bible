@@ -12,9 +12,7 @@ parents:
 children:
 - name: Mishael
   ref: mishael.yaml
-- name: Elzaphan
-  ref: elzaphan.yaml
-- name: Sithri
-  ref: sithri.yaml
 - name: Elizaphan
   ref: elizaphan.yaml
+- name: Sithri
+  ref: sithri.yaml
