@@ -1,0 +1,12 @@
+name: Eliasaph
+created: 2021-09-09T07:51:54.746197-07:00
+updated: 2021-09-09T07:54:15.072183-07:00
+sex: male
+group: Gershonite
+parents:
+- name: Lael
+  ref: lael.yaml
+info:
+- note: Assigned guard duty over the tabernacle, the tent and its coverings, the screen,
+    the hangings, and their cords.
+  ref: https://ref.ly/logosref/BibleESV.Nu3.25-26

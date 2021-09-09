@@ -1,0 +1,12 @@
+name: Zuriel
+created: 2021-09-09T07:59:12.391361-07:00
+updated: 2021-09-09T07:59:12.391361-07:00
+sex: male
+group: Merari
+parents:
+- name: Abihail
+  ref: abihail.yaml
+info:
+- note: Appointed guard duty over the frames, the bars, the pillars, the bases, and
+    the accessories.
+  ref: https://ref.ly/logosref/BibleESV.Nu3.35-37

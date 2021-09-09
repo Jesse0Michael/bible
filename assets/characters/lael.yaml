@@ -1,0 +1,8 @@
+name: Lael
+created: 2021-09-09T07:51:32.772637-07:00
+updated: 2021-09-09T07:51:32.772637-07:00
+sex: male
+group: Gershonite
+children:
+- name: Eliasaph
+  ref: eliasaph2.yaml

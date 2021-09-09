@@ -1,0 +1,14 @@
+name: Elizaphan
+created: 2021-09-09T07:50:01.783563-07:00
+updated: 2021-09-09T07:55:44.940576-07:00
+sex: male
+group: kohathites
+parents:
+- name: Uzziel
+  ref: uzziel.yaml
+info:
+- note: Chief of the Kohathites.
+  ref: https://ref.ly/logosref/BibleESV.Nu3.27-31
+- note: Assigned guard duty over the ark, the table, the lampstand, the altars, the
+    vessels, and the screen.
+  ref: https://ref.ly/logosref/BibleESV.Nu3.31-32

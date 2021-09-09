@@ -1,0 +1,8 @@
+name: Abihail
+created: 2021-09-09T07:57:15.387984-07:00
+updated: 2021-09-09T07:57:15.387984-07:00
+sex: male
+group: Merari
+children:
+- name: Zuriel
+  ref: zuriel.yaml

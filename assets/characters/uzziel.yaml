@@ -16,3 +16,5 @@ children:
   ref: elzaphan.yaml
 - name: Sithri
   ref: sithri.yaml
+- name: Elizaphan
+  ref: elizaphan.yaml
