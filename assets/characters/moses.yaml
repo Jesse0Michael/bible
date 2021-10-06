@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-09-08T08:31:54.24615-07:00
+updated: 2021-10-06T07:55:22.539155-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -23,6 +23,8 @@ locations:
   ref: ../locations/rephidim.yaml
 - name: Sinai
   ref: ../locations/sinai.yaml
+- name: Paran
+  ref: ../locations/paran.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -445,3 +447,6 @@ info:
     Benjamin, Ahiezer from Dan, Pagiel from Asher, Eliasaph from Gad, and Ahira from
     Naphtali were selected to assist with the cencus.
   ref: https://ref.ly/logosref/BibleESV.Nu1.4-19
+- note: Moses asked his brother-in-law, Hobab, to go with Israel as they left Sinai
+    for Paran so that he may serve as eyes in the wilderness. Hobab agreed to come.
+  ref: https://ref.ly/logosref/BibleESV.Nu10.29-34

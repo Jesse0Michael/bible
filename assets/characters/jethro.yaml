@@ -9,6 +9,8 @@ locations:
 children:
 - name: Zipporah
   ref: zipporah.yaml
+- name: Hobab
+  ref: hobab.yaml
 info:
 - note: Father of 7 daughters. Invited Moses to dwell with them after he helped water
     his flock. Gave Moses his daughter Zipporah.

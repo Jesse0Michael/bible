@@ -1,0 +1,15 @@
+name: Hobab
+created: 2021-10-06T07:57:32.304414-07:00
+updated: 2021-10-06T07:57:39.554509-07:00
+sex: male
+group: midianite
+locations:
+- name: Paran
+  ref: ../locations/paran.yaml
+parents:
+- name: Jethro
+  ref: jethro.yaml
+info:
+- note: Moses asked his brother-in-law, Hobab, to go with Israel as they left Sinai
+    for Paran so that he may serve as eyes in the wilderness. Hobab agreed to come.
+  ref: https://ref.ly/logosref/BibleESV.Nu10.29-34

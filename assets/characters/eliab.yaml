@@ -1,8 +1,11 @@
 name: Eliab
 created: 2021-09-08T08:20:30.914771-07:00
-updated: 2021-10-04T08:54:55.57207-07:00
+updated: 2021-10-06T07:46:13.618613-07:00
 sex: male
 group: zebulun
+locations:
+- name: Paran
+  ref: ../locations/paran.yaml
 parents:
 - name: Helon
   ref: helon.yaml
@@ -15,3 +18,13 @@ info:
   ref: https://ref.ly/logosref/BibleESV.Nu1.4-19
 - note: Eliab of Zebulun brought the third offering to the comlpeted tabernacle.
   ref: https://ref.ly/logosref/BibleESV.Nu7.24-29
+- note: In the second year, in the second month, on the twentieth day the cloud lifted
+    over the tabernacle and Israel packed up and followed it to the wilderness of
+    Paran. Judah was led by Nahshon, Issachar was led by Nethanel, Zebulun was led
+    by Eliab. The tabernacle was broken down, the people of Gershon an Merari carried
+    the tabernacle, the Kohathites carried the holy things. The tribe of Reuben was
+    led by Elizur, Simeon was led by Shelumiel, Gad was led by Eliasaph, Ephraim was
+    led by Elishama, Manasseh was led by Gamaliel, Benjamin was led by Abidan. In
+    the rear, Dan was led by Ahiezer, Asher was led by Pagiel, and Naphtali was led
+    by Ahira.
+  ref: https://ref.ly/logosref/BibleESV.Nu10.11-28
