@@ -5,10 +5,21 @@ import (
 	"os"
 
 	"github.com/Jesse0Michael/bible/internal/bible"
+	"github.com/spf13/viper"
 	"github.com/urfave/cli/v2"
 )
 
 func main() {
+	viper.SetConfigName(".bible")
+	viper.SetConfigType("dotenv")
+	viper.AddConfigPath("$HOME")
+	if err := viper.ReadInConfig(); err != nil {
+		if _, ok := err.(viper.ConfigFileNotFoundError); !ok {
+			// Config file was found but another error was produced
+			log.Fatal("failed to load config", err)
+		}
+	}
+
 	getFlags := []cli.Flag{
 		&cli.StringFlag{
 			Name:    "output",
@@ -123,6 +134,11 @@ func main() {
 						Flags:     getFlags,
 						Action:    bible.GetLocation,
 					},
+					{
+						Name:   "config",
+						Usage:  "gets configuration",
+						Action: bible.GetConfig,
+					},
 				},
 			},
 			{
@@ -143,6 +159,12 @@ func main() {
 						Flags:     locationFlags,
 						Action:    bible.CreateLocation,
 					},
+					{
+						Name:      "config",
+						ArgsUsage: "KEY VALUE",
+						Usage:     "sets configuration value",
+						Action:    bible.SetConfig,
+					},
 				},
 			},
 			{
@@ -162,6 +184,12 @@ func main() {
 						Usage:     "update a location resource",
 						Flags:     locationFlags,
 						Action:    bible.UpdateLocation,
+					},
+					{
+						Name:      "config",
+						ArgsUsage: "KEY VALUE",
+						Usage:     "sets configuration value",
+						Action:    bible.SetConfig,
 					},
 				},
 			},

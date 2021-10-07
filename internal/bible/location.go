@@ -10,6 +10,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/spf13/viper"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
 )
@@ -28,7 +29,7 @@ func GetLocation(c *cli.Context) error {
 	if err != nil {
 		return err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), locationDir, ref))
 	var location Location
 	err = yaml.Unmarshal(b, &location)
 	if err != nil {
@@ -100,7 +101,7 @@ func UpdateLocation(c *cli.Context) error {
 		if err != nil {
 			return err
 		}
-		b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
+		b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), locationDir, ref))
 		var location Location
 		err = yaml.Unmarshal(b, &location)
 		if err != nil {
