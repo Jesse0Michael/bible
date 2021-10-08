@@ -6,18 +6,20 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/spf13/viper"
 )
 
 func NewFile(dir, name string) (*os.File, error) {
-	p := newFilePath(dir, name, 0)
+	p := newFilePath(viper.GetString("DIR")+dir, name, 0)
 	return os.Create(p)
 }
 
 func newFilePath(dir, name string, index int) string {
 	name = strings.ToLower(strings.ReplaceAll(name, " ", "-"))
-	path := filepath.Join(dir, fmt.Sprintf("%s.yaml", name))
+	path := filepath.Join(viper.GetString("DIR"), dir, fmt.Sprintf("%s.yaml", name))
 	if index != 0 {
-		path = filepath.Join(dir, fmt.Sprintf("%s%d.yaml", name, index+1))
+		path = filepath.Join(viper.GetString("DIR"), dir, fmt.Sprintf("%s%d.yaml", name, index+1))
 	}
 
 	if _, err := os.Open(path); err != nil {
@@ -29,7 +31,7 @@ func newFilePath(dir, name string, index int) string {
 
 func FindReference(dir, name string) (string, error) {
 	name = strings.ToLower(strings.ReplaceAll(name, " ", "-"))
-	files, err := ioutil.ReadDir(dir)
+	files, err := ioutil.ReadDir(viper.GetString("DIR") + dir)
 	if err != nil {
 		return "", err
 	}

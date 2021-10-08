@@ -10,6 +10,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/spf13/viper"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v2"
 )
@@ -28,7 +29,7 @@ func GetCharacter(c *cli.Context) error {
 	if err != nil {
 		return err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, ref))
 	var character Character
 	err = yaml.Unmarshal(b, &character)
 	if err != nil {
@@ -100,7 +101,7 @@ func UpdateCharacter(c *cli.Context) error {
 		if err != nil {
 			return err
 		}
-		b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+		b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, ref))
 		var character Character
 		err = yaml.Unmarshal(b, &character)
 		if err != nil {
@@ -133,7 +134,7 @@ func AuditCharacters(c *cli.Context) error {
 		return err
 	}
 	for _, f := range files {
-		b, _ := ioutil.ReadFile(filepath.Join(characterDir, f.Name()))
+		b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, f.Name()))
 		var character Character
 		err = yaml.Unmarshal(b, &character)
 		if err != nil {
@@ -242,7 +243,7 @@ func addParent(parent string, character Reference) (*Reference, error) {
 	if err != nil {
 		return nil, err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, ref))
 	var parentCharacter Character
 	err = yaml.Unmarshal(b, &parentCharacter)
 	if err != nil {
@@ -269,7 +270,7 @@ func addSpouse(spouse string, character Reference) (*Reference, error) {
 	if err != nil {
 		return nil, err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, ref))
 	var spouseCharacter Character
 	err = yaml.Unmarshal(b, &spouseCharacter)
 	if err != nil {
@@ -296,7 +297,7 @@ func addAssociate(associate string, character Reference) (*Reference, error) {
 	if err != nil {
 		return nil, err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(characterDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), characterDir, ref))
 	var associateCharacter Character
 	err = yaml.Unmarshal(b, &associateCharacter)
 	if err != nil {
@@ -323,7 +324,7 @@ func addLocation(location string, character Reference) (*Reference, error) {
 	if err != nil {
 		return nil, err
 	}
-	b, _ := ioutil.ReadFile(filepath.Join(locationDir, ref))
+	b, _ := ioutil.ReadFile(filepath.Join(viper.GetString("DIR"), locationDir, ref))
 	var loc Location
 	err = yaml.Unmarshal(b, &loc)
 	if err != nil {
