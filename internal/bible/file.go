@@ -11,7 +11,7 @@ import (
 )
 
 func NewFile(dir, name string) (*os.File, error) {
-	p := newFilePath(viper.GetString("DIR")+dir, name, 0)
+	p := newFilePath(dir, name, 0)
 	return os.Create(p)
 }
 

@@ -86,7 +86,7 @@ func CreateCharacter(c *cli.Context) error {
 		if _, err = f.Write(b); err != nil {
 			return err
 		}
-		fmt.Printf("created character: %s\n", f.Name())
+		fmt.Printf("created character: %s\n", filepath.Base(f.Name()))
 	}
 	return nil
 }
@@ -120,7 +120,7 @@ func UpdateCharacter(c *cli.Context) error {
 			return err
 		}
 
-		if err := ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+		if err := ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), characterDir, ref), b, 0); err != nil {
 			return err
 		}
 		fmt.Printf("updated character: %s\n", ref)
@@ -148,7 +148,7 @@ func AuditCharacters(c *cli.Context) error {
 			return err
 		}
 
-		_ = ioutil.WriteFile(filepath.Join(characterDir, f.Name()), b, 0)
+		_ = ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), characterDir, f.Name()), b, 0)
 	}
 	return nil
 }
@@ -258,7 +258,7 @@ func addParent(parent string, character Reference) (*Reference, error) {
 			return nil, err
 		}
 
-		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+		if err = ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), characterDir, ref), b, 0); err != nil {
 			return nil, err
 		}
 	}
@@ -285,7 +285,7 @@ func addSpouse(spouse string, character Reference) (*Reference, error) {
 			return nil, err
 		}
 
-		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+		if err = ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), characterDir, ref), b, 0); err != nil {
 			return nil, err
 		}
 	}
@@ -312,7 +312,7 @@ func addAssociate(associate string, character Reference) (*Reference, error) {
 			return nil, err
 		}
 
-		if err = ioutil.WriteFile(filepath.Join(characterDir, ref), b, 0); err != nil {
+		if err = ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), characterDir, ref), b, 0); err != nil {
 			return nil, err
 		}
 	}

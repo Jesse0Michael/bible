@@ -86,7 +86,7 @@ func CreateLocation(c *cli.Context) error {
 		if _, err = f.Write(b); err != nil {
 			return err
 		}
-		fmt.Printf("created location: %s\n", f.Name())
+		fmt.Printf("created location: %s\n", filepath.Base(f.Name()))
 	}
 	return nil
 }
@@ -120,7 +120,7 @@ func UpdateLocation(c *cli.Context) error {
 			return err
 		}
 
-		if err := ioutil.WriteFile(filepath.Join(locationDir, ref), b, 0); err != nil {
+		if err := ioutil.WriteFile(filepath.Join(viper.GetString("DIR"), locationDir, ref), b, 0); err != nil {
 			return err
 		}
 		fmt.Printf("updated location: %s\n", ref)
