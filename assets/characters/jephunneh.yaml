@@ -1,0 +1,8 @@
+name: Jephunneh
+created: 2021-10-13T07:59:41.108917-07:00
+updated: 2021-10-13T07:59:41.108917-07:00
+sex: male
+group: judah
+children:
+- name: Caleb
+  ref: caleb.yaml

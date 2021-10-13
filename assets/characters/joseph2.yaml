@@ -1,0 +1,8 @@
+name: Joseph
+created: 2021-10-13T08:00:04.718744-07:00
+updated: 2021-10-13T08:00:04.718744-07:00
+sex: male
+group: issachar
+children:
+- name: Igal
+  ref: igal.yaml

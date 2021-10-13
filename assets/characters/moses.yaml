@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-10-06T07:55:22.539155-07:00
+updated: 2021-10-13T08:22:20.829052-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -25,6 +25,12 @@ locations:
   ref: ../locations/sinai.yaml
 - name: Paran
   ref: ../locations/paran.yaml
+- name: Taberah
+  ref: ../locations/taberah.yaml
+- name: Kibroth-Hattaavah
+  ref: ../locations/kibroth-hattaavah.yaml
+- name: Hazeroth
+  ref: ../locations/hazeroth.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -450,3 +456,32 @@ info:
 - note: Moses asked his brother-in-law, Hobab, to go with Israel as they left Sinai
     for Paran so that he may serve as eyes in the wilderness. Hobab agreed to come.
   ref: https://ref.ly/logosref/BibleESV.Nu10.29-34
+- note: The Israelites complained for their misfortunes in the wilderness so the LORD
+    brough down fire on the outlying parts of the camp. Moses interviened and the
+    fire died down. They called this place Taberah.
+  ref: https://ref.ly/logosref/BibleESV.Nu11.1-3
+- note: When the people of Israel set out into the wilderness once more, they began
+    to complain about only having manna to eat. The LORD heard this and was angry,
+    so was Moses. Moses cried out to go to take the burden of these people off of
+    him or take his life. The LORD called to Moses to gather 70 men to be elders to
+    share the burden of the people.
+  ref: https://ref.ly/logosref/BibleESV.Nu11.4-17
+- note: Two of the chosen elders prophesied in the tent after the spirit rested on
+    them, Eldad and Medad. Joshua asked Moses to tell them to stop, but Moses was
+    not jealous for what God was doing.
+  ref: https://ref.ly/logosref/BibleESV.Nu11.26-30
+- note: After recieving quail and a plague from the lord, Moses led the people from
+    Kibroth-hattaavah to Hazeroth
+  ref: https://ref.ly/logosref/BibleESV.Nu11.31-35
+- note: Miriam and Aaron spoke against Moses in jealousy. Saying that they have also
+    heard from God. The LORD called the three of them to the tent of meeting and spoke
+    from the cloud saying, for the prophets He speaks to them in dreams and riddles,
+    but He speaks to Moses clearly, mouth to mouth. In anger the cloud left the meeting
+    and Miriam's skin turned leperous. She was forced to stay outside of the camp
+    for 7 days.
+  ref: https://ref.ly/logosref/BibleESV.Nu12.1-16
+- note: The spies returned to Moses after 40 days and recounted that the land is flowing
+    with milk and honey. They showed the fruit they collected from the land. They
+    told people that they ran into, who were strong, and were affraid. Caleb said
+    they should take the land.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.17-33

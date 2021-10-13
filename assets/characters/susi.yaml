@@ -1,0 +1,8 @@
+name: Susi
+created: 2021-10-13T08:01:05.081086-07:00
+updated: 2021-10-13T08:01:05.081086-07:00
+sex: male
+group: joseph
+children:
+- name: Gaddi
+  ref: gaddi.yaml

@@ -1,0 +1,19 @@
+name: Shaphat
+created: 2021-10-13T08:05:09.902866-07:00
+updated: 2021-10-13T08:22:42.31115-07:00
+sex: male
+group: simeon
+locations:
+- name: Paran
+  ref: ../locations/paran.yaml
+parents:
+- name: Hori
+  ref: hori2.yaml
+info:
+- note: The LORD had Moses send spies into the land of Canaan, one from each tribe.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.1-15
+- note: The spies returned to Moses after 40 days and recounted that the land is flowing
+    with milk and honey. They showed the fruit they collected from the land. They
+    told people that they ran into, who were strong, and were affraid. Caleb said
+    they should take the land.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.17-33

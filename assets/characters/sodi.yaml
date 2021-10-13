@@ -1,0 +1,8 @@
+name: Sodi
+created: 2021-10-13T08:00:55.349792-07:00
+updated: 2021-10-13T08:00:55.349792-07:00
+sex: male
+group: Zebulun
+children:
+- name: Gaddiel
+  ref: gaddiel.yaml

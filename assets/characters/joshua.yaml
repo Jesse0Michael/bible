@@ -1,10 +1,18 @@
 name: Joshua
 created: 2021-07-07T07:57:34.312728-07:00
-updated: 2021-07-09T08:25:50.940536-07:00
+updated: 2021-10-13T08:22:42.322906-07:00
+alias: Hoshea
 sex: male
 locations:
 - name: Rephidim
   ref: ../locations/rephidim.yaml
+- name: Taberah
+  ref: ../locations/taberah.yaml
+- name: Paran
+  ref: ../locations/paran.yaml
+parents:
+- name: Nun
+  ref: nun.yaml
 info:
 - note: Moses chose Joshua to fight with Amalek. Moses would stand on the top of the
     hill with his staff raised up. When Moses hand was up, Israel prvaled, when it
@@ -17,3 +25,14 @@ info:
     of the LORD was like a devouring fire on top of the mountain. Moses entered the
     cloud for 40 days and nights.
   ref: https://ref.ly/logosref/BibleESV.Ex24.12-18
+- note: Two of the chosen elders prophesied in the tent after the spirit rested on
+    them, Eldad and Medad. Joshua asked Moses to tell them to stop, but Moses was
+    not jealous for what God was doing.
+  ref: https://ref.ly/logosref/BibleESV.Nu11.26-30
+- note: The LORD had Moses send spies into the land of Canaan, one from each tribe.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.1-15
+- note: The spies returned to Moses after 40 days and recounted that the land is flowing
+    with milk and honey. They showed the fruit they collected from the land. They
+    told people that they ran into, who were strong, and were affraid. Caleb said
+    they should take the land.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.17-33

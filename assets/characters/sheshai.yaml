@@ -1,0 +1,13 @@
+name: Sheshai
+created: 2021-10-13T08:14:36.638581-07:00
+updated: 2021-10-13T08:17:15.02017-07:00
+sex: male
+parents:
+- name: Anak
+  ref: anak.yaml
+info:
+- note: The spies of Israel ran into the decendents of Anak when surveying the land.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.22
+- note: The spies called the decendents of Anak Nephilim to which they seemed like
+    grasshoppers when compared to them.
+  ref: https://ref.ly/logosref/BibleESV.Nu13.33

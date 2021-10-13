@@ -1,0 +1,8 @@
+name: Gemalli
+created: 2021-10-13T08:01:15.518025-07:00
+updated: 2021-10-13T08:01:15.518025-07:00
+sex: male
+group: dan
+children:
+- name: Ammiel
+  ref: ammiel.yaml

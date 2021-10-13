@@ -1,0 +1,8 @@
+name: Raphu
+created: 2021-10-13T08:00:40.086604-07:00
+updated: 2021-10-13T08:00:40.086604-07:00
+sex: male
+group: Benjamin
+children:
+- name: Palti
+  ref: palti.yaml

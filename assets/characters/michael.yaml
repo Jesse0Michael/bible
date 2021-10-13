@@ -1,0 +1,8 @@
+name: Michael
+created: 2021-10-13T08:01:30.58459-07:00
+updated: 2021-10-13T08:01:30.58459-07:00
+sex: male
+group: asher
+children:
+- name: Sethur
+  ref: sethur.yaml

@@ -1,0 +1,8 @@
+name: Hori
+created: 2021-10-13T07:58:22.273865-07:00
+updated: 2021-10-13T07:58:22.273865-07:00
+sex: male
+group: simeon
+children:
+- name: Shaphat
+  ref: shaphat.yaml

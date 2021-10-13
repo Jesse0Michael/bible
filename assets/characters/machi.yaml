@@ -1,0 +1,8 @@
+name: Machi
+created: 2021-10-13T08:02:17.36949-07:00
+updated: 2021-10-13T08:02:17.36949-07:00
+sex: male
+group: gad
+children:
+- name: Geuel
+  ref: geuel.yaml

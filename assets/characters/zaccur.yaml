@@ -1,0 +1,8 @@
+name: Zaccur
+created: 2021-10-13T07:58:36.670651-07:00
+updated: 2021-10-13T07:58:36.670651-07:00
+sex: male
+group: reuben
+children:
+- name: Shammua
+  ref: shammua.yaml

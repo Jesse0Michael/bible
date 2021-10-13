@@ -1,0 +1,12 @@
+name: Eldad
+created: 2021-10-11T08:06:04.313308-07:00
+updated: 2021-10-11T08:06:04.313308-07:00
+sex: male
+locations:
+- name: Taberah
+  ref: ../locations/taberah.yaml
+info:
+- note: Two of the chosen elders prophesied in the tent after the spirit rested on
+    them, Eldad and Medad. Joshua asked Moses to tell them to stop, but Moses was
+    not jealous for what God was doing.
+  ref: https://ref.ly/logosref/BibleESV.Nu11.26-30
