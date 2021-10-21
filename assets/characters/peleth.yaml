@@ -1,0 +1,8 @@
+name: Peleth
+created: 2021-10-20T08:21:01.338464-07:00
+updated: 2021-10-20T08:21:01.338464-07:00
+sex: male
+group: reuben
+children:
+- name: "On"
+  ref: on.yaml

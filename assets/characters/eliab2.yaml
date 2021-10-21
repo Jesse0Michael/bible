@@ -1,0 +1,10 @@
+name: Eliab
+created: 2021-10-20T08:21:01.337211-07:00
+updated: 2021-10-20T08:21:01.337211-07:00
+sex: male
+group: reuben
+children:
+- name: Dathan
+  ref: dathan.yaml
+- name: Abiram
+  ref: abiram.yaml

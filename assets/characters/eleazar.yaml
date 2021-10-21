@@ -1,6 +1,6 @@
 name: Eleazar
 created: 2021-06-17T08:30:11.204693-07:00
-updated: 2021-09-09T07:55:44.943413-07:00
+updated: 2021-10-20T08:39:24.071653-07:00
 sex: male
 locations:
 - name: Egypt
@@ -32,3 +32,7 @@ info:
 - note: Assigned guard duty over the ark, the table, the lampstand, the altars, the
     vessels, and the screen.
   ref: https://ref.ly/logosref/BibleESV.Nu3.31-32
+- note: The LORD told Eleazar to take the sensers consumed by Moses' offerting to
+    be collected for it has become holy, but to take the censers from those who rebelled
+    and hammer them into plates to display on the altar as a reminder
+  ref: https://ref.ly/logosref/BibleESV.Nu16.36-40
