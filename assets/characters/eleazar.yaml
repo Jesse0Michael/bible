@@ -1,10 +1,12 @@
 name: Eleazar
 created: 2021-06-17T08:30:11.204693-07:00
-updated: 2021-10-20T08:39:24.071653-07:00
+updated: 2021-10-25T07:52:48.028604-07:00
 sex: male
 locations:
 - name: Egypt
   ref: ../locations/egypt.yaml
+- name: Mount Hor
+  ref: ../locations/mount-hor.yaml
 parents:
 - name: Aaron
   ref: aaron.yaml
@@ -36,3 +38,7 @@ info:
     be collected for it has become holy, but to take the censers from those who rebelled
     and hammer them into plates to display on the altar as a reminder
   ref: https://ref.ly/logosref/BibleESV.Nu16.36-40
+- note: The LORD told Moses and Aaron and his son Eleazar up to Mount Hor because
+    it was time for Aaron to pass. On the mountain, Aaron's garments were passed onto
+    his son. All of Israel wept for 30 days.
+  ref: https://ref.ly/logosref/BibleESV.Nu20.22-29

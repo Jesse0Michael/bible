@@ -1,11 +1,17 @@
 name: Aaron
 created: 2021-06-15T08:24:13.665086-07:00
-updated: 2021-10-21T08:01:29.697622-07:00
+updated: 2021-10-25T07:52:48.022458-07:00
 sex: male
 group: Levite
 locations:
 - name: Egypt
   ref: ../locations/egypt.yaml
+- name: Kadesh
+  ref: ../locations/kadesh.yaml
+- name: Meribah
+  ref: ../locations/meribah.yaml
+- name: Mount Hor
+  ref: ../locations/mount-hor.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -208,3 +214,14 @@ info:
     and that Israel should not grumble. Aaron's staff was kept before the testimony
     as a sign for rebels.
   ref: https://ref.ly/logosref/BibleESV.Nu17.1-13
+- note: The people of Israel were grumbling in the wilderness because they had no
+    water. Moses and Aaron went to the LORD. The LORD told them to gather the congregation
+    and speak to the rock to produce water, but Moses gathered the congregation and
+    struck the rock, twice, with his staff. The rock still poored out water, but the
+    LORD was angry that Moses did not believe in him and told him that because of
+    this he ill not lead the assembly into the land that He had given them.
+  ref: https://ref.ly/logosref/BibleESV.Nu20.2-13
+- note: The LORD told Moses and Aaron and his son Eleazar up to Mount Hor because
+    it was time for Aaron to pass. On the mountain, Aaron's garments were passed onto
+    his son. All of Israel wept for 30 days.
+  ref: https://ref.ly/logosref/BibleESV.Nu20.22-29
