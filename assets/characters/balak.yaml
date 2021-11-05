@@ -1,0 +1,46 @@
+name: Balak
+created: 2021-10-27T07:34:37.472284-07:00
+updated: 2021-10-29T08:27:55.495214-07:00
+sex: male
+group: moab
+locations:
+- name: Bamoth-Baal
+  ref: ../locations/bamoth-baal.yaml
+- name: Peor
+  ref: ../locations/peor.yaml
+parents:
+- name: Zippor
+  ref: zippor.yaml
+associates:
+- name: Balaam
+  ref: balaam.yaml
+info:
+- note: The King of Moab at the time Israel wandered the wilderness. His kingdom was
+    very fearful of the Israelites because of what the LORD had done to the other
+    kings in the land.
+  ref: https://ref.ly/logosref/BibleESV.Nu22.1-3
+- note: Balak summoned Balaam to come curse Israel for him because he was afraid of
+    them. Balaam spoke with God who told him that he could not go, so Balaam sent
+    Balak's messangers away. Balak sent more messengers to Balaam and again he confided
+    in God, which God said that he could go with the men, but only do what he told
+    him.
+  ref: https://ref.ly/logosref/BibleESV.Nu22.4-21
+  commentary: It is most interesting to have a record of the LORD speaking with and
+    having a God Fearing relationship outside of Israel, his blessed people.
+- note: Balaam had Balak build 7 altars for 7 bulls and 7 rams. When they were sacrificed,
+    God gave Balaam the words to give to Balak. He said that he cannot curse what
+    the LORD has not cursed.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.1-12
+- note: Balak took Balaam to another location to try and curse a fraction of Israel.
+    They build 7 altars and sacrificed 7 bulls and 7 rams. The LORD met Balaam and
+    told him to tell Balak that the LORD will not lie or change his mind like man
+    and has commanded Balaam to bless, not curse, Israel and he will do so. Balak
+    asks Balaam to not bless Israel, but he responds that he must because it's what
+    the LORD asked of him.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.13-26
+- note: Balak takes Balaam to another location. They built 7 altars and sacrificed
+    7 bulls and 7 rams. Balaam  lifted his eyes and saw all of Israel camping tribe
+    by tribe. Balaam blesses the tents of Israel and praises the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.27-24.9
+  commentary: Balaam's blessing echoes the blessing God gave Abraham. 'Blessed are
+    those who bless you, and cursed are those who curse you.'

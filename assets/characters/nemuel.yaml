@@ -1,0 +1,8 @@
+name: Nemuel
+created: 2021-11-05T07:41:09.425168-07:00
+updated: 2021-11-05T07:41:09.425168-07:00
+sex: male
+group: reuben
+parents:
+- name: Eliab
+  ref: eliab2.yaml

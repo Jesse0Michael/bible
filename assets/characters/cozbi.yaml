@@ -1,13 +1,14 @@
-name: Phinehas
-created: 2021-06-17T08:33:03.415223-07:00
-updated: 2021-11-02T08:14:18.909462-07:00
-sex: male
-locations:
-- name: Egypt
-  ref: ../locations/egypt.yaml
+name: Cozbi
+created: 2021-11-02T08:11:44.707644-07:00
+updated: 2021-11-02T08:13:58.472872-07:00
+sex: female
+group: Midian
 parents:
-- name: Eleazar
-  ref: eleazar.yaml
+- name: Zur
+  ref: zur.yaml
+spouse:
+- name: Zimri
+  ref: zimri.yaml
 info:
 - note: |-
     The Israelites began to worship Baal of Peor while

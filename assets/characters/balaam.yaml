@@ -1,0 +1,60 @@
+name: Balaam
+created: 2021-10-27T07:37:32.417334-07:00
+updated: 2021-10-29T08:27:55.490255-07:00
+sex: male
+locations:
+- name: Pethor
+  ref: ../locations/pethor.yaml
+- name: Bamoth-Baal
+  ref: ../locations/bamoth-baal.yaml
+- name: Peor
+  ref: ../locations/peor.yaml
+parents:
+- name: Beor
+  ref: beor.yaml
+associates:
+- name: Balak
+  ref: balak.yaml
+info:
+- note: Balak summoned Balaam to come curse Israel for him because he was afraid of
+    them. Balaam spoke with God who told him that he could not go, so Balaam sent
+    Balak's messangers away. Balak sent more messengers to Balaam and again he confided
+    in God, which God said that he could go with the men, but only do what he told
+    him.
+  ref: https://ref.ly/logosref/BibleESV.Nu22.4-21
+  commentary: It is most interesting to have a record of the LORD speaking with and
+    having a God Fearing relationship outside of Israel, his blessed people.
+- note: The LORD was angry with Balaam for going with Balak's messengers and sent
+    an angel to stand in his way. Balaam's donkey say the angel of the LORD with its
+    sword drawn and turned and went in the field. Balaam struck the donkey and led
+    it back to the road. The angel of the LORD appeared again between the vineyards,
+    the donkey saw it and turned against the wall. Balaam pushed against the wall
+    and stuck the donkey. Then, again, the angel of the LORD appeared in a narrow
+    place and the donkey lied down. Balaam struck the donkey again. The LORD make
+    the donkey speak to Balaam to plea why he has struck her 3 times. Balaam spoke
+    with his donkey then the LORD opened his eyes to see the angel of the LORD with
+    its sword drawn. Balaam bowed to the angel who told him that he came out to oppose
+    Balaam because his ways are perverse. Balaam said that he has sinned for he did
+    not know that the angel of the LORD stood against him and that he would return
+    home. The angel told him to go with the men, but only speak what he will tell
+    them.
+  ref: https://ref.ly/logosref/BibleESV.Nu22.22-35
+  commentary: How bizarre and supernatural to have a record of a talking animal in
+    the Bible.
+- note: Balaam had Balak build 7 altars for 7 bulls and 7 rams. When they were sacrificed,
+    God gave Balaam the words to give to Balak. He said that he cannot curse what
+    the LORD has not cursed.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.1-12
+- note: Balak took Balaam to another location to try and curse a fraction of Israel.
+    They build 7 altars and sacrificed 7 bulls and 7 rams. The LORD met Balaam and
+    told him to tell Balak that the LORD will not lie or change his mind like man
+    and has commanded Balaam to bless, not curse, Israel and he will do so. Balak
+    asks Balaam to not bless Israel, but he responds that he must because it's what
+    the LORD asked of him.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.13-26
+- note: Balak takes Balaam to another location. They built 7 altars and sacrificed
+    7 bulls and 7 rams. Balaam  lifted his eyes and saw all of Israel camping tribe
+    by tribe. Balaam blesses the tents of Israel and praises the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Nu23.27-24.9
+  commentary: Balaam's blessing echoes the blessing God gave Abraham. 'Blessed are
+    those who bless you, and cursed are those who curse you.'

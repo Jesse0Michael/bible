@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-10-25T07:52:48.016123-07:00
+updated: 2021-11-05T09:00:42.053569-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -35,6 +35,10 @@ locations:
   ref: ../locations/meribah.yaml
 - name: Mount Hor
   ref: ../locations/mount-hor.yaml
+- name: Heshbon
+  ref: ../locations/heshbon.yaml
+- name: Abarim
+  ref: ../locations/abarim.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -555,3 +559,28 @@ info:
     it was time for Aaron to pass. On the mountain, Aaron's garments were passed onto
     his son. All of Israel wept for 30 days.
   ref: https://ref.ly/logosref/BibleESV.Nu20.22-29
+- note: Moses lead the people around Edom towards the red sea for they would not let
+    them through. The people of Israel grumbled again. The LORD sent firey serpants
+    to the people, many died. The LORD had Moses make a bronze serpent and set it
+    on a pole. anyone but by a serpent will look at the bronze serpent and live.
+  ref: https://ref.ly/logosref/BibleESV.Nu21.4-9
+- note: Moses led Israel through the wilderness to the land of the Amorites lead by
+    Sihon their king. He asked for safe passage through their land, and vowed to not
+    touch their vineyards or water. But Sihon met them in battle, and was defeated.
+  ref: https://ref.ly/logosref/BibleESV.Nu21.21-27
+- note: Moses spied out the land of Bashan, led by their king Og. Og came to Isreal
+    in battle but the LORD gave them over to Israel.
+  ref: https://ref.ly/logosref/BibleESV.Nu21.31-35
+- note: |-
+    The Israelites began to worship Baal of Peor while
+    near Moab. This angered the LORD and he begain to plague the people of israelites. Moses ordered the chiefs to kill anyone who has yoked themselves with Baal. A man, named Zimri, who brought a midianit woman, named Cozbi, into his family was brought before the tent of meeting and Phinehas piered the man and the woman with a spear, killing them both and ending the plague. The plague killed 24,000 Israelites.
+  ref: https://ref.ly/logosref/BibleESV.Nu25.1-18
+- note: 'The daughters of Zelophehad: Mahlah, Noah, Hoglah, Milcah, and Tirzah, went
+    to Moses and Eleazar and asked for their father''s inheritance among the land,
+    since he had no sons. The LORD gave them their fathers inheritances among their
+    father''s brothers.'
+  ref: https://ref.ly/logosref/BibleESV.Nu27.1-11
+- note: The LORD called Moses to mount Abarim to view the land he is going to give
+    to Israel. God appointed Joshua to lead Israel after Moses was gone. Joshua was
+    taken before Eleazar to be commissioned in fron of the entire congregation.
+  ref: https://ref.ly/logosref/BibleESV.Nu27.12-23

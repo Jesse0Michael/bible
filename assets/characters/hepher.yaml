@@ -1,0 +1,11 @@
+name: Hepher
+created: 2021-11-05T08:09:53.809588-07:00
+updated: 2021-11-05T08:09:53.809588-07:00
+sex: male
+group: manasseh
+parents:
+- name: Gilead
+  ref: gilead.yaml
+children:
+- name: Zelophehad
+  ref: zelophehad.yaml

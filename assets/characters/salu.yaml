@@ -1,0 +1,8 @@
+name: Salu
+created: 2021-11-02T08:09:56.034348-07:00
+updated: 2021-11-02T08:09:56.034348-07:00
+sex: male
+group: Simeon
+children:
+- name: Zimri
+  ref: zimri.yaml

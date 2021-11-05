@@ -1,0 +1,8 @@
+name: Zephon
+created: 2021-11-05T07:50:29.924456-07:00
+updated: 2021-11-05T07:50:29.924456-07:00
+sex: male
+group: Gad
+parents:
+- name: Gad
+  ref: gad.yaml

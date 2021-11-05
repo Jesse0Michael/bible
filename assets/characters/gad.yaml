@@ -17,12 +17,14 @@ children:
   ref: shuni.yaml
 - name: Ezbron
   ref: ezbron.yaml
-- name: Erri
-  ref: erri.yaml
+- name: Eri
+  ref: eri.yaml
 - name: Arodi
   ref: arodi.yaml
 - name: Areli
   ref: areli.yaml
+- name: Zephon
+  ref: zephon.yaml
 info:
 - note: Jacob said that raiders would raid Gad, but he would raid at their heels.
   ref: https://ref.ly/logosref/BibleESV.Ge49.19

@@ -1,0 +1,19 @@
+name: Zelophehad
+created: 2021-11-05T08:10:59.972835-07:00
+updated: 2021-11-05T08:10:59.972835-07:00
+sex: male
+group: manasseh
+parents:
+- name: Hepher
+  ref: hepher.yaml
+children:
+- name: Mahlah
+  ref: mahlah.yaml
+- name: Noah
+  ref: noah2.yaml
+- name: Hoglah
+  ref: hoglah.yaml
+- name: Milcah
+  ref: milcah2.yaml
+- name: Tirzah
+  ref: tirzah.yaml

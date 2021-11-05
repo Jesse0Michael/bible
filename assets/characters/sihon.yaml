@@ -1,0 +1,13 @@
+name: Sihon
+created: 2021-10-26T08:27:02.20429-07:00
+updated: 2021-10-26T08:31:20.622052-07:00
+sex: male
+group: Amorites
+locations:
+- name: Heshbon
+  ref: ../locations/heshbon.yaml
+info:
+- note: Moses led Israel through the wilderness to the land of the Amorites lead by
+    Sihon their king. He asked for safe passage through their land, and vowed to not
+    touch their vineyards or water. But Sihon met them in battle, and was defeated.
+  ref: https://ref.ly/logosref/BibleESV.Nu21.21-27

@@ -10,3 +10,8 @@ locations:
 parents:
 - name: Benjamin
   ref: benjamin.yaml
+children:
+- name: Ard
+  ref: ard.yaml
+- name: Naaman
+  ref: naaman.yaml

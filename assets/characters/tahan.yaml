@@ -1,0 +1,8 @@
+name: Tahan
+created: 2021-11-05T08:12:58.20414-07:00
+updated: 2021-11-05T08:12:58.20414-07:00
+sex: male
+group: Ephraim
+parents:
+- name: Ephraim
+  ref: ephraim.yaml

@@ -1,12 +1,8 @@
 name: Ard
-created: 2021-05-27T08:03:09.468772-07:00
-updated: 2021-05-27T08:17:59.548686-07:00
+created: 2021-11-05T08:21:39.895105-07:00
+updated: 2021-11-05T08:21:39.895105-07:00
 sex: male
-locations:
-- name: Egypt
-  ref: ../locations/egypt.yaml
-- name: Goshen
-  ref: ../locations/goshen.yaml
+group: benjamin
 parents:
-- name: Benjamin
-  ref: benjamin.yaml
+- name: Bela
+  ref: bela2.yaml

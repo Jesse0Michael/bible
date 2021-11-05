@@ -1,0 +1,11 @@
+name: Shuthelah
+created: 2021-11-05T08:12:58.195587-07:00
+updated: 2021-11-05T08:12:58.195587-07:00
+sex: male
+group: Ephraim
+parents:
+- name: Ephraim
+  ref: ephraim.yaml
+children:
+- name: Eran
+  ref: eran.yaml

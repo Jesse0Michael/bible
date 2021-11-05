@@ -1,0 +1,14 @@
+name: Hoglah
+created: 2021-11-05T08:11:43.892-07:00
+updated: 2021-11-05T08:42:11.09982-07:00
+sex: female
+group: manasseh
+parents:
+- name: Zelophehad
+  ref: zelophehad.yaml
+info:
+- note: 'The daughters of Zelophehad: Mahlah, Noah, Hoglah, Milcah, and Tirzah, went
+    to Moses and Eleazar and asked for their father''s inheritance among the land,
+    since he had no sons. The LORD gave them their fathers inheritances among their
+    father''s brothers.'
+  ref: https://ref.ly/logosref/BibleESV.Nu27.1-11

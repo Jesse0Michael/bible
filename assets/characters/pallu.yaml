@@ -10,3 +10,8 @@ locations:
 parents:
 - name: Reuben
   ref: reuben.yaml
+children:
+- name: Eliab
+  ref: eliab3.yaml
+- name: Eliab
+  ref: eliab2.yaml

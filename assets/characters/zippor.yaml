@@ -1,0 +1,8 @@
+name: Zippor
+created: 2021-10-27T07:31:58.208064-07:00
+updated: 2021-10-27T07:31:58.208064-07:00
+sex: male
+group: Moab
+children:
+- name: Balak
+  ref: balak.yaml

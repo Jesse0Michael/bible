@@ -20,8 +20,6 @@ children:
   ref: ashbel.yaml
 - name: Gera
   ref: gera.yaml
-- name: Naaman
-  ref: naaman.yaml
 - name: Ehi
   ref: ehi.yaml
 - name: Rosh
@@ -30,8 +28,10 @@ children:
   ref: muppim.yaml
 - name: Huppim
   ref: huppim.yaml
-- name: Ard
-  ref: ard.yaml
+- name: Ahiram
+  ref: ahiram.yaml
+- name: Shephupham
+  ref: shephupham.yaml
 info:
 - note: On the way back from Bethel, Rachel gave birth to Benjamin and then died and
     was burried in a tomb near Ephrath (Bethlehem).

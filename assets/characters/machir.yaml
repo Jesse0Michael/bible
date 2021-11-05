@@ -1,7 +1,11 @@
 name: Machir
 created: 2021-06-09T08:00:14.803764-07:00
-updated: 2021-06-09T08:00:14.803764-07:00
+updated: 2021-11-05T08:00:49.229869-07:00
 sex: male
+group: manasseh
 parents:
 - name: Manasseh
   ref: manasseh.yaml
+children:
+- name: Gilead
+  ref: gilead.yaml

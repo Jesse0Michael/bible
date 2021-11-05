@@ -1,0 +1,21 @@
+name: Gilead
+created: 2021-11-05T08:00:27.5314-07:00
+updated: 2021-11-05T08:00:27.5314-07:00
+sex: male
+group: manasseh
+parents:
+- name: Machir
+  ref: machir.yaml
+children:
+- name: Iezer
+  ref: iezer.yaml
+- name: Helek
+  ref: helek.yaml
+- name: Asriel
+  ref: asriel.yaml
+- name: Shechem
+  ref: shechem2.yaml
+- name: Shemida
+  ref: shemida.yaml
+- name: Hepher
+  ref: hepher.yaml

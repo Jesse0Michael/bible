@@ -1,0 +1,8 @@
+name: Ahiram
+created: 2021-11-05T08:19:50.440688-07:00
+updated: 2021-11-05T08:19:50.440688-07:00
+sex: male
+group: benjamin
+parents:
+- name: Benjamin
+  ref: benjamin.yaml

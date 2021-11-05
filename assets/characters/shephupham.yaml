@@ -1,0 +1,8 @@
+name: Shephupham
+created: 2021-11-05T08:20:23.594174-07:00
+updated: 2021-11-05T08:20:23.594174-07:00
+sex: male
+group: benjamin
+parents:
+- name: Benjamin
+  ref: benjamin.yaml

@@ -1,13 +1,14 @@
-name: Phinehas
-created: 2021-06-17T08:33:03.415223-07:00
-updated: 2021-11-02T08:14:18.909462-07:00
+name: Zimri
+created: 2021-11-02T08:10:15.477311-07:00
+updated: 2021-11-02T08:13:58.469169-07:00
 sex: male
-locations:
-- name: Egypt
-  ref: ../locations/egypt.yaml
+group: Simeon
 parents:
-- name: Eleazar
-  ref: eleazar.yaml
+- name: Salu
+  ref: salu.yaml
+spouse:
+- name: Cozbi
+  ref: cozbi.yaml
 info:
 - note: |-
     The Israelites began to worship Baal of Peor while
