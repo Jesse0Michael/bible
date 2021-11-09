@@ -1,11 +1,8 @@
-name: Zur
-created: 2021-11-02T08:11:05.036394-07:00
-updated: 2021-11-09T07:47:43.264777-07:00
+name: Evi
+created: 2021-11-09T07:46:22.284585-07:00
+updated: 2021-11-09T07:46:22.284585-07:00
 sex: male
-group: Midian
-children:
-- name: Cozbi
-  ref: cozbi.yaml
+group: Midianites
 info:
 - note: Midianite king who was killed along with all midianite males when Israel took
     their land west of the Jordan
