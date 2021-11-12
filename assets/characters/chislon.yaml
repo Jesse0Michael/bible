@@ -1,0 +1,8 @@
+name: Chislon
+created: 2021-11-12T08:00:23.810575-07:00
+updated: 2021-11-12T08:00:23.810575-07:00
+sex: male
+group: benjamin
+children:
+- name: Elidad
+  ref: elidad.yaml

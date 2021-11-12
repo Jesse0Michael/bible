@@ -1,0 +1,8 @@
+name: Bukki
+created: 2021-11-12T08:01:07.871085-07:00
+updated: 2021-11-12T08:01:07.871085-07:00
+sex: male
+group: dan
+parents:
+- name: Jogli
+  ref: jogli.yaml

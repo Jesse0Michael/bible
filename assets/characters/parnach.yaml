@@ -1,0 +1,8 @@
+name: Parnach
+created: 2021-11-12T08:03:29.997058-07:00
+updated: 2021-11-12T08:03:29.997058-07:00
+sex: male
+group: zebulun
+children:
+- name: Elizaphan
+  ref: elizaphan2.yaml

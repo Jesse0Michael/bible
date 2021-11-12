@@ -1,0 +1,8 @@
+name: Azzan
+created: 2021-11-12T08:04:00.627785-07:00
+updated: 2021-11-12T08:04:00.627785-07:00
+sex: male
+group: issachar
+children:
+- name: Paltiel
+  ref: paltiel.yaml

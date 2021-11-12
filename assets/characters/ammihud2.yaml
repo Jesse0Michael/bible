@@ -1,0 +1,8 @@
+name: Ammihud
+created: 2021-11-12T07:59:31.580945-07:00
+updated: 2021-11-12T07:59:31.580945-07:00
+sex: male
+group: simeon
+children:
+- name: Shemuel
+  ref: shemuel.yaml

@@ -1,0 +1,8 @@
+name: Shelomi
+created: 2021-11-12T08:05:11.533032-07:00
+updated: 2021-11-12T08:05:11.533032-07:00
+sex: male
+group: asher
+children:
+- name: Ahihud
+  ref: ahihud.yaml

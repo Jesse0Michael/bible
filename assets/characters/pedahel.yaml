@@ -1,0 +1,8 @@
+name: Pedahel
+created: 2021-11-12T08:06:53.879588-07:00
+updated: 2021-11-12T08:06:53.879588-07:00
+sex: male
+group: naphtali
+parents:
+- name: Ammihud
+  ref: ammihud3.yaml

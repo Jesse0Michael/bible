@@ -1,0 +1,8 @@
+name: Kemuel
+created: 2021-11-12T08:02:50.822415-07:00
+updated: 2021-11-12T08:02:50.822415-07:00
+sex: male
+group: ephraim
+parents:
+- name: Shiphtan
+  ref: shiphtan.yaml

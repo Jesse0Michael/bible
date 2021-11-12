@@ -1,0 +1,8 @@
+name: Hanniel
+created: 2021-11-12T08:02:01.573842-07:00
+updated: 2021-11-12T08:02:01.573842-07:00
+sex: male
+group: manasseh
+parents:
+- name: Ephod
+  ref: ephod.yaml

@@ -1,0 +1,8 @@
+name: Paltiel
+created: 2021-11-12T08:04:12.693424-07:00
+updated: 2021-11-12T08:04:12.693424-07:00
+sex: male
+group: issachar
+parents:
+- name: Azzan
+  ref: azzan.yaml

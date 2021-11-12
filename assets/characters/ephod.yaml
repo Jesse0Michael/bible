@@ -1,0 +1,8 @@
+name: Ephod
+created: 2021-11-12T08:01:52.535595-07:00
+updated: 2021-11-12T08:01:52.535595-07:00
+sex: male
+group: manasseh
+children:
+- name: Hanniel
+  ref: hanniel.yaml
