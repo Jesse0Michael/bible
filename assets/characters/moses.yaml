@@ -1,6 +1,6 @@
 name: Moses
 created: 2021-06-11T07:37:18.233525-07:00
-updated: 2021-11-10T08:08:47.651755-07:00
+updated: 2022-01-10T08:11:21.104962-07:00
 meaning: I drew him out of the water
 sex: male
 group: Levite
@@ -39,6 +39,8 @@ locations:
   ref: ../locations/heshbon.yaml
 - name: Abarim
   ref: ../locations/abarim.yaml
+- name: Mount Nebo
+  ref: ../locations/mount-nebo.yaml
 parents:
 - name: Amram
   ref: amram.yaml
@@ -609,3 +611,45 @@ info:
     they are to destry af their stone and metal idols and drive out all inhabitants.
     If they do not they will be like barbs in their eyes and thorns in their sides.
   ref: https://ref.ly/logosref/BibleESV.Nu33.50-56
+- note: Moses speaks to the peopls of Israel. Warning them to remember their faith
+    and their history and to teach it to their children. Warning them to not make
+    idols in the form of any man, or creature, or host of heavens, for the LORD spoke
+    to them as a voice, not a being.
+  ref: https://ref.ly/logosref/BibleESV.Dt4.15-19
+- note: Moses tells Israel that he will not be allowed to journey over the Jordan
+    into the land that is promised to them.
+  ref: https://ref.ly/logosref/BibleESV.Dt4.21-24
+- note: When Moses finished telling the law, he commanded Israel that, on they day
+    they cross the Jordan, to plaster stones to write the law on, and place them on
+    an altar that they will build at Mount Ebal.
+  ref: https://ref.ly/logosref/BibleESV.Dt27.1-8
+- note: 'Moses told the people that if they obey the commanments and statutes of the
+    LORD that they would be bless above all nations, but if they fail to obey they
+    will be terribly and  horrifically cursed. '
+  ref: https://ref.ly/logosref/BibleESV.Dt28.58-63
+- note: Moses gathered the people of Israel at Moab to renew their covenant with the
+    LORD. He reminded them of what God rescued them from, and how God has taken care
+    of them. That their clothes and sandals have not worn, and they have had food
+    and water in the wilderness for 40 years. And warned them of the Calamity that
+    would happen if their is any who would turn from God and worship the idols of
+    the other nations instead.
+  ref: https://ref.ly/logosref/BibleESV.Dt29.1-15
+- note: Moses informed Israel that he will not be crossing the Jordan with them and
+    that the LORD has chosen Joshua to lead them.
+  ref: https://ref.ly/logosref/BibleESV.Dt31.1-8
+- note: The LORD appeared as a pillar of cloud in the tent of meeting to commission
+    Joshua. The LORD warned Moses and Joshua that the people of Israel will choose
+    to follow other gods and He will turn his face from them. He instructed them to
+    write down and teach the people of Israel a song to remind them of their covenant.Then
+    the LORD commissioned Joshua, commanding him to be strong and courageous for He
+    is with him.
+  ref: https://ref.ly/logosref/BibleESV.Dt31.14-23
+- note: Moses spoke his song to the people of Israel and then the LORD commanded him
+    to go to Mount Nebo to view the promised land that he will not be allowed to enter
+    and he will die there.
+  ref: https://ref.ly/logosref/BibleESV.Dt32.48-52
+- note: Moses went up Mount Nebo, saw the land the LORD was going to give to Israel,
+    and died and was buried.
+  ref: https://ref.ly/logosref/BibleESV.Dt34.1-6
+- note: Lived to be 120 years old.
+  ref: https://ref.ly/logosref/BibleESV.Dt34.7
