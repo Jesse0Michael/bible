@@ -1,0 +1,25 @@
+name: Achan
+created: 2022-08-16T07:45:16.264959-07:00
+updated: 2022-08-16T07:56:48.573439-07:00
+sex: male
+locations:
+- name: Jericho
+  ref: ../locations/jericho.yaml
+- name: Valley Of Achor
+  ref: ../locations/valley-of-achor.yaml
+parents:
+- name: Carmi
+  ref: carmi2.yaml
+info:
+- note: After Israel defeated Jericho, Achan plundered some belongings even though
+    the Israelites were told not to.
+  ref: https://ref.ly/logosref/BibleESV.Jos7.1
+- note: Joshua pleas with God for answers of why they were defeated at Ai. God tells
+    him it was because of Israel's sin in taking the devoted things from Jericho when
+    told not to. Which was done secretly by Achan
+  ref: https://ref.ly/logosref/BibleESV.Jos7.10-15
+  commentary: The devoted things could have been idols, not just treasure or riches
+- note: Joshua investigated all of the clans for the hidden plunder from Jericho and
+    confronted Achan, who admitted to his sin. They laid the plunder before the LORD.
+    All of Israel stoned Achan and burned them and their belongings with fire.
+  ref: https://ref.ly/logosref/BibleESV.Jos7.16-26

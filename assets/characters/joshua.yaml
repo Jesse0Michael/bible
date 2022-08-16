@@ -1,6 +1,6 @@
 name: Joshua
 created: 2021-07-07T07:57:34.312728-07:00
-updated: 2022-01-06T08:59:29.517903-07:00
+updated: 2022-08-16T07:56:48.571173-07:00
 alias: Hoshea
 sex: male
 locations:
@@ -10,6 +10,10 @@ locations:
   ref: ../locations/taberah.yaml
 - name: Paran
   ref: ../locations/paran.yaml
+- name: Jericho
+  ref: ../locations/jericho.yaml
+- name: Valley Of Achor
+  ref: ../locations/valley-of-achor.yaml
 parents:
 - name: Nun
   ref: nun.yaml
@@ -65,3 +69,45 @@ info:
     the LORD commissioned Joshua, commanding him to be strong and courageous for He
     is with him.
   ref: https://ref.ly/logosref/BibleESV.Dt31.14-23
+- note: The LORD put Joshua in charge after Moses passed and commanded the people
+    of Israel to prepare to cross the Jordan.
+  ref: https://ref.ly/logosref/BibleESV.Jos1.10-11
+- note: Joshua sent two spies into Jericho who hid in the home of the prositute, Rahab.
+  ref: https://ref.ly/logosref/BibleESV.Jos2.1-7
+- note: Joshua commanded the people of Israel to cross the Jordan, lead by the arc
+    of the covenant
+  ref: https://ref.ly/logosref/BibleESV.Jos3.17
+- note: The LORD commanded Joshua to take on man from each of the twelve tribes and
+    gather twelve stones from the bottom of the waterless Jordan to keep as a memorial
+    to what God did for them.
+  ref: https://ref.ly/logosref/BibleESV.Jos4.4-7
+- note: After crossing the Jordan, The LORD commanded Joshua to have all of the males
+    take flint knives and be circumcised.
+  ref: https://ref.ly/logosref/BibleESV.Jos5.2-7
+  commentary: This was to re-establish the covenant that God had with his people given
+    to them from the time of Moses.
+- note: While in the plains of Jericho an angel of the LORD came to greet Joshua.
+    Joshua asked if he is for them or against them, to which the angel responded neither.
+  ref: https://ref.ly/logosref/BibleESV.Jos5.13-15
+  commentary: The angel implies that his is for the LORD, not for Israel, meaning
+    the two are not one in the same.
+- note: For 6 days, as God commanded, Joshua led the people of Israel, all the men
+    of war, 7 priests with 7 trumpets, and the ark of the covenant around the city
+    of Jericho one time. On the seventh day they marched around the city 7 times,
+    and then shouted, for the LORD had delivered the city of Jericho to them. The
+    walls of Jericho fell down flat and the city was captured, sparing only Rahab
+    and her family.
+  ref: https://ref.ly/logosref/BibleESV.Jos6.8-25
+- note: Joshua sent spies to the land of Ai who told him that they are few and only
+    a few thousand would be required to defeat them. But, when Joshua sent his 3000
+    men, they were all defeated and chased off.
+  ref: https://ref.ly/logosref/BibleESV.Jos7.2-5
+- note: Joshua pleas with God for answers of why they were defeated at Ai. God tells
+    him it was because of Israel's sin in taking the devoted things from Jericho when
+    told not to. Which was done secretly by Achan
+  ref: https://ref.ly/logosref/BibleESV.Jos7.10-15
+  commentary: The devoted things could have been idols, not just treasure or riches
+- note: Joshua investigated all of the clans for the hidden plunder from Jericho and
+    confronted Achan, who admitted to his sin. They laid the plunder before the LORD.
+    All of Israel stoned Achan and burned them and their belongings with fire.
+  ref: https://ref.ly/logosref/BibleESV.Jos7.16-26

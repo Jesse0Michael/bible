@@ -1,0 +1,22 @@
+name: Rahab
+created: 2022-08-03T08:28:15.499719-07:00
+updated: 2022-08-10T07:30:58.988993-07:00
+sex: female
+locations:
+- name: Jericho
+  ref: ../locations/jericho.yaml
+info:
+- note: Joshua sent two spies into Jericho who hid in the home of the prositute, Rahab.
+  ref: https://ref.ly/logosref/BibleESV.Jos2.1-7
+- note: Rahab proclaimed that she knew the LORD has given the land to Israel and asked
+    for saftey for her and her family when they take it. A scarlet cord in the window
+    was to be the sign to leave that household unharmed. Then she helped the spies
+    escape Jericho to return to the Israelites
+  ref: https://ref.ly/logosref/BibleESV.Jos2.8-21
+- note: For 6 days, as God commanded, Joshua led the people of Israel, all the men
+    of war, 7 priests with 7 trumpets, and the ark of the covenant around the city
+    of Jericho one time. On the seventh day they marched around the city 7 times,
+    and then shouted, for the LORD had delivered the city of Jericho to them. The
+    walls of Jericho fell down flat and the city was captured, sparing only Rahab
+    and her family.
+  ref: https://ref.ly/logosref/BibleESV.Jos6.8-25

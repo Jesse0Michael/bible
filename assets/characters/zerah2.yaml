@@ -10,6 +10,9 @@ parents:
   ref: tamar.yaml
 - name: Judah
   ref: judah.yaml
+children:
+- name: Zabdi
+  ref: zabdi.yaml
 info:
 - note: Tamar gave birth to twins. Zerah was coming out first, but instead Perez made
     his way out first.

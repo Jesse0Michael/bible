@@ -1,0 +1,10 @@
+name: Zabdi
+created: 2022-08-16T07:43:18.993298-07:00
+updated: 2022-08-16T07:43:18.993298-07:00
+sex: male
+parents:
+- name: Zerah
+  ref: zerah2.yaml
+children:
+- name: Carmi
+  ref: carmi2.yaml

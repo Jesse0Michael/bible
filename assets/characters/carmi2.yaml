@@ -1,0 +1,10 @@
+name: Carmi
+created: 2022-08-16T07:43:32.343135-07:00
+updated: 2022-08-16T07:43:32.343135-07:00
+sex: male
+parents:
+- name: Zabdi
+  ref: zabdi.yaml
+children:
+- name: Achan
+  ref: achan.yaml
