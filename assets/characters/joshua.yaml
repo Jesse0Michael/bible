@@ -1,6 +1,6 @@
 name: Joshua
 created: 2021-07-07T07:57:34.312728-07:00
-updated: 2022-08-16T07:56:48.571173-07:00
+updated: 2022-08-26T10:20:34.498158-07:00
 alias: Hoshea
 sex: male
 locations:
@@ -14,6 +14,22 @@ locations:
   ref: ../locations/jericho.yaml
 - name: Valley Of Achor
   ref: ../locations/valley-of-achor.yaml
+- name: Ai
+  ref: ../locations/ai.yaml
+- name: Mount Ebal
+  ref: ../locations/mount-ebal.yaml
+- name: Makkedah
+  ref: ../locations/makkedah.yaml
+- name: Libnah
+  ref: ../locations/libnah.yaml
+- name: Lachish
+  ref: ../locations/lachish.yaml
+- name: Eglon
+  ref: ../locations/eglon.yaml
+- name: Hebron
+  ref: ../locations/hebron.yaml
+- name: Debir
+  ref: ../locations/debir.yaml
 parents:
 - name: Nun
   ref: nun.yaml
@@ -111,3 +127,51 @@ info:
     confronted Achan, who admitted to his sin. They laid the plunder before the LORD.
     All of Israel stoned Achan and burned them and their belongings with fire.
   ref: https://ref.ly/logosref/BibleESV.Jos7.16-26
+- note: With the sin of Achan dealt with, God told Joshua that they will prevail over
+    Ai. Joshua took 30000 men to place an ambush between Bethel and Ai.
+  ref: https://ref.ly/logosref/BibleESV.Jos8.1-9
+- note: Israel aproached the city of Ai and feigned defeat to make the prople of Ai
+    pursue them and fall into their ambush. God gave Ai's defeat to the Israelites
+    and the city was burned.
+  ref: https://ref.ly/logosref/BibleESV.Jos8.10-22
+- note: Israel had finished killing all of the people of Ai that fled into the wilderness
+    and hung the king of Ai.
+  ref: https://ref.ly/logosref/BibleESV.Jos8.23-29
+- note: As Moses had commanded, Joshua built an alter to the LORD after the victories
+    of Jericho and Ai at Mount Ebal
+  ref: https://ref.ly/logosref/BibleESV.Jos8.30-35
+- note: In fear of the Israelites, the Gibeonites deviced a plan to wear torn clothes
+    with lacking, dry provisions to trick Joshua. They told Joshua that they came
+    from a distant land and asked for a covenant with them and be Israel's servants.
+    Joshua made a peace covenant with them, not consulting the LORD.
+  ref: https://ref.ly/logosref/BibleESV.Jos9.3-15
+  commentary: Israel was supposed to destroy all nations in the land, because Joshua
+    did not consult the LORD, Israel will pay the price for going against God's will
+- note: Five kings gathered their forces against the Gibeon for making peace with
+    Israel. The Gibeonites begged Joshua to save them. Joshua marched all night to
+    Gilgal. The LORD threw the attacking armies into a panic as Israel chased them
+    off. The LORD threw large stones from heaven at the fleeing men.
+  ref: https://ref.ly/logosref/BibleESV.Jos10.1-11
+  commentary: This victory was the LORDs, not Israels
+- note: In the battle against the five armies against Gibeon, Joshua asked the LORD
+    to stop the sun from moving so they would have more time to defeat the other armies,
+    and God listened
+  ref: https://ref.ly/logosref/BibleESV.Jos10.12-14
+  commentary: For the LORD fought the battle for Israel
+- note: |-
+    The five kings that attacked the Gibeonites wer
+     chased of and hid in a cave at Makkedah. Joshua rolled a stone over the cave while Israel defeated the rest of the enemie
+    . Afterwhich, Joshua summoned the five kings and executed them all. He then hung the kings bodies on five trees until evening.
+  ref: https://ref.ly/logosref/BibleESV.Jos10.16-27
+- note: After Makkedah, Joshua brought his conquest through Libnah
+  ref: https://ref.ly/logosref/BibleESV.Jos10.29-30
+- note: After Libnah, Joshua brought his conquest through Lachish
+  ref: https://ref.ly/logosref/BibleESV.Jos10.31-32
+- note: Horam, King of Gezer, came to defend Lachish, but was struck down by Joshua
+  ref: https://ref.ly/logosref/BibleESV.Jos10.33
+- note: After Lachish, Joshua brought his conquest through Eglon
+  ref: https://ref.ly/logosref/BibleESV.Jos10.34-35
+- note: After Eglon, Joshua brought his conquest through Hebron
+  ref: https://ref.ly/logosref/BibleESV.Jos10.36-37
+- note: After Hebron, Joshua brought his conquest through Debir
+  ref: https://ref.ly/logosref/BibleESV.Jos10.38-39

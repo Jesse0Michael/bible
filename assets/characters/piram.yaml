@@ -1,0 +1,21 @@
+name: Piram
+created: 2022-08-25T08:03:49.598449-07:00
+updated: 2022-08-25T09:00:18.494231-07:00
+sex: male
+locations:
+- name: Makkedah
+  ref: ../locations/makkedah.yaml
+info:
+- note: King of Jarmuth
+  ref: https://ref.ly/logosref/BibleESV.Jos10.3
+- note: Five kings gathered their forces against the Gibeon for making peace with
+    Israel. The Gibeonites begged Joshua to save them. Joshua marched all night to
+    Gilgal. The LORD threw the attacking armies into a panic as Israel chased them
+    off. The LORD threw large stones from heaven at the fleeing men.
+  ref: https://ref.ly/logosref/BibleESV.Jos10.1-11
+  commentary: This victory was the LORDs, not Israels
+- note: |-
+    The five kings that attacked the Gibeonites wer
+     chased of and hid in a cave at Makkedah. Joshua rolled a stone over the cave while Israel defeated the rest of the enemie
+    . Afterwhich, Joshua summoned the five kings and executed them all. He then hung the kings bodies on five trees until evening.
+  ref: https://ref.ly/logosref/BibleESV.Jos10.16-27

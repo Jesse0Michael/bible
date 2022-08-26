@@ -1,0 +1,11 @@
+name: Horam
+created: 2022-08-26T09:49:49.269996-07:00
+updated: 2022-08-26T09:49:49.269996-07:00
+sex: male
+group: gezer
+locations:
+- name: Lachish
+  ref: ../locations/lachish.yaml
+info:
+- note: Horam, King of Gezer, came to defend Lachish, but was struck down by Joshua
+  ref: https://ref.ly/logosref/BibleESV.Jos10.33
