@@ -1,0 +1,11 @@
+name: Othniel
+created: 2022-09-09T07:41:27.424365-07:00
+updated: 2022-09-09T07:43:36.533227-07:00
+sex: male
+parents:
+- name: Kenaz
+  ref: kenaz2.yaml
+info:
+- note: Caleb offered his daughter, Achsah, as wife to the person who captures Debir.
+    Othniel captured it
+  ref: https://ref.ly/logosref/BibleESV.Jos15.15-17

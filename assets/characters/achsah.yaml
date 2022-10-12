@@ -1,0 +1,14 @@
+name: Achsah
+created: 2022-09-09T07:39:25.423994-07:00
+updated: 2022-09-09T07:43:36.535085-07:00
+sex: female
+locations:
+- name: Hebron
+  ref: ../locations/hebron.yaml
+parents:
+- name: Caleb
+  ref: caleb.yaml
+info:
+- note: Caleb offered his daughter, Achsah, as wife to the person who captures Debir.
+    Othniel captured it
+  ref: https://ref.ly/logosref/BibleESV.Jos15.15-17

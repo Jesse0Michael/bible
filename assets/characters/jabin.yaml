@@ -1,0 +1,15 @@
+name: Jabin
+created: 2022-08-29T08:30:22.823554-07:00
+updated: 2022-08-29T08:33:52.082551-07:00
+sex: male
+locations:
+- name: Merom
+  ref: ../locations/merom.yaml
+info:
+- note: ' Jabin, King of Hazor, gathered together Jobab, king of Madon, and the other
+    kings of the lang to join the forces of the Amorites, Hittites, Perizzites, Jebusites,
+    and the Hivites to fight against Israel.'
+  ref: https://ref.ly/logosref/BibleESV.Jos11.1-5
+- note: The LORD had Joushua meet their enemies camped at the waters of Merom. God
+    used Israels army to drive back all five armies and destroyed them all
+  ref: https://ref.ly/logosref/BibleESV.Jos11.6-9

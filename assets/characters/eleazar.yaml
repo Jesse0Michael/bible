@@ -1,12 +1,14 @@
 name: Eleazar
 created: 2021-06-17T08:30:11.204693-07:00
-updated: 2021-11-10T07:39:15.597641-07:00
+updated: 2022-09-29T07:59:17.324247-07:00
 sex: male
 locations:
 - name: Egypt
   ref: ../locations/egypt.yaml
 - name: Mount Hor
   ref: ../locations/mount-hor.yaml
+- name: Gibeah
+  ref: ../locations/gibeah.yaml
 parents:
 - name: Aaron
   ref: aaron.yaml
@@ -64,3 +66,5 @@ info:
     fight for their land until all have recieved their inheritance. Half of the tribe
     of Manasseh also settled on the east of the Jordan.
   ref: https://ref.ly/logosref/BibleESV.Nu32.1-42
+- note: buried at Gibeah
+  ref: https://ref.ly/logosref/BibleESV.Jos24.33

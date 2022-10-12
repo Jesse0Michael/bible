@@ -6,3 +6,5 @@ group: judah
 children:
 - name: Caleb
   ref: caleb.yaml
+- name: Kenaz
+  ref: kenaz2.yaml

@@ -1,14 +1,19 @@
 name: Caleb
 created: 2021-10-13T08:05:30.181117-07:00
-updated: 2021-10-18T08:01:09.24342-07:00
+updated: 2022-09-09T07:43:36.531042-07:00
 sex: male
 group: judah
 locations:
 - name: Paran
   ref: ../locations/paran.yaml
+- name: Hebron
+  ref: ../locations/hebron.yaml
 parents:
 - name: Jephunneh
   ref: jephunneh.yaml
+children:
+- name: Achsah
+  ref: achsah.yaml
 info:
 - note: The LORD had Moses send spies into the land of Canaan, one from each tribe.
   ref: https://ref.ly/logosref/BibleESV.Nu13.1-15
@@ -32,3 +37,11 @@ info:
 - note: The LORD killed every spy, who brough back a bad report, with plague, except
     for Joshua and Caleb.
   ref: https://ref.ly/logosref/BibleESV.Nu14.36-38
+- note: After conquest, Caleb went to Joshua to ask fot the inheritance that God promised
+    him. Joshua gave Caleb the land of Hebron.
+  ref: https://ref.ly/logosref/BibleESV.Jos14.6-15
+- note: Caleb drove out the sons of Anak, Sheshai, Ahiman, and Talmai, from Hebron.
+  ref: https://ref.ly/logosref/BibleESV.Jos15.13-14
+- note: Caleb offered his daughter, Achsah, as wife to the person who captures Debir.
+    Othniel captured it
+  ref: https://ref.ly/logosref/BibleESV.Jos15.15-17
